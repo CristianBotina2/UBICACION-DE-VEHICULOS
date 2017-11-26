@@ -1,0 +1,1827 @@
+Archive member included because of file (symbol)
+
+/home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubdf3.o)
+                              /tmp/cc2EiM5l.ltrans0.ltrans.o (__aeabi_dsub)
+/home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_muldivdf3.o)
+                              /tmp/cc2EiM5l.ltrans0.ltrans.o (__aeabi_dmul)
+/home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_fixdfsi.o)
+                              /tmp/cc2EiM5l.ltrans0.ltrans.o (__aeabi_d2iz)
+/home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_truncdfsf2.o)
+                              /tmp/cc2EiM5l.ltrans0.ltrans.o (__aeabi_d2f)
+/home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubsf3.o)
+                              /tmp/cc2EiM5l.ltrans0.ltrans.o (__aeabi_ui2f)
+/home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_muldivsf3.o)
+                              /tmp/cc2EiM5l.ltrans0.ltrans.o (__aeabi_fmul)
+/home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_cmpsf2.o)
+                              /tmp/cc2EiM5l.ltrans0.ltrans.o (__aeabi_fcmplt)
+/home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_fixsfsi.o)
+                              /tmp/cc2EiM5l.ltrans0.ltrans.o (__aeabi_f2iz)
+/home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+                              /tmp/cc2EiM5l.ltrans1.ltrans.o (memset)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 build/obj/crt0_v7m.o
+ .bss           0x00000000        0x0 build/obj/crt0_v7m.o
+ .data          0x00000000        0x0 build/obj/chcoreasm_v7m.o
+ .bss           0x00000000        0x0 build/obj/chcoreasm_v7m.o
+ .text          0x00000000        0x0 build/obj/crt1.o (symbol from plugin)
+ .text          0x00000000        0x0 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .data          0x00000000        0x0 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .bss           0x00000000        0x0 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .text          0x00000000        0x0 /tmp/cc2EiM5l.ltrans1.ltrans.o
+ .data          0x00000000        0x0 /tmp/cc2EiM5l.ltrans1.ltrans.o
+ .bss           0x00000000        0x0 /tmp/cc2EiM5l.ltrans1.ltrans.o
+ .data          0x00000000        0x0 /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_fixdfsi.o)
+ .bss           0x00000000        0x0 /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_fixdfsi.o)
+ .data          0x00000000        0x0 /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x00000000        0x0 /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_truncdfsf2.o)
+ .data          0x00000000        0x0 /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubsf3.o)
+ .bss           0x00000000        0x0 /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubsf3.o)
+ .data          0x00000000        0x0 /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_muldivsf3.o)
+ .bss           0x00000000        0x0 /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_muldivsf3.o)
+ .data          0x00000000        0x0 /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_cmpsf2.o)
+ .bss           0x00000000        0x0 /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_cmpsf2.o)
+ .data          0x00000000        0x0 /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_fixsfsi.o)
+ .bss           0x00000000        0x0 /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_fixsfsi.o)
+ .data          0x00000000        0x0 /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 build/obj/vectors.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chsys.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chdebug.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chtrace.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chvt.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chschd.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chthreads.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chtm.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chregistry.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chsem.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chmtx.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chcond.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chevents.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chmsg.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chdynamic.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chmboxes.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chmemcore.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chheap.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chmempools.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chcore.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chcore_v7m.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/osal.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_st.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_buffers.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_queues.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_mmcsd.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_gpt.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_icu.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_pal.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_serial.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/nvic.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/stm32_dma.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_pal_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_st_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_gpt_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_icu_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_serial_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/board.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/ch_test.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/test_root.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/test_sequence_001.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/test_sequence_002.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/test_sequence_003.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/test_sequence_004.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/test_sequence_005.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/test_sequence_006.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/test_sequence_007.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/test_sequence_008.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/test_sequence_009.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/test_sequence_010.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/test_sequence_011.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/test_sequence_012.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/test_sequence_013.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/memstreams.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chprintf.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/main.o (symbol from plugin)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash0           0x08000000         0x00020000
+flash1           0x00000000         0x00000000
+flash2           0x00000000         0x00000000
+flash3           0x00000000         0x00000000
+flash4           0x00000000         0x00000000
+flash5           0x00000000         0x00000000
+flash6           0x00000000         0x00000000
+flash7           0x00000000         0x00000000
+ram0             0x20000000         0x00002000
+ram1             0x00000000         0x00000000
+ram2             0x00000000         0x00000000
+ram3             0x00000000         0x00000000
+ram4             0x00000000         0x00000000
+ram5             0x00000000         0x00000000
+ram6             0x00000000         0x00000000
+ram7             0x00000000         0x00000000
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/obj/crt0_v7m.o
+LOAD build/obj/chcoreasm_v7m.o
+LOAD build/obj/crt1.o
+LOAD /tmp/cc2EiM5l.ltrans0.ltrans.o
+LOAD /tmp/cc2EiM5l.ltrans1.ltrans.o
+LOAD /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a
+LOAD /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/../../../../arm-none-eabi/lib/thumb2/libc.a
+LOAD build/obj/vectors.o
+LOAD build/obj/chsys.o
+LOAD build/obj/chdebug.o
+LOAD build/obj/chtrace.o
+LOAD build/obj/chvt.o
+LOAD build/obj/chschd.o
+LOAD build/obj/chthreads.o
+LOAD build/obj/chtm.o
+LOAD build/obj/chregistry.o
+LOAD build/obj/chsem.o
+LOAD build/obj/chmtx.o
+LOAD build/obj/chcond.o
+LOAD build/obj/chevents.o
+LOAD build/obj/chmsg.o
+LOAD build/obj/chdynamic.o
+LOAD build/obj/chmboxes.o
+LOAD build/obj/chmemcore.o
+LOAD build/obj/chheap.o
+LOAD build/obj/chmempools.o
+LOAD build/obj/chcore.o
+LOAD build/obj/chcore_v7m.o
+LOAD build/obj/osal.o
+LOAD build/obj/hal.o
+LOAD build/obj/hal_st.o
+LOAD build/obj/hal_buffers.o
+LOAD build/obj/hal_queues.o
+LOAD build/obj/hal_mmcsd.o
+LOAD build/obj/hal_gpt.o
+LOAD build/obj/hal_icu.o
+LOAD build/obj/hal_pal.o
+LOAD build/obj/hal_serial.o
+LOAD build/obj/nvic.o
+LOAD build/obj/hal_lld.o
+LOAD build/obj/stm32_dma.o
+LOAD build/obj/hal_pal_lld.o
+LOAD build/obj/hal_st_lld.o
+LOAD build/obj/hal_gpt_lld.o
+LOAD build/obj/hal_icu_lld.o
+LOAD build/obj/hal_serial_lld.o
+LOAD build/obj/board.o
+LOAD build/obj/ch_test.o
+LOAD build/obj/test_root.o
+LOAD build/obj/test_sequence_001.o
+LOAD build/obj/test_sequence_002.o
+LOAD build/obj/test_sequence_003.o
+LOAD build/obj/test_sequence_004.o
+LOAD build/obj/test_sequence_005.o
+LOAD build/obj/test_sequence_006.o
+LOAD build/obj/test_sequence_007.o
+LOAD build/obj/test_sequence_008.o
+LOAD build/obj/test_sequence_009.o
+LOAD build/obj/test_sequence_010.o
+LOAD build/obj/test_sequence_011.o
+LOAD build/obj/test_sequence_012.o
+LOAD build/obj/test_sequence_013.o
+LOAD build/obj/memstreams.o
+LOAD build/obj/chprintf.o
+LOAD build/obj/main.o
+
+.mstack         0x20000000      0x400
+                0x20000000                . = ALIGN (0x8)
+                0x20000000                __main_stack_base__ = .
+                0x20000400                . = (. + __main_stack_size__)
+ *fill*         0x20000000      0x400 
+                0x20000400                . = ALIGN (0x8)
+                0x20000400                __main_stack_end__ = .
+
+.pstack         0x20000400      0x400
+                0x20000400                __process_stack_base__ = .
+                0x20000400                __main_thread_stack_base__ = .
+                0x20000800                . = (. + __process_stack_size__)
+ *fill*         0x20000400      0x400 
+                0x20000800                . = ALIGN (0x8)
+                0x20000800                __process_stack_end__ = .
+                0x20000800                __main_thread_stack_end__ = .
+
+.vectors        0x08000000      0x180
+ *(.vectors)
+ .vectors       0x08000000      0x180 /tmp/cc2EiM5l.ltrans0.ltrans.o
+                0x08000000                _vectors
+
+.xtors          0x08000180        0x0
+                0x08000180                __init_array_start = .
+ *(SORT(.init_array.*))
+ *(.init_array)
+                0x08000180                __init_array_end = .
+                0x08000180                __fini_array_start = .
+ *(.fini_array)
+ *(SORT(.fini_array.*))
+                0x08000180                __fini_array_end = .
+
+.text           0x08000180     0x2cb0
+ *(.text)
+ .text          0x08000180       0xd4 build/obj/crt0_v7m.o
+                0x08000180                Reset_Handler
+ .text          0x08000254       0x28 build/obj/chcoreasm_v7m.o
+                0x08000254                _port_switch
+                0x08000264                _port_thread_start
+                0x08000274                _port_switch_from_isr
+                0x08000278                _port_exit_from_isr
+ .text          0x0800027c      0x370 /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubdf3.o)
+                0x0800027c                __aeabi_drsub
+                0x08000284                __aeabi_dsub
+                0x08000284                __subdf3
+                0x08000288                __adddf3
+                0x08000288                __aeabi_dadd
+                0x08000500                __aeabi_ui2d
+                0x08000500                __floatunsidf
+                0x08000520                __floatsidf
+                0x08000520                __aeabi_i2d
+                0x08000544                __extendsfdf2
+                0x08000544                __aeabi_f2d
+                0x08000580                __aeabi_ul2d
+                0x08000580                __floatundidf
+                0x08000590                __floatdidf
+                0x08000590                __aeabi_l2d
+ .text          0x080005ec      0x424 /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_muldivdf3.o)
+                0x080005ec                __aeabi_dmul
+                0x080005ec                __muldf3
+                0x08000840                __aeabi_ddiv
+                0x08000840                __divdf3
+ .text          0x08000a10       0x50 /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_fixdfsi.o)
+                0x08000a10                __fixdfsi
+                0x08000a10                __aeabi_d2iz
+ .text          0x08000a60       0xa0 /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_truncdfsf2.o)
+                0x08000a60                __aeabi_d2f
+                0x08000a60                __truncdfsf2
+ .text          0x08000b00      0x21c /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubsf3.o)
+                0x08000b00                __aeabi_frsub
+                0x08000b08                __subsf3
+                0x08000b08                __aeabi_fsub
+                0x08000b0c                __aeabi_fadd
+                0x08000b0c                __addsf3
+                0x08000c6c                __aeabi_ui2f
+                0x08000c6c                __floatunsisf
+                0x08000c74                __aeabi_i2f
+                0x08000c74                __floatsisf
+                0x08000c90                __floatundisf
+                0x08000c90                __aeabi_ul2f
+                0x08000ca0                __floatdisf
+                0x08000ca0                __aeabi_l2f
+ .text          0x08000d1c      0x2a0 /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_muldivsf3.o)
+                0x08000d1c                __mulsf3
+                0x08000d1c                __aeabi_fmul
+                0x08000e84                __divsf3
+                0x08000e84                __aeabi_fdiv
+ .text          0x08000fbc       0xec /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_cmpsf2.o)
+                0x08000fbc                __gtsf2
+                0x08000fbc                __gesf2
+                0x08000fc4                __lesf2
+                0x08000fc4                __ltsf2
+                0x08000fcc                __nesf2
+                0x08000fcc                __eqsf2
+                0x08000fcc                __cmpsf2
+                0x0800102c                __aeabi_cfrcmple
+                0x08001034                __aeabi_cfcmple
+                0x08001034                __aeabi_cfcmpeq
+                0x08001044                __aeabi_fcmpeq
+                0x08001058                __aeabi_fcmplt
+                0x0800106c                __aeabi_fcmple
+                0x08001080                __aeabi_fcmpge
+                0x08001094                __aeabi_fcmpgt
+ .text          0x080010a8       0x4c /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_fixsfsi.o)
+                0x080010a8                __fixsfsi
+                0x080010a8                __aeabi_f2iz
+ .text          0x080010f4       0xa0 /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+                0x080010f4                memset
+ *(.text.*)
+ *fill*         0x08001194        0xc 
+ .text.wakeup.4666.4212
+                0x080011a0       0x80 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .text.gpt1cb.11701
+                0x08001220       0x10 /tmp/cc2EiM5l.ltrans0.ltrans.o
+                0x08001220                gpt1cb.11701
+ .text.long_to_string_with_divisor.11430.4499
+                0x08001230       0x50 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .text.notify3.8755
+                0x08001280       0x20 /tmp/cc2EiM5l.ltrans0.ltrans.o
+                0x08001280                notify3.8755
+ .text.notify2.8758
+                0x080012a0       0x20 /tmp/cc2EiM5l.ltrans0.ltrans.o
+                0x080012a0                notify2.8758
+ .text._port_irq_epilogue.4511
+                0x080012c0       0x60 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .text.VectorB0.4401
+                0x08001320       0xb0 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .text.VectorA4.4450
+                0x080013d0       0x40 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .text.VectorB4.4457
+                0x08001410       0x90 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .text.SVC_Handler.4521
+                0x080014a0       0x20 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .text.chCoreAllocAligned
+                0x080014c0       0x50 /tmp/cc2EiM5l.ltrans0.ltrans.o
+                0x080014c0                chCoreAllocAligned
+ .text.chSchReadyI.4542
+                0x08001510       0x30 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .text.chEvtBroadcastFlagsI.4528
+                0x08001540       0x60 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .text.serve_interrupt.8769.4243
+                0x080015a0      0x1d0 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .text.VectorDC.4238
+                0x08001770       0x20 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .text.VectorD8.4241
+                0x08001790       0x20 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .text._idle_thread.4310
+                0x080017b0       0x10 /tmp/cc2EiM5l.ltrans0.ltrans.o
+                0x080017b0                _idle_thread.4310
+ .text._unhandled_exception.4548
+                0x080017c0       0x10 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .text.chSchGoSleepS.4539
+                0x080017d0       0x30 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .text.chSchGoSleepTimeoutS.4366
+                0x08001800      0x160 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .text.chThdEnqueueTimeoutS.4362
+                0x08001960       0x30 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .text.iqGetTimeout.4303
+                0x08001990       0x60 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .text._gett.8068.4296
+                0x080019f0       0x10 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .text._get.8072.4300
+                0x08001a00       0x10 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .text.oqPutTimeout.4336
+                0x08001a10       0x60 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .text._putt.8075.4327
+                0x08001a70       0x10 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .text._put.8080.4332
+                0x08001a80       0x10 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .text.oqWriteTimeout.4356
+                0x08001a90       0xb0 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .text._writet.8057.4345
+                0x08001b40       0x10 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .text._write.8063.4351
+                0x08001b50       0x10 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .text.__early_init
+                0x08001b60       0xa0 /tmp/cc2EiM5l.ltrans0.ltrans.o
+                0x08001b60                __early_init
+ .text.chThdExit
+                0x08001c00       0x60 /tmp/cc2EiM5l.ltrans0.ltrans.o
+                0x08001c00                chThdExit
+ .text.chSchDoReschedule
+                0x08001c60       0x40 /tmp/cc2EiM5l.ltrans0.ltrans.o
+                0x08001c60                chSchDoReschedule
+ .text.__init_ram_areas
+                0x08001ca0       0x60 /tmp/cc2EiM5l.ltrans0.ltrans.o
+                0x08001ca0                __init_ram_areas
+ .text.__default_exit
+                0x08001d00       0x10 /tmp/cc2EiM5l.ltrans0.ltrans.o
+                0x08001d00                __default_exit
+ .text.__late_init
+                0x08001d10       0x10 /tmp/cc2EiM5l.ltrans0.ltrans.o
+                0x08001d10                __late_init
+ .text.__core_init
+                0x08001d20       0x10 /tmp/cc2EiM5l.ltrans0.ltrans.o
+                0x08001d20                __core_init
+ .text.sdStart  0x08001d30       0xe0 /tmp/cc2EiM5l.ltrans0.ltrans.o
+                0x08001d30                sdStart
+ .text.chThdSleep
+                0x08001e10       0x20 /tmp/cc2EiM5l.ltrans0.ltrans.o
+                0x08001e10                chThdSleep
+ .text.Thread1.11698
+                0x08001e30       0x40 /tmp/cc2EiM5l.ltrans0.ltrans.o
+                0x08001e30                Thread1.11698
+ .text.iqReadTimeout
+                0x08001e70       0xc0 /tmp/cc2EiM5l.ltrans0.ltrans.o
+                0x08001e70                iqReadTimeout
+ .text._readt.8044.4310
+                0x08001f30       0x10 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .text._read.8052.4316
+                0x08001f40       0x10 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .text.chSchWakeupS.constprop.26
+                0x08001f50       0x70 /tmp/cc2EiM5l.ltrans0.ltrans.o
+                0x08001f50                chSchWakeupS.constprop.26
+ .text.chTMStartMeasurementX.constprop.22
+                0x08001fc0       0x10 /tmp/cc2EiM5l.ltrans0.ltrans.o
+                0x08001fc0                chTMStartMeasurementX.constprop.22
+ .text.sdObjectInit.constprop.16
+                0x08001fd0       0x70 /tmp/cc2EiM5l.ltrans0.ltrans.o
+                0x08001fd0                sdObjectInit.constprop.16
+ .text.chprintf.constprop.0
+                0x08002040      0x3f0 /tmp/cc2EiM5l.ltrans0.ltrans.o
+                0x08002040                chprintf.constprop.0
+ .text.icuwidthcb.11704
+                0x08002430       0x80 /tmp/cc2EiM5l.ltrans0.ltrans.o
+                0x08002430                icuwidthcb.11704
+ .text.chTMStopMeasurementX
+                0x080024b0       0x50 /tmp/cc2EiM5l.ltrans0.ltrans.o
+                0x080024b0                chTMStopMeasurementX
+ .text.startup.main
+                0x08002500      0x930 /tmp/cc2EiM5l.ltrans1.ltrans.o
+                0x08002500                main
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.gcc*)
+
+.vfp11_veneer   0x08002e30        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x08002e30        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x08002e30        0x0
+ .iplt          0x00000000        0x0 build/obj/crt0_v7m.o
+
+.rodata         0x08002e30      0x288
+                0x08002e30                . = ALIGN (0x4)
+                0x08002e30                __rodata_base__ = .
+ *(.rodata)
+ .rodata        0x08002e30       0x98 /tmp/cc2EiM5l.ltrans1.ltrans.o
+ *(.rodata.*)
+ .rodata.default_config.8796.4709
+                0x08002ec8        0xc /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .rodata.vmt.8162.4710
+                0x08002ed4       0x20 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .rodata.str1.4
+                0x08002ef4       0x22 /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                 0x24 (size before relaxing)
+ *fill*         0x08002f16        0x2 
+ .rodata.pow10.11483.4711
+                0x08002f18       0x24 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .rodata.ram_areas.4019.4669
+                0x08002f3c       0x80 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .rodata.ch_debug
+                0x08002fbc       0x18 /tmp/cc2EiM5l.ltrans1.ltrans.o
+ .rodata.sd2cfg.11732.4599
+                0x08002fd4        0x4 /tmp/cc2EiM5l.ltrans1.ltrans.o
+ .rodata.icu3cfg.11729.4560
+                0x08002fd8       0x1c /tmp/cc2EiM5l.ltrans1.ltrans.o
+ .rodata.str1.4
+                0x08002ff4       0xb4 /tmp/cc2EiM5l.ltrans1.ltrans.o
+ .rodata.gpt1cfg.11730.4561
+                0x080030a8       0x10 /tmp/cc2EiM5l.ltrans1.ltrans.o
+                0x080030b8                . = ALIGN (0x4)
+                0x080030b8                __rodata_end__ = .
+
+.rel.dyn        0x080030b8        0x0
+ .rel.iplt      0x00000000        0x0 build/obj/crt0_v7m.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM.exidx      0x080030b8        0x0
+                0x080030b8                __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x080030b8                __exidx_end = .
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+                0x20000000                __ram0_start__ = ORIGIN (ram0)
+                0x00002000                __ram0_size__ = 0x2000
+                0x20002000                __ram0_end__ = (__ram0_start__ + __ram0_size__)
+                0x00000000                __ram1_start__ = ORIGIN (ram1)
+                0x00000000                __ram1_size__ = 0x0
+                0x00000000                __ram1_end__ = (__ram1_start__ + __ram1_size__)
+                0x00000000                __ram2_start__ = ORIGIN (ram2)
+                0x00000000                __ram2_size__ = 0x0
+                0x00000000                __ram2_end__ = (__ram2_start__ + __ram2_size__)
+                0x00000000                __ram3_start__ = ORIGIN (ram3)
+                0x00000000                __ram3_size__ = 0x0
+                0x00000000                __ram3_end__ = (__ram3_start__ + __ram3_size__)
+                0x00000000                __ram4_start__ = ORIGIN (ram4)
+                0x00000000                __ram4_size__ = 0x0
+                0x00000000                __ram4_end__ = (__ram4_start__ + __ram4_size__)
+                0x00000000                __ram5_start__ = ORIGIN (ram5)
+                0x00000000                __ram5_size__ = 0x0
+                0x00000000                __ram5_end__ = (__ram5_start__ + __ram5_size__)
+                0x00000000                __ram6_start__ = ORIGIN (ram6)
+                0x00000000                __ram6_size__ = 0x0
+                0x00000000                __ram6_end__ = (__ram6_start__ + __ram6_size__)
+                0x00000000                __ram7_start__ = ORIGIN (ram7)
+                0x00000000                __ram7_size__ = 0x0
+                0x00000000                __ram7_end__ = (__ram7_start__ + __ram7_size__)
+
+.data           0x20000800        0x0 load address 0x080030b8
+                0x20000800                . = ALIGN (0x4)
+                0x080030b8                PROVIDE (_textdata, LOADADDR (.data))
+                0x20000800                PROVIDE (_data, .)
+                0x080030b8                _textdata_start = LOADADDR (.data)
+                0x20000800                _data_start = .
+ *(.data)
+ *(.data.*)
+ *(.ramtext)
+                0x20000800                . = ALIGN (0x4)
+                0x20000800                PROVIDE (_edata, .)
+                0x20000800                _data_end = .
+
+.igot.plt       0x20000800        0x0 load address 0x080030b8
+ .igot.plt      0x00000000        0x0 build/obj/crt0_v7m.o
+
+.bss            0x20000800      0x5a8 load address 0x080030b8
+                0x20000800                . = ALIGN (0x4)
+                0x20000800                _bss_start = .
+ *(.bss)
+ *(.bss.*)
+ .bss.ICUD3     0x20000800       0x18 /tmp/cc2EiM5l.ltrans1.ltrans.o
+                0x20000800                ICUD3
+ .bss.ch_idle_thread_wa.4564
+                0x20000818       0xd8 /tmp/cc2EiM5l.ltrans1.ltrans.o
+ .bss.SD2       0x200008f0      0x15c /tmp/cc2EiM5l.ltrans1.ltrans.o
+                0x200008f0                SD2
+ .bss.SD3       0x20000a4c      0x15c /tmp/cc2EiM5l.ltrans1.ltrans.o
+                0x20000a4c                SD3
+ .bss.GPTD1     0x20000ba8       0x10 /tmp/cc2EiM5l.ltrans1.ltrans.o
+                0x20000ba8                GPTD1
+ .bss.waThread1.11733.4562
+                0x20000bb8      0x148 /tmp/cc2EiM5l.ltrans1.ltrans.o
+ .bss.default_heap.6894.4587
+                0x20000d00       0x20 /tmp/cc2EiM5l.ltrans1.ltrans.o
+ .bss.contador.11771
+                0x20000d20        0x4 /tmp/cc2EiM5l.ltrans1.ltrans.o
+                0x20000d20                contador.11771
+ .bss.endmem.6765
+                0x20000d24        0x4 /tmp/cc2EiM5l.ltrans1.ltrans.o
+                0x20000d24                endmem.6765
+ .bss.distancia.11772
+                0x20000d28        0x4 /tmp/cc2EiM5l.ltrans1.ltrans.o
+                0x20000d28                distancia.11772
+ .bss.ch        0x20000d2c       0x74 /tmp/cc2EiM5l.ltrans1.ltrans.o
+                0x20000d2c                ch
+ .bss.nextmem.6762
+                0x20000da0        0x4 /tmp/cc2EiM5l.ltrans1.ltrans.o
+                0x20000da0                nextmem.6762
+ .bss.lectura.11773
+                0x20000da4        0x4 /tmp/cc2EiM5l.ltrans1.ltrans.o
+                0x20000da4                lectura.11773
+ *(COMMON)
+                0x20000da8                . = ALIGN (0x4)
+                0x20000da8                _bss_end = .
+                0x20000da8                PROVIDE (end, .)
+
+.ram0_init      0x20000da8        0x0 load address 0x080030b8
+                0x20000da8                . = ALIGN (0x4)
+                0x080030b8                __ram0_init_text__ = LOADADDR (.ram0_init)
+                0x20000da8                __ram0_init__ = .
+ *(.ram0_init)
+ *(.ram0_init.*)
+                0x20000da8                . = ALIGN (0x4)
+
+.ram0           0x20000da8        0x0 load address 0x080030b8
+                0x20000da8                . = ALIGN (0x4)
+                0x20000da8                __ram0_clear__ = .
+ *(.ram0_clear)
+ *(.ram0_clear.*)
+                0x20000da8                . = ALIGN (0x4)
+                0x20000da8                __ram0_noinit__ = .
+ *(.ram0)
+ *(.ram0.*)
+                0x20000da8                . = ALIGN (0x4)
+                0x20000da8                __ram0_free__ = .
+
+.ram1_init      0x00000000        0x0 load address 0x080030b8
+                0x00000000                . = ALIGN (0x4)
+                0x080030b8                __ram1_init_text__ = LOADADDR (.ram1_init)
+                0x00000000                __ram1_init__ = .
+ *(.ram1_init)
+ *(.ram1_init.*)
+                0x00000000                . = ALIGN (0x4)
+
+.ram1           0x00000000        0x0 load address 0x080030b8
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram1_clear__ = .
+ *(.ram1_clear)
+ *(.ram1_clear.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram1_noinit__ = .
+ *(.ram1)
+ *(.ram1.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram1_free__ = .
+
+.ram2_init      0x00000000        0x0 load address 0x080030b8
+                0x00000000                . = ALIGN (0x4)
+                0x080030b8                __ram2_init_text__ = LOADADDR (.ram2_init)
+                0x00000000                __ram2_init__ = .
+ *(.ram2_init)
+ *(.ram2_init.*)
+                0x00000000                . = ALIGN (0x4)
+
+.ram2           0x00000000        0x0 load address 0x080030b8
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram2_clear__ = .
+ *(.ram2_clear)
+ *(.ram2_clear.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram2_noinit__ = .
+ *(.ram2)
+ *(.ram2.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram2_free__ = .
+
+.ram3_init      0x00000000        0x0 load address 0x080030b8
+                0x00000000                . = ALIGN (0x4)
+                0x080030b8                __ram3_init_text__ = LOADADDR (.ram3_init)
+                0x00000000                __ram3_init__ = .
+ *(.ram3_init)
+ *(.ram3_init.*)
+                0x00000000                . = ALIGN (0x4)
+
+.ram3           0x00000000        0x0 load address 0x080030b8
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram3_clear__ = .
+ *(.ram3_clear)
+ *(.ram3_clear.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram3_noinit__ = .
+ *(.ram3)
+ *(.ram3.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram3_free__ = .
+
+.ram4_init      0x00000000        0x0 load address 0x080030b8
+                0x00000000                . = ALIGN (0x4)
+                0x080030b8                __ram4_init_text__ = LOADADDR (.ram4_init)
+                0x00000000                __ram4_init__ = .
+ *(.ram4_init)
+ *(.ram4_init.*)
+                0x00000000                . = ALIGN (0x4)
+
+.ram4           0x00000000        0x0 load address 0x080030b8
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram4_clear__ = .
+ *(.ram4_clear)
+ *(.ram4_clear.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram4_noinit__ = .
+ *(.ram4)
+ *(.ram4.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram4_free__ = .
+
+.ram5_init      0x00000000        0x0 load address 0x080030b8
+                0x00000000                . = ALIGN (0x4)
+                0x080030b8                __ram5_init_text__ = LOADADDR (.ram5_init)
+                0x00000000                __ram5_init__ = .
+ *(.ram5_init)
+ *(.ram5_init.*)
+                0x00000000                . = ALIGN (0x4)
+
+.ram5           0x00000000        0x0 load address 0x080030b8
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram5_clear__ = .
+ *(.ram5_clear)
+ *(.ram5_clear.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram5_noinit__ = .
+ *(.ram5)
+ *(.ram5.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram5_free__ = .
+
+.ram6_init      0x00000000        0x0 load address 0x080030b8
+                0x00000000                . = ALIGN (0x4)
+                0x080030b8                __ram6_init_text__ = LOADADDR (.ram6_init)
+                0x00000000                __ram6_init__ = .
+ *(.ram6_init)
+ *(.ram6_init.*)
+                0x00000000                . = ALIGN (0x4)
+
+.ram6           0x00000000        0x0 load address 0x080030b8
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram6_clear__ = .
+ *(.ram6_clear)
+ *(.ram6_clear.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram6_noinit__ = .
+ *(.ram6)
+ *(.ram6.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram6_free__ = .
+
+.ram7_init      0x00000000        0x0 load address 0x080030b8
+                0x00000000                . = ALIGN (0x4)
+                0x080030b8                __ram7_init_text__ = LOADADDR (.ram7_init)
+                0x00000000                __ram7_init__ = .
+ *(.ram7_init)
+ *(.ram7_init.*)
+                0x00000000                . = ALIGN (0x4)
+
+.ram7           0x00000000        0x0 load address 0x080030b8
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram7_clear__ = .
+ *(.ram7_clear)
+ *(.ram7_clear.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram7_noinit__ = .
+ *(.ram7)
+ *(.ram7.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram7_free__ = .
+
+.heap           0x20000da8     0x1258
+                0x20000da8                . = ALIGN (0x8)
+                0x20000da8                __heap_base__ = .
+                0x20002000                . = (ORIGIN (HEAP_RAM) + 0x2000)
+ *fill*         0x20000da8     0x1258 
+                0x20002000                __heap_end__ = .
+                0x00000400                __process_stack_size__ = 0x400
+                0x00000400                __main_stack_size__ = 0x400
+START GROUP
+LOAD /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a
+LOAD /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/../../../../arm-none-eabi/lib/thumb2/libc.a
+END GROUP
+OUTPUT(build/ch.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x2f
+ .ARM.attributes
+                0x00000000       0x21 build/obj/crt0_v7m.o
+ .ARM.attributes
+                0x00000021       0x21 build/obj/chcoreasm_v7m.o
+ .ARM.attributes
+                0x00000042       0x31 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .ARM.attributes
+                0x00000073       0x31 /tmp/cc2EiM5l.ltrans1.ltrans.o
+ .ARM.attributes
+                0x000000a4       0x19 /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x000000bd       0x19 /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x000000d6       0x19 /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x000000ef       0x19 /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_truncdfsf2.o)
+ .ARM.attributes
+                0x00000108       0x19 /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x00000121       0x19 /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x0000013a       0x19 /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_cmpsf2.o)
+ .ARM.attributes
+                0x00000153       0x19 /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_fixsfsi.o)
+ .ARM.attributes
+                0x0000016c       0x29 /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+
+.comment        0x00000000       0x30
+ .comment       0x00000000       0x30 /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000000       0x31 /tmp/cc2EiM5l.ltrans1.ltrans.o
+
+.debug_info     0x00000000     0x79fe
+ .debug_info    0x00000000     0x4be2 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .debug_info    0x00004be2     0x2e1c /tmp/cc2EiM5l.ltrans1.ltrans.o
+
+.debug_abbrev   0x00000000      0xb8d
+ .debug_abbrev  0x00000000      0x6ce /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .debug_abbrev  0x000006ce      0x4bf /tmp/cc2EiM5l.ltrans1.ltrans.o
+
+.debug_loc      0x00000000     0x2a74
+ .debug_loc     0x00000000     0x2177 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .debug_loc     0x00002177      0x8fd /tmp/cc2EiM5l.ltrans1.ltrans.o
+
+.debug_aranges  0x00000000      0x1c0
+ .debug_aranges
+                0x00000000      0x1a0 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .debug_aranges
+                0x000001a0       0x20 /tmp/cc2EiM5l.ltrans1.ltrans.o
+
+.debug_ranges   0x00000000     0x12c0
+ .debug_ranges  0x00000000      0x938 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .debug_ranges  0x00000938      0x988 /tmp/cc2EiM5l.ltrans1.ltrans.o
+
+.debug_line     0x00000000     0x2046
+ .debug_line    0x00000000     0x1318 /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .debug_line    0x00001318      0xd2e /tmp/cc2EiM5l.ltrans1.ltrans.o
+
+.debug_str      0x00000000     0x1a97
+ .debug_str     0x00000000     0x110a /tmp/cc2EiM5l.ltrans0.ltrans.o
+                               0x1225 (size before relaxing)
+ .debug_str     0x0000110a      0x98d /tmp/cc2EiM5l.ltrans1.ltrans.o
+                               0x11eb (size before relaxing)
+
+.debug_frame    0x00000000      0x4f8
+ .debug_frame   0x00000000      0x49c /tmp/cc2EiM5l.ltrans0.ltrans.o
+ .debug_frame   0x0000049c       0x30 /tmp/cc2EiM5l.ltrans1.ltrans.o
+ .debug_frame   0x000004cc       0x2c /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+
+Cross Reference Table
+
+Symbol                                            File
+BusFault_Handler                                  build/obj/vectors.o (symbol from plugin)
+DebugMon_Handler                                  build/obj/vectors.o (symbol from plugin)
+GPTD1                                             /tmp/cc2EiM5l.ltrans1.ltrans.o
+                                                  build/obj/hal_gpt_lld.o (symbol from plugin)
+                                                  /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+HardFault_Handler                                 build/obj/vectors.o (symbol from plugin)
+ICUD3                                             /tmp/cc2EiM5l.ltrans1.ltrans.o
+                                                  build/obj/hal_icu_lld.o (symbol from plugin)
+                                                  /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+MemManage_Handler                                 build/obj/vectors.o (symbol from plugin)
+NMI_Handler                                       build/obj/vectors.o (symbol from plugin)
+PendSV_Handler                                    build/obj/vectors.o (symbol from plugin)
+Reset_Handler                                     build/obj/crt0_v7m.o
+                                                  /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+SD2                                               /tmp/cc2EiM5l.ltrans1.ltrans.o
+                                                  build/obj/hal_serial_lld.o (symbol from plugin)
+                                                  /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+SD3                                               /tmp/cc2EiM5l.ltrans1.ltrans.o
+                                                  build/obj/hal_serial_lld.o (symbol from plugin)
+                                                  /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+SVC_Handler                                       build/obj/chcore_v7m.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+SysTick_Handler                                   build/obj/vectors.o (symbol from plugin)
+SystemCoreClock                                   build/obj/hal_lld.o (symbol from plugin)
+Thread1.11698                                     /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  /tmp/cc2EiM5l.ltrans1.ltrans.o
+UsageFault_Handler                                build/obj/vectors.o (symbol from plugin)
+Vector100                                         build/obj/vectors.o (symbol from plugin)
+Vector104                                         build/obj/vectors.o (symbol from plugin)
+Vector108                                         build/obj/vectors.o (symbol from plugin)
+Vector10C                                         build/obj/vectors.o (symbol from plugin)
+Vector110                                         build/obj/vectors.o (symbol from plugin)
+Vector114                                         build/obj/vectors.o (symbol from plugin)
+Vector118                                         build/obj/vectors.o (symbol from plugin)
+Vector11C                                         build/obj/vectors.o (symbol from plugin)
+Vector120                                         build/obj/vectors.o (symbol from plugin)
+Vector124                                         build/obj/vectors.o (symbol from plugin)
+Vector128                                         build/obj/vectors.o (symbol from plugin)
+Vector12C                                         build/obj/vectors.o (symbol from plugin)
+Vector130                                         build/obj/vectors.o (symbol from plugin)
+Vector134                                         build/obj/vectors.o (symbol from plugin)
+Vector138                                         build/obj/vectors.o (symbol from plugin)
+Vector13C                                         build/obj/vectors.o (symbol from plugin)
+Vector140                                         build/obj/vectors.o (symbol from plugin)
+Vector144                                         build/obj/vectors.o (symbol from plugin)
+Vector148                                         build/obj/vectors.o (symbol from plugin)
+Vector14C                                         build/obj/vectors.o (symbol from plugin)
+Vector150                                         build/obj/vectors.o (symbol from plugin)
+Vector154                                         build/obj/vectors.o (symbol from plugin)
+Vector158                                         build/obj/vectors.o (symbol from plugin)
+Vector15C                                         build/obj/vectors.o (symbol from plugin)
+Vector1C                                          build/obj/vectors.o (symbol from plugin)
+Vector20                                          build/obj/vectors.o (symbol from plugin)
+Vector24                                          build/obj/vectors.o (symbol from plugin)
+Vector28                                          build/obj/vectors.o (symbol from plugin)
+Vector34                                          build/obj/vectors.o (symbol from plugin)
+Vector40                                          build/obj/vectors.o (symbol from plugin)
+Vector44                                          build/obj/vectors.o (symbol from plugin)
+Vector48                                          build/obj/vectors.o (symbol from plugin)
+Vector4C                                          build/obj/vectors.o (symbol from plugin)
+Vector50                                          build/obj/vectors.o (symbol from plugin)
+Vector54                                          build/obj/vectors.o (symbol from plugin)
+Vector58                                          build/obj/vectors.o (symbol from plugin)
+Vector5C                                          build/obj/vectors.o (symbol from plugin)
+Vector60                                          build/obj/vectors.o (symbol from plugin)
+Vector64                                          build/obj/vectors.o (symbol from plugin)
+Vector68                                          build/obj/vectors.o (symbol from plugin)
+Vector6C                                          build/obj/vectors.o (symbol from plugin)
+Vector70                                          build/obj/vectors.o (symbol from plugin)
+Vector74                                          build/obj/vectors.o (symbol from plugin)
+Vector78                                          build/obj/vectors.o (symbol from plugin)
+Vector7C                                          build/obj/vectors.o (symbol from plugin)
+Vector80                                          build/obj/vectors.o (symbol from plugin)
+Vector84                                          build/obj/vectors.o (symbol from plugin)
+Vector88                                          build/obj/vectors.o (symbol from plugin)
+Vector8C                                          build/obj/vectors.o (symbol from plugin)
+Vector90                                          build/obj/vectors.o (symbol from plugin)
+Vector94                                          build/obj/vectors.o (symbol from plugin)
+Vector98                                          build/obj/vectors.o (symbol from plugin)
+Vector9C                                          build/obj/vectors.o (symbol from plugin)
+VectorA0                                          build/obj/vectors.o (symbol from plugin)
+VectorA4                                          build/obj/hal_gpt_lld.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+VectorA8                                          build/obj/vectors.o (symbol from plugin)
+VectorAC                                          build/obj/vectors.o (symbol from plugin)
+VectorB0                                          build/obj/hal_st_lld.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+VectorB4                                          build/obj/hal_icu_lld.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+VectorB8                                          build/obj/vectors.o (symbol from plugin)
+VectorBC                                          build/obj/vectors.o (symbol from plugin)
+VectorC0                                          build/obj/vectors.o (symbol from plugin)
+VectorC4                                          build/obj/vectors.o (symbol from plugin)
+VectorC8                                          build/obj/vectors.o (symbol from plugin)
+VectorCC                                          build/obj/vectors.o (symbol from plugin)
+VectorD0                                          build/obj/vectors.o (symbol from plugin)
+VectorD4                                          build/obj/vectors.o (symbol from plugin)
+VectorD8                                          build/obj/hal_serial_lld.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+VectorDC                                          build/obj/hal_serial_lld.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+VectorE0                                          build/obj/vectors.o (symbol from plugin)
+VectorE4                                          build/obj/vectors.o (symbol from plugin)
+VectorE8                                          build/obj/vectors.o (symbol from plugin)
+VectorEC                                          build/obj/vectors.o (symbol from plugin)
+VectorF0                                          build/obj/vectors.o (symbol from plugin)
+VectorF4                                          build/obj/vectors.o (symbol from plugin)
+VectorF8                                          build/obj/vectors.o (symbol from plugin)
+VectorFC                                          build/obj/vectors.o (symbol from plugin)
+__adddf3                                          /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubdf3.o)
+__addsf3                                          /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubsf3.o)
+__aeabi_cfcmpeq                                   /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_cmpsf2.o)
+__aeabi_cfcmple                                   /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_cmpsf2.o)
+__aeabi_cfrcmple                                  /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_cmpsf2.o)
+__aeabi_d2f                                       /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_truncdfsf2.o)
+                                                  /tmp/cc2EiM5l.ltrans0.ltrans.o
+__aeabi_d2iz                                      /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_fixdfsi.o)
+                                                  /tmp/cc2EiM5l.ltrans0.ltrans.o
+__aeabi_dadd                                      /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubdf3.o)
+__aeabi_ddiv                                      /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_muldivdf3.o)
+__aeabi_dmul                                      /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_muldivdf3.o)
+                                                  /tmp/cc2EiM5l.ltrans0.ltrans.o
+__aeabi_drsub                                     /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubdf3.o)
+__aeabi_dsub                                      /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubdf3.o)
+                                                  /tmp/cc2EiM5l.ltrans0.ltrans.o
+__aeabi_f2d                                       /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubdf3.o)
+                                                  /tmp/cc2EiM5l.ltrans1.ltrans.o
+                                                  /tmp/cc2EiM5l.ltrans0.ltrans.o
+__aeabi_f2iz                                      /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_fixsfsi.o)
+                                                  /tmp/cc2EiM5l.ltrans0.ltrans.o
+__aeabi_fadd                                      /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubsf3.o)
+__aeabi_fcmpeq                                    /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_cmpsf2.o)
+__aeabi_fcmpge                                    /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_cmpsf2.o)
+__aeabi_fcmpgt                                    /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_cmpsf2.o)
+__aeabi_fcmple                                    /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_cmpsf2.o)
+__aeabi_fcmplt                                    /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_cmpsf2.o)
+                                                  /tmp/cc2EiM5l.ltrans0.ltrans.o
+__aeabi_fdiv                                      /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_muldivsf3.o)
+                                                  /tmp/cc2EiM5l.ltrans0.ltrans.o
+__aeabi_fmul                                      /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_muldivsf3.o)
+                                                  /tmp/cc2EiM5l.ltrans0.ltrans.o
+__aeabi_frsub                                     /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubsf3.o)
+__aeabi_fsub                                      /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubsf3.o)
+__aeabi_i2d                                       /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubdf3.o)
+                                                  /tmp/cc2EiM5l.ltrans0.ltrans.o
+__aeabi_i2f                                       /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubsf3.o)
+__aeabi_l2d                                       /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubdf3.o)
+__aeabi_l2f                                       /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubsf3.o)
+__aeabi_ui2d                                      /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubdf3.o)
+                                                  /tmp/cc2EiM5l.ltrans0.ltrans.o
+__aeabi_ui2f                                      /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubsf3.o)
+                                                  /tmp/cc2EiM5l.ltrans0.ltrans.o
+__aeabi_ul2d                                      /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubdf3.o)
+__aeabi_ul2f                                      /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubsf3.o)
+__cmpsf2                                          /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_cmpsf2.o)
+__core_init                                       /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+__default_exit                                    /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+__divdf3                                          /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_muldivdf3.o)
+__divsf3                                          /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_muldivsf3.o)
+__early_init                                      /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/board.o (symbol from plugin)
+                                                  build/obj/crt1.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+__eqsf2                                           /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_cmpsf2.o)
+__extendsfdf2                                     /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubdf3.o)
+__fini_array_end                                  build/obj/crt0_v7m.o
+__fini_array_start                                build/obj/crt0_v7m.o
+__fixdfsi                                         /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_fixdfsi.o)
+__fixsfsi                                         /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_fixsfsi.o)
+__floatdidf                                       /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubdf3.o)
+__floatdisf                                       /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubsf3.o)
+__floatsidf                                       /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubdf3.o)
+__floatsisf                                       /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubsf3.o)
+__floatundidf                                     /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubdf3.o)
+__floatundisf                                     /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubsf3.o)
+__floatunsidf                                     /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubdf3.o)
+__floatunsisf                                     /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubsf3.o)
+__gesf2                                           /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_cmpsf2.o)
+__gtsf2                                           /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_cmpsf2.o)
+__heap_base__                                     /tmp/cc2EiM5l.ltrans1.ltrans.o
+                                                  build/obj/chmemcore.o (symbol from plugin)
+__heap_end__                                      /tmp/cc2EiM5l.ltrans1.ltrans.o
+                                                  build/obj/chmemcore.o (symbol from plugin)
+__init_array_end                                  build/obj/crt0_v7m.o
+__init_array_start                                build/obj/crt0_v7m.o
+__init_ram_areas                                  /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+__late_init                                       /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+__lesf2                                           /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_cmpsf2.o)
+__ltsf2                                           /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_cmpsf2.o)
+__main_stack_base__                               build/obj/crt0_v7m.o
+__main_stack_end__                                /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+__muldf3                                          /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_muldivdf3.o)
+__mulsf3                                          /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_muldivsf3.o)
+__nesf2                                           /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_cmpsf2.o)
+__process_stack_base__                            build/obj/crt0_v7m.o
+__process_stack_end__                             build/obj/crt0_v7m.o
+__ram0_clear__                                    /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram0_init__                                     /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram0_init_text__                                /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram0_noinit__                                   /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram1_clear__                                    /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram1_init__                                     /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram1_init_text__                                /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram1_noinit__                                   /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram2_clear__                                    /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram2_init__                                     /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram2_init_text__                                /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram2_noinit__                                   /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram3_clear__                                    /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram3_init__                                     /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram3_init_text__                                /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram3_noinit__                                   /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram4_clear__                                    /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram4_init__                                     /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram4_init_text__                                /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram4_noinit__                                   /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram5_clear__                                    /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram5_init__                                     /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram5_init_text__                                /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram5_noinit__                                   /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram6_clear__                                    /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram6_init__                                     /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram6_init_text__                                /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram6_noinit__                                   /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram7_clear__                                    /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram7_init__                                     /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram7_init_text__                                /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__ram7_noinit__                                   /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+__subdf3                                          /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubdf3.o)
+__subsf3                                          /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_addsubsf3.o)
+__truncdfsf2                                      /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/thumb2/libgcc.a(_arm_truncdfsf2.o)
+_bss_end                                          build/obj/crt0_v7m.o
+_bss_start                                        build/obj/crt0_v7m.o
+_core_init                                        build/obj/chmemcore.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+_data_end                                         build/obj/crt0_v7m.o
+_data_start                                       build/obj/crt0_v7m.o
+_heap_init                                        build/obj/chheap.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+_idle_thread.4310                                 /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  /tmp/cc2EiM5l.ltrans1.ltrans.o
+_pal_lld_init                                     build/obj/hal_pal_lld.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+_pal_lld_setgroupmode                             build/obj/hal_pal_lld.o (symbol from plugin)
+                                                  build/obj/hal_pal.o (symbol from plugin)
+_port_exit_from_isr                               build/obj/chcoreasm_v7m.o
+                                                  /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/chcore_v7m.o (symbol from plugin)
+_port_irq_epilogue                                build/obj/chcore_v7m.o (symbol from plugin)
+                                                  build/obj/hal_serial_lld.o (symbol from plugin)
+                                                  build/obj/hal_icu_lld.o (symbol from plugin)
+                                                  build/obj/hal_gpt_lld.o (symbol from plugin)
+                                                  build/obj/hal_st_lld.o (symbol from plugin)
+_port_switch                                      build/obj/chcoreasm_v7m.o
+                                                  /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/chschd.o (symbol from plugin)
+_port_switch_from_isr                             build/obj/chcoreasm_v7m.o
+                                                  /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/chcore_v7m.o (symbol from plugin)
+_port_thread_start                                build/obj/chcoreasm_v7m.o
+                                                  /tmp/cc2EiM5l.ltrans1.ltrans.o
+                                                  build/obj/chthreads.o (symbol from plugin)
+_scheduler_init                                   build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+_test_assert                                      build/obj/ch_test.o (symbol from plugin)
+                                                  build/obj/test_sequence_012.o (symbol from plugin)
+                                                  build/obj/test_sequence_011.o (symbol from plugin)
+                                                  build/obj/test_sequence_010.o (symbol from plugin)
+                                                  build/obj/test_sequence_009.o (symbol from plugin)
+                                                  build/obj/test_sequence_008.o (symbol from plugin)
+                                                  build/obj/test_sequence_006.o (symbol from plugin)
+                                                  build/obj/test_sequence_005.o (symbol from plugin)
+                                                  build/obj/test_sequence_004.o (symbol from plugin)
+                                                  build/obj/test_sequence_003.o (symbol from plugin)
+                                                  build/obj/test_sequence_002.o (symbol from plugin)
+_test_assert_sequence                             build/obj/ch_test.o (symbol from plugin)
+                                                  build/obj/test_sequence_012.o (symbol from plugin)
+                                                  build/obj/test_sequence_009.o (symbol from plugin)
+                                                  build/obj/test_sequence_008.o (symbol from plugin)
+                                                  build/obj/test_sequence_007.o (symbol from plugin)
+                                                  build/obj/test_sequence_006.o (symbol from plugin)
+                                                  build/obj/test_sequence_005.o (symbol from plugin)
+                                                  build/obj/test_sequence_003.o (symbol from plugin)
+_test_assert_time_window                          build/obj/ch_test.o (symbol from plugin)
+                                                  build/obj/test_sequence_008.o (symbol from plugin)
+                                                  build/obj/test_sequence_005.o (symbol from plugin)
+                                                  build/obj/test_sequence_004.o (symbol from plugin)
+                                                  build/obj/test_sequence_003.o (symbol from plugin)
+_test_fail                                        build/obj/ch_test.o (symbol from plugin)
+_textdata_start                                   build/obj/crt0_v7m.o
+_thread_init                                      build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+_tm_init                                          build/obj/chtm.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+_unhandled_exception                              build/obj/vectors.o (symbol from plugin)
+_vectors                                          /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+_vt_init                                          build/obj/chvt.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+boardInit                                         build/obj/board.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+ch                                                /tmp/cc2EiM5l.ltrans1.ltrans.o
+                                                  build/obj/chschd.o (symbol from plugin)
+                                                  /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+                                                  build/obj/test_sequence_013.o (symbol from plugin)
+                                                  build/obj/test_sequence_012.o (symbol from plugin)
+                                                  build/obj/test_sequence_008.o (symbol from plugin)
+                                                  build/obj/test_sequence_007.o (symbol from plugin)
+                                                  build/obj/test_sequence_006.o (symbol from plugin)
+                                                  build/obj/test_sequence_005.o (symbol from plugin)
+                                                  build/obj/test_sequence_004.o (symbol from plugin)
+                                                  build/obj/test_sequence_003.o (symbol from plugin)
+                                                  build/obj/chmsg.o (symbol from plugin)
+                                                  build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chregistry.o (symbol from plugin)
+                                                  build/obj/chtm.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/chvt.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+chCondBroadcast                                   build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/test_sequence_006.o (symbol from plugin)
+chCondBroadcastI                                  build/obj/chcond.o (symbol from plugin)
+chCondObjectInit                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/test_sequence_006.o (symbol from plugin)
+chCondSignal                                      build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/test_sequence_006.o (symbol from plugin)
+chCondSignalI                                     build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/test_sequence_006.o (symbol from plugin)
+chCondWait                                        build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/test_sequence_006.o (symbol from plugin)
+chCondWaitS                                       build/obj/chcond.o (symbol from plugin)
+chCondWaitTimeout                                 build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/test_sequence_006.o (symbol from plugin)
+chCondWaitTimeoutS                                build/obj/chcond.o (symbol from plugin)
+chCoreAllocAligned                                /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/chmemcore.o (symbol from plugin)
+                                                  /tmp/cc2EiM5l.ltrans1.ltrans.o
+                                                  build/obj/chheap.o (symbol from plugin)
+chCoreAllocAlignedI                               build/obj/chmemcore.o (symbol from plugin)
+chCoreGetStatusX                                  build/obj/chmemcore.o (symbol from plugin)
+chEvtAddEvents                                    build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/test_sequence_008.o (symbol from plugin)
+chEvtBroadcastFlags                               build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/test_sequence_008.o (symbol from plugin)
+chEvtBroadcastFlagsI                              build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/hal_serial_lld.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+chEvtDispatch                                     build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/test_sequence_008.o (symbol from plugin)
+chEvtGetAndClearEvents                            build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/test_sequence_008.o (symbol from plugin)
+chEvtGetAndClearFlags                             build/obj/chevents.o (symbol from plugin)
+chEvtGetAndClearFlagsI                            build/obj/chevents.o (symbol from plugin)
+chEvtRegisterMaskWithFlags                        build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/test_sequence_008.o (symbol from plugin)
+chEvtSignal                                       build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/test_sequence_008.o (symbol from plugin)
+chEvtSignalI                                      build/obj/chevents.o (symbol from plugin)
+chEvtUnregister                                   build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/test_sequence_008.o (symbol from plugin)
+chEvtWaitAll                                      build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/test_sequence_008.o (symbol from plugin)
+chEvtWaitAllTimeout                               build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/test_sequence_008.o (symbol from plugin)
+chEvtWaitAny                                      build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/test_sequence_008.o (symbol from plugin)
+chEvtWaitAnyTimeout                               build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/test_sequence_008.o (symbol from plugin)
+chEvtWaitOne                                      build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/test_sequence_008.o (symbol from plugin)
+chEvtWaitOneTimeout                               build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/test_sequence_008.o (symbol from plugin)
+chGuardedPoolAllocTimeout                         build/obj/chmempools.o (symbol from plugin)
+                                                  build/obj/test_sequence_010.o (symbol from plugin)
+chGuardedPoolAllocTimeoutS                        build/obj/chmempools.o (symbol from plugin)
+chGuardedPoolFree                                 build/obj/chmempools.o (symbol from plugin)
+                                                  build/obj/test_sequence_010.o (symbol from plugin)
+chGuardedPoolFreeI                                build/obj/chmempools.o (symbol from plugin)
+chGuardedPoolLoadArray                            build/obj/chmempools.o (symbol from plugin)
+                                                  build/obj/test_sequence_010.o (symbol from plugin)
+chGuardedPoolObjectInit                           build/obj/chmempools.o (symbol from plugin)
+                                                  build/obj/test_sequence_010.o (symbol from plugin)
+chHeapAllocAligned                                build/obj/chheap.o (symbol from plugin)
+                                                  build/obj/test_sequence_011.o (symbol from plugin)
+                                                  build/obj/chdynamic.o (symbol from plugin)
+chHeapFree                                        build/obj/chheap.o (symbol from plugin)
+                                                  build/obj/test_sequence_011.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chHeapObjectInit                                  build/obj/chheap.o (symbol from plugin)
+                                                  build/obj/test_sequence_012.o (symbol from plugin)
+                                                  build/obj/test_sequence_011.o (symbol from plugin)
+chHeapStatus                                      build/obj/chheap.o (symbol from plugin)
+                                                  build/obj/test_sequence_012.o (symbol from plugin)
+                                                  build/obj/test_sequence_011.o (symbol from plugin)
+chMBFetch                                         build/obj/chmboxes.o (symbol from plugin)
+                                                  build/obj/test_sequence_009.o (symbol from plugin)
+chMBFetchI                                        build/obj/chmboxes.o (symbol from plugin)
+                                                  build/obj/test_sequence_009.o (symbol from plugin)
+chMBFetchS                                        build/obj/chmboxes.o (symbol from plugin)
+chMBObjectInit                                    build/obj/chmboxes.o (symbol from plugin)
+                                                  build/obj/test_sequence_009.o (symbol from plugin)
+chMBPost                                          build/obj/chmboxes.o (symbol from plugin)
+                                                  build/obj/test_sequence_009.o (symbol from plugin)
+chMBPostAhead                                     build/obj/chmboxes.o (symbol from plugin)
+                                                  build/obj/test_sequence_009.o (symbol from plugin)
+chMBPostAheadI                                    build/obj/chmboxes.o (symbol from plugin)
+                                                  build/obj/test_sequence_009.o (symbol from plugin)
+chMBPostAheadS                                    build/obj/chmboxes.o (symbol from plugin)
+chMBPostI                                         build/obj/chmboxes.o (symbol from plugin)
+                                                  build/obj/test_sequence_009.o (symbol from plugin)
+chMBPostS                                         build/obj/chmboxes.o (symbol from plugin)
+chMBReset                                         build/obj/chmboxes.o (symbol from plugin)
+                                                  build/obj/test_sequence_009.o (symbol from plugin)
+chMBResetI                                        build/obj/chmboxes.o (symbol from plugin)
+                                                  build/obj/test_sequence_009.o (symbol from plugin)
+chMsgRelease                                      build/obj/chmsg.o (symbol from plugin)
+                                                  build/obj/test_sequence_013.o (symbol from plugin)
+                                                  build/obj/test_sequence_007.o (symbol from plugin)
+chMsgSend                                         build/obj/chmsg.o (symbol from plugin)
+                                                  build/obj/test_sequence_013.o (symbol from plugin)
+                                                  build/obj/test_sequence_007.o (symbol from plugin)
+chMsgWait                                         build/obj/chmsg.o (symbol from plugin)
+                                                  build/obj/test_sequence_013.o (symbol from plugin)
+                                                  build/obj/test_sequence_007.o (symbol from plugin)
+chMtxLock                                         build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/test_sequence_013.o (symbol from plugin)
+                                                  build/obj/test_sequence_006.o (symbol from plugin)
+                                                  build/obj/chheap.o (symbol from plugin)
+chMtxLockS                                        build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/test_sequence_006.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+chMtxObjectInit                                   build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/test_sequence_013.o (symbol from plugin)
+                                                  build/obj/test_sequence_006.o (symbol from plugin)
+                                                  build/obj/chheap.o (symbol from plugin)
+chMtxTryLock                                      build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/test_sequence_006.o (symbol from plugin)
+chMtxTryLockS                                     build/obj/chmtx.o (symbol from plugin)
+chMtxUnlock                                       build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/test_sequence_013.o (symbol from plugin)
+                                                  build/obj/test_sequence_006.o (symbol from plugin)
+                                                  build/obj/chheap.o (symbol from plugin)
+chMtxUnlockAll                                    build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/test_sequence_006.o (symbol from plugin)
+chMtxUnlockAllS                                   build/obj/chmtx.o (symbol from plugin)
+chMtxUnlockS                                      build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/test_sequence_006.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+chPoolAlloc                                       build/obj/chmempools.o (symbol from plugin)
+                                                  build/obj/test_sequence_012.o (symbol from plugin)
+                                                  build/obj/test_sequence_010.o (symbol from plugin)
+                                                  build/obj/chdynamic.o (symbol from plugin)
+chPoolAllocI                                      build/obj/chmempools.o (symbol from plugin)
+chPoolFree                                        build/obj/chmempools.o (symbol from plugin)
+                                                  build/obj/test_sequence_012.o (symbol from plugin)
+                                                  build/obj/test_sequence_010.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chPoolFreeI                                       build/obj/chmempools.o (symbol from plugin)
+chPoolLoadArray                                   build/obj/chmempools.o (symbol from plugin)
+                                                  build/obj/test_sequence_010.o (symbol from plugin)
+chPoolObjectInit                                  build/obj/chmempools.o (symbol from plugin)
+                                                  build/obj/test_sequence_012.o (symbol from plugin)
+                                                  build/obj/test_sequence_010.o (symbol from plugin)
+chRegFindThreadByName                             build/obj/chregistry.o (symbol from plugin)
+chRegFindThreadByPointer                          build/obj/chregistry.o (symbol from plugin)
+chRegFindThreadByWorkingArea                      build/obj/chregistry.o (symbol from plugin)
+chRegFirstThread                                  build/obj/chregistry.o (symbol from plugin)
+chRegNextThread                                   build/obj/chregistry.o (symbol from plugin)
+chSchDoReschedule                                 /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chcoreasm_v7m.o
+chSchDoRescheduleAhead                            build/obj/chschd.o (symbol from plugin)
+chSchDoRescheduleBehind                           build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chSchGoSleepS                                     build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/test_sequence_013.o (symbol from plugin)
+                                                  build/obj/chmsg.o (symbol from plugin)
+                                                  build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chSchGoSleepTimeoutS                              build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chSchIsPreemptionRequired                         build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chcore_v7m.o (symbol from plugin)
+chSchReadyAheadI                                  build/obj/chschd.o (symbol from plugin)
+chSchReadyI                                       build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chmsg.o (symbol from plugin)
+                                                  build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chSchRescheduleS                                  build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/test_sequence_006.o (symbol from plugin)
+                                                  build/obj/test_sequence_005.o (symbol from plugin)
+                                                  build/obj/test_sequence_004.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+                                                  build/obj/chmempools.o (symbol from plugin)
+                                                  build/obj/chmboxes.o (symbol from plugin)
+                                                  build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+chSchWakeupS                                      build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/test_sequence_013.o (symbol from plugin)
+                                                  build/obj/chdynamic.o (symbol from plugin)
+                                                  build/obj/chmsg.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chSchWakeupS.constprop.26                         /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  /tmp/cc2EiM5l.ltrans1.ltrans.o
+chSemAddCounterI                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/test_sequence_005.o (symbol from plugin)
+chSemObjectInit                                   build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/test_sequence_013.o (symbol from plugin)
+                                                  build/obj/test_sequence_005.o (symbol from plugin)
+                                                  build/obj/chmempools.o (symbol from plugin)
+chSemReset                                        build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/test_sequence_013.o (symbol from plugin)
+                                                  build/obj/test_sequence_005.o (symbol from plugin)
+chSemResetI                                       build/obj/chsem.o (symbol from plugin)
+chSemSignal                                       build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/test_sequence_013.o (symbol from plugin)
+                                                  build/obj/test_sequence_005.o (symbol from plugin)
+chSemSignalI                                      build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/test_sequence_005.o (symbol from plugin)
+                                                  build/obj/chmempools.o (symbol from plugin)
+chSemSignalWait                                   build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/test_sequence_005.o (symbol from plugin)
+chSemWait                                         build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/test_sequence_013.o (symbol from plugin)
+                                                  build/obj/test_sequence_005.o (symbol from plugin)
+chSemWaitS                                        build/obj/chsem.o (symbol from plugin)
+chSemWaitTimeout                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/test_sequence_005.o (symbol from plugin)
+chSemWaitTimeoutS                                 build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chmempools.o (symbol from plugin)
+chSysGetStatusAndLockX                            build/obj/chsys.o (symbol from plugin)
+                                                  build/obj/test_sequence_002.o (symbol from plugin)
+chSysHalt                                         build/obj/chsys.o (symbol from plugin)
+chSysInit                                         build/obj/chsys.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+chSysIntegrityCheckI                              build/obj/chsys.o (symbol from plugin)
+                                                  build/obj/test_sequence_002.o (symbol from plugin)
+chSysIsCounterWithinX                             build/obj/chsys.o (symbol from plugin)
+chSysPolledDelayX                                 build/obj/chsys.o (symbol from plugin)
+chSysRestoreStatusX                               build/obj/chsys.o (symbol from plugin)
+                                                  build/obj/test_sequence_002.o (symbol from plugin)
+chSysTimerHandlerI                                build/obj/chsys.o (symbol from plugin)
+                                                  build/obj/hal_st_lld.o (symbol from plugin)
+chTMChainMeasurementToX                           build/obj/chtm.o (symbol from plugin)
+chTMObjectInit                                    build/obj/chtm.o (symbol from plugin)
+chTMStartMeasurementX                             build/obj/chtm.o (symbol from plugin)
+chTMStartMeasurementX.constprop.22                /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  /tmp/cc2EiM5l.ltrans1.ltrans.o
+chTMStopMeasurementX                              /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/chtm.o (symbol from plugin)
+                                                  /tmp/cc2EiM5l.ltrans1.ltrans.o
+chThdAddRef                                       build/obj/chthreads.o (symbol from plugin)
+chThdCreate                                       build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+chThdCreateFromHeap                               build/obj/chdynamic.o (symbol from plugin)
+                                                  build/obj/test_sequence_012.o (symbol from plugin)
+chThdCreateFromMemoryPool                         build/obj/chdynamic.o (symbol from plugin)
+                                                  build/obj/test_sequence_012.o (symbol from plugin)
+chThdCreateI                                      build/obj/chthreads.o (symbol from plugin)
+chThdCreateStatic                                 build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+                                                  build/obj/test_sequence_013.o (symbol from plugin)
+                                                  build/obj/test_sequence_008.o (symbol from plugin)
+                                                  build/obj/test_sequence_007.o (symbol from plugin)
+                                                  build/obj/test_sequence_006.o (symbol from plugin)
+                                                  build/obj/test_sequence_005.o (symbol from plugin)
+                                                  build/obj/test_sequence_004.o (symbol from plugin)
+                                                  build/obj/test_sequence_003.o (symbol from plugin)
+chThdCreateSuspended                              build/obj/chthreads.o (symbol from plugin)
+chThdCreateSuspendedI                             build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/chdynamic.o (symbol from plugin)
+chThdDequeueAllI                                  build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_buffers.o (symbol from plugin)
+                                                  build/obj/chmboxes.o (symbol from plugin)
+chThdDequeueNextI                                 build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_buffers.o (symbol from plugin)
+                                                  build/obj/chmboxes.o (symbol from plugin)
+chThdEnqueueTimeoutS                              build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_buffers.o (symbol from plugin)
+                                                  build/obj/chmboxes.o (symbol from plugin)
+chThdExit                                         /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/test_sequence_013.o (symbol from plugin)
+                                                  build/obj/chcoreasm_v7m.o
+chThdExitS                                        build/obj/chthreads.o (symbol from plugin)
+chThdRelease                                      build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/test_sequence_013.o (symbol from plugin)
+                                                  build/obj/chregistry.o (symbol from plugin)
+chThdResume                                       build/obj/chthreads.o (symbol from plugin)
+chThdResumeI                                      build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/test_sequence_004.o (symbol from plugin)
+chThdResumeS                                      build/obj/chthreads.o (symbol from plugin)
+chThdSetPriority                                  build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/test_sequence_003.o (symbol from plugin)
+chThdSleep                                        /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/chthreads.o (symbol from plugin)
+                                                  /tmp/cc2EiM5l.ltrans1.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+                                                  build/obj/test_sequence_013.o (symbol from plugin)
+                                                  build/obj/test_sequence_008.o (symbol from plugin)
+                                                  build/obj/test_sequence_006.o (symbol from plugin)
+                                                  build/obj/test_sequence_005.o (symbol from plugin)
+                                                  build/obj/test_sequence_003.o (symbol from plugin)
+                                                  build/obj/test_sequence_002.o (symbol from plugin)
+                                                  build/obj/test_root.o (symbol from plugin)
+                                                  build/obj/ch_test.o (symbol from plugin)
+chThdSleepUntil                                   build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/test_sequence_003.o (symbol from plugin)
+chThdSleepUntilWindowed                           build/obj/chthreads.o (symbol from plugin)
+chThdStart                                        build/obj/chthreads.o (symbol from plugin)
+chThdSuspendS                                     build/obj/chthreads.o (symbol from plugin)
+chThdSuspendTimeoutS                              build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/test_sequence_004.o (symbol from plugin)
+chThdTerminate                                    build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/test_root.o (symbol from plugin)
+chThdWait                                         build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/test_sequence_013.o (symbol from plugin)
+                                                  build/obj/test_root.o (symbol from plugin)
+chThdYield                                        build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/test_sequence_013.o (symbol from plugin)
+chVTDoResetI                                      build/obj/chvt.o (symbol from plugin)
+                                                  build/obj/test_sequence_013.o (symbol from plugin)
+                                                  build/obj/test_sequence_002.o (symbol from plugin)
+                                                  build/obj/chschd.o (symbol from plugin)
+chVTDoSetI                                        build/obj/chvt.o (symbol from plugin)
+                                                  build/obj/test_sequence_013.o (symbol from plugin)
+                                                  build/obj/test_sequence_002.o (symbol from plugin)
+                                                  build/obj/chschd.o (symbol from plugin)
+ch_debug                                          build/obj/chregistry.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+ch_idle_thread_wa                                 build/obj/chsys.o (symbol from plugin)
+chprintf                                          build/obj/chprintf.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+chprintf.constprop.0                              /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  /tmp/cc2EiM5l.ltrans1.ltrans.o
+chsnprintf                                        build/obj/chprintf.o (symbol from plugin)
+chvprintf                                         build/obj/chprintf.o (symbol from plugin)
+contador.11771                                    /tmp/cc2EiM5l.ltrans1.ltrans.o
+                                                  /tmp/cc2EiM5l.ltrans0.ltrans.o
+distancia.11772                                   /tmp/cc2EiM5l.ltrans1.ltrans.o
+                                                  /tmp/cc2EiM5l.ltrans0.ltrans.o
+endmem.6765                                       /tmp/cc2EiM5l.ltrans1.ltrans.o
+                                                  /tmp/cc2EiM5l.ltrans0.ltrans.o
+gpt1cb.11701                                      /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  /tmp/cc2EiM5l.ltrans1.ltrans.o
+gptChangeInterval                                 build/obj/hal_gpt.o (symbol from plugin)
+gptInit                                           build/obj/hal_gpt.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+gptObjectInit                                     build/obj/hal_gpt.o (symbol from plugin)
+                                                  build/obj/hal_gpt_lld.o (symbol from plugin)
+gptPolledDelay                                    build/obj/hal_gpt.o (symbol from plugin)
+gptStart                                          build/obj/hal_gpt.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+gptStartContinuous                                build/obj/hal_gpt.o (symbol from plugin)
+gptStartContinuousI                               build/obj/hal_gpt.o (symbol from plugin)
+gptStartOneShot                                   build/obj/hal_gpt.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+gptStartOneShotI                                  build/obj/hal_gpt.o (symbol from plugin)
+gptStop                                           build/obj/hal_gpt.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+gptStopTimer                                      build/obj/hal_gpt.o (symbol from plugin)
+gptStopTimerI                                     build/obj/hal_gpt.o (symbol from plugin)
+gpt_lld_init                                      build/obj/hal_gpt_lld.o (symbol from plugin)
+                                                  build/obj/hal_gpt.o (symbol from plugin)
+gpt_lld_polled_delay                              build/obj/hal_gpt_lld.o (symbol from plugin)
+                                                  build/obj/hal_gpt.o (symbol from plugin)
+gpt_lld_serve_interrupt                           build/obj/hal_gpt_lld.o (symbol from plugin)
+gpt_lld_start                                     build/obj/hal_gpt_lld.o (symbol from plugin)
+                                                  build/obj/hal_gpt.o (symbol from plugin)
+gpt_lld_start_timer                               build/obj/hal_gpt_lld.o (symbol from plugin)
+                                                  build/obj/hal_gpt.o (symbol from plugin)
+gpt_lld_stop                                      build/obj/hal_gpt_lld.o (symbol from plugin)
+                                                  build/obj/hal_gpt.o (symbol from plugin)
+gpt_lld_stop_timer                                build/obj/hal_gpt_lld.o (symbol from plugin)
+                                                  build/obj/hal_gpt.o (symbol from plugin)
+halInit                                           build/obj/hal.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+hal_lld_init                                      build/obj/hal_lld.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+ibqGetEmptyBufferI                                build/obj/hal_buffers.o (symbol from plugin)
+ibqGetFullBufferTimeout                           build/obj/hal_buffers.o (symbol from plugin)
+ibqGetFullBufferTimeoutS                          build/obj/hal_buffers.o (symbol from plugin)
+ibqGetTimeout                                     build/obj/hal_buffers.o (symbol from plugin)
+ibqObjectInit                                     build/obj/hal_buffers.o (symbol from plugin)
+ibqPostFullBufferI                                build/obj/hal_buffers.o (symbol from plugin)
+ibqReadTimeout                                    build/obj/hal_buffers.o (symbol from plugin)
+ibqReleaseEmptyBuffer                             build/obj/hal_buffers.o (symbol from plugin)
+ibqReleaseEmptyBufferS                            build/obj/hal_buffers.o (symbol from plugin)
+ibqResetI                                         build/obj/hal_buffers.o (symbol from plugin)
+icuDisableNotifications                           build/obj/hal_icu.o (symbol from plugin)
+icuEnableNotifications                            build/obj/hal_icu.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+icuInit                                           build/obj/hal_icu.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+icuObjectInit                                     build/obj/hal_icu.o (symbol from plugin)
+                                                  build/obj/hal_icu_lld.o (symbol from plugin)
+icuStart                                          build/obj/hal_icu.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+icuStartCapture                                   build/obj/hal_icu.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+icuStop                                           build/obj/hal_icu.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+icuStopCapture                                    build/obj/hal_icu.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+icuWaitCapture                                    build/obj/hal_icu.o (symbol from plugin)
+icu_lld_disable_notifications                     build/obj/hal_icu_lld.o (symbol from plugin)
+                                                  build/obj/hal_icu.o (symbol from plugin)
+icu_lld_enable_notifications                      build/obj/hal_icu_lld.o (symbol from plugin)
+                                                  build/obj/hal_icu.o (symbol from plugin)
+icu_lld_init                                      build/obj/hal_icu_lld.o (symbol from plugin)
+                                                  build/obj/hal_icu.o (symbol from plugin)
+icu_lld_serve_interrupt                           build/obj/hal_icu_lld.o (symbol from plugin)
+icu_lld_start                                     build/obj/hal_icu_lld.o (symbol from plugin)
+                                                  build/obj/hal_icu.o (symbol from plugin)
+icu_lld_start_capture                             build/obj/hal_icu_lld.o (symbol from plugin)
+                                                  build/obj/hal_icu.o (symbol from plugin)
+icu_lld_stop                                      build/obj/hal_icu_lld.o (symbol from plugin)
+                                                  build/obj/hal_icu.o (symbol from plugin)
+icu_lld_stop_capture                              build/obj/hal_icu_lld.o (symbol from plugin)
+                                                  build/obj/hal_icu.o (symbol from plugin)
+icu_lld_wait_capture                              build/obj/hal_icu_lld.o (symbol from plugin)
+                                                  build/obj/hal_icu.o (symbol from plugin)
+icuwidthcb.11704                                  /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  /tmp/cc2EiM5l.ltrans1.ltrans.o
+iqGetTimeout                                      build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+iqObjectInit                                      build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+iqPutI                                            build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+iqReadTimeout                                     /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/hal_queues.o (symbol from plugin)
+                                                  /tmp/cc2EiM5l.ltrans1.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+iqResetI                                          build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+lectura.11773                                     /tmp/cc2EiM5l.ltrans1.ltrans.o
+                                                  /tmp/cc2EiM5l.ltrans0.ltrans.o
+main                                              /tmp/cc2EiM5l.ltrans1.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+memset                                            /home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/bin/../lib/gcc/arm-none-eabi/4.8.1/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+                                                  /tmp/cc2EiM5l.ltrans1.ltrans.o
+msObjectInit                                      build/obj/memstreams.o (symbol from plugin)
+                                                  build/obj/chprintf.o (symbol from plugin)
+nextmem.6762                                      /tmp/cc2EiM5l.ltrans1.ltrans.o
+                                                  /tmp/cc2EiM5l.ltrans0.ltrans.o
+notify2.8758                                      /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  /tmp/cc2EiM5l.ltrans1.ltrans.o
+notify3.8755                                      /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  /tmp/cc2EiM5l.ltrans1.ltrans.o
+nvicClearPending                                  build/obj/nvic.o (symbol from plugin)
+nvicDisableVector                                 build/obj/nvic.o (symbol from plugin)
+                                                  build/obj/hal_serial_lld.o (symbol from plugin)
+                                                  build/obj/hal_icu_lld.o (symbol from plugin)
+                                                  build/obj/hal_gpt_lld.o (symbol from plugin)
+nvicEnableVector                                  build/obj/nvic.o (symbol from plugin)
+                                                  build/obj/hal_serial_lld.o (symbol from plugin)
+                                                  build/obj/hal_icu_lld.o (symbol from plugin)
+                                                  build/obj/hal_gpt_lld.o (symbol from plugin)
+                                                  build/obj/hal_st_lld.o (symbol from plugin)
+nvicSetSystemHandlerPriority                      build/obj/nvic.o (symbol from plugin)
+obqFlush                                          build/obj/hal_buffers.o (symbol from plugin)
+obqGetEmptyBufferTimeout                          build/obj/hal_buffers.o (symbol from plugin)
+obqGetEmptyBufferTimeoutS                         build/obj/hal_buffers.o (symbol from plugin)
+obqGetFullBufferI                                 build/obj/hal_buffers.o (symbol from plugin)
+obqObjectInit                                     build/obj/hal_buffers.o (symbol from plugin)
+obqPostFullBuffer                                 build/obj/hal_buffers.o (symbol from plugin)
+obqPostFullBufferS                                build/obj/hal_buffers.o (symbol from plugin)
+obqPutTimeout                                     build/obj/hal_buffers.o (symbol from plugin)
+obqReleaseEmptyBufferI                            build/obj/hal_buffers.o (symbol from plugin)
+obqResetI                                         build/obj/hal_buffers.o (symbol from plugin)
+obqTryFlushI                                      build/obj/hal_buffers.o (symbol from plugin)
+obqWriteTimeout                                   build/obj/hal_buffers.o (symbol from plugin)
+oqGetI                                            build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_serial_lld.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+oqObjectInit                                      build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+oqPutTimeout                                      build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+oqResetI                                          build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+oqWriteTimeout                                    build/obj/hal_queues.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+palReadBus                                        build/obj/hal_pal.o (symbol from plugin)
+palSetBusMode                                     build/obj/hal_pal.o (symbol from plugin)
+palWriteBus                                       build/obj/hal_pal.o (symbol from plugin)
+pal_default_config                                build/obj/board.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+sdGetWouldBlock                                   build/obj/hal_serial.o (symbol from plugin)
+sdIncomingDataI                                   build/obj/hal_serial.o (symbol from plugin)
+                                                  build/obj/hal_serial_lld.o (symbol from plugin)
+sdInit                                            build/obj/hal_serial.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+sdObjectInit                                      build/obj/hal_serial.o (symbol from plugin)
+                                                  build/obj/hal_serial_lld.o (symbol from plugin)
+sdObjectInit.constprop.16                         /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  /tmp/cc2EiM5l.ltrans1.ltrans.o
+sdPutWouldBlock                                   build/obj/hal_serial.o (symbol from plugin)
+sdRequestDataI                                    build/obj/hal_serial.o (symbol from plugin)
+sdStart                                           /tmp/cc2EiM5l.ltrans0.ltrans.o
+                                                  build/obj/hal_serial.o (symbol from plugin)
+                                                  /tmp/cc2EiM5l.ltrans1.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+sdStop                                            build/obj/hal_serial.o (symbol from plugin)
+sd_lld_init                                       build/obj/hal_serial_lld.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+sd_lld_start                                      build/obj/hal_serial_lld.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+sd_lld_stop                                       build/obj/hal_serial_lld.o (symbol from plugin)
+                                                  build/obj/hal_serial.o (symbol from plugin)
+stGetAlarm                                        build/obj/hal_st.o (symbol from plugin)
+stInit                                            build/obj/hal_st.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+stSetAlarm                                        build/obj/hal_st.o (symbol from plugin)
+                                                  build/obj/chvt.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+stStartAlarm                                      build/obj/hal_st.o (symbol from plugin)
+                                                  build/obj/chvt.o (symbol from plugin)
+stStopAlarm                                       build/obj/hal_st.o (symbol from plugin)
+                                                  build/obj/chvt.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+st_lld_init                                       build/obj/hal_st_lld.o (symbol from plugin)
+                                                  build/obj/hal_st.o (symbol from plugin)
+stm32_clock_init                                  build/obj/hal_lld.o (symbol from plugin)
+                                                  build/obj/board.o (symbol from plugin)
+test_buffer                                       build/obj/test_root.o (symbol from plugin)
+                                                  build/obj/test_sequence_012.o (symbol from plugin)
+                                                  build/obj/test_sequence_011.o (symbol from plugin)
+test_emit_token                                   build/obj/ch_test.o (symbol from plugin)
+                                                  build/obj/test_sequence_012.o (symbol from plugin)
+                                                  build/obj/test_sequence_009.o (symbol from plugin)
+                                                  build/obj/test_sequence_008.o (symbol from plugin)
+                                                  build/obj/test_sequence_007.o (symbol from plugin)
+                                                  build/obj/test_sequence_006.o (symbol from plugin)
+                                                  build/obj/test_sequence_005.o (symbol from plugin)
+                                                  build/obj/test_sequence_004.o (symbol from plugin)
+                                                  build/obj/test_sequence_003.o (symbol from plugin)
+test_emit_token_i                                 build/obj/ch_test.o (symbol from plugin)
+test_execute                                      build/obj/ch_test.o (symbol from plugin)
+test_global_fail                                  build/obj/ch_test.o (symbol from plugin)
+test_heap                                         build/obj/test_sequence_011.o (symbol from plugin)
+test_print                                        build/obj/ch_test.o (symbol from plugin)
+                                                  build/obj/test_sequence_013.o (symbol from plugin)
+                                                  build/obj/test_sequence_001.o (symbol from plugin)
+                                                  build/obj/test_root.o (symbol from plugin)
+test_print_port_info                              build/obj/test_root.o (symbol from plugin)
+                                                  build/obj/ch_test.o (symbol from plugin)
+test_println                                      build/obj/ch_test.o (symbol from plugin)
+                                                  build/obj/test_sequence_013.o (symbol from plugin)
+                                                  build/obj/test_sequence_001.o (symbol from plugin)
+                                                  build/obj/test_root.o (symbol from plugin)
+test_printn                                       build/obj/ch_test.o (symbol from plugin)
+                                                  build/obj/test_sequence_013.o (symbol from plugin)
+                                                  build/obj/test_sequence_001.o (symbol from plugin)
+test_sequence_001                                 build/obj/test_sequence_001.o (symbol from plugin)
+                                                  build/obj/test_root.o (symbol from plugin)
+test_sequence_002                                 build/obj/test_sequence_002.o (symbol from plugin)
+                                                  build/obj/test_root.o (symbol from plugin)
+test_sequence_003                                 build/obj/test_sequence_003.o (symbol from plugin)
+                                                  build/obj/test_root.o (symbol from plugin)
+test_sequence_004                                 build/obj/test_sequence_004.o (symbol from plugin)
+                                                  build/obj/test_root.o (symbol from plugin)
+test_sequence_005                                 build/obj/test_sequence_005.o (symbol from plugin)
+                                                  build/obj/test_root.o (symbol from plugin)
+test_sequence_006                                 build/obj/test_sequence_006.o (symbol from plugin)
+                                                  build/obj/test_root.o (symbol from plugin)
+test_sequence_007                                 build/obj/test_sequence_007.o (symbol from plugin)
+                                                  build/obj/test_root.o (symbol from plugin)
+test_sequence_008                                 build/obj/test_sequence_008.o (symbol from plugin)
+                                                  build/obj/test_root.o (symbol from plugin)
+test_sequence_009                                 build/obj/test_sequence_009.o (symbol from plugin)
+                                                  build/obj/test_root.o (symbol from plugin)
+test_sequence_010                                 build/obj/test_sequence_010.o (symbol from plugin)
+                                                  build/obj/test_root.o (symbol from plugin)
+test_sequence_011                                 build/obj/test_sequence_011.o (symbol from plugin)
+                                                  build/obj/test_root.o (symbol from plugin)
+test_sequence_012                                 build/obj/test_sequence_012.o (symbol from plugin)
+                                                  build/obj/test_root.o (symbol from plugin)
+test_sequence_013                                 build/obj/test_sequence_013.o (symbol from plugin)
+                                                  build/obj/test_root.o (symbol from plugin)
+test_step                                         build/obj/ch_test.o (symbol from plugin)
+                                                  build/obj/test_sequence_013.o (symbol from plugin)
+                                                  build/obj/test_sequence_012.o (symbol from plugin)
+                                                  build/obj/test_sequence_011.o (symbol from plugin)
+                                                  build/obj/test_sequence_010.o (symbol from plugin)
+                                                  build/obj/test_sequence_009.o (symbol from plugin)
+                                                  build/obj/test_sequence_008.o (symbol from plugin)
+                                                  build/obj/test_sequence_007.o (symbol from plugin)
+                                                  build/obj/test_sequence_006.o (symbol from plugin)
+                                                  build/obj/test_sequence_005.o (symbol from plugin)
+                                                  build/obj/test_sequence_004.o (symbol from plugin)
+                                                  build/obj/test_sequence_003.o (symbol from plugin)
+                                                  build/obj/test_sequence_002.o (symbol from plugin)
+                                                  build/obj/test_sequence_001.o (symbol from plugin)
+test_suite                                        build/obj/test_root.o (symbol from plugin)
+                                                  build/obj/ch_test.o (symbol from plugin)
+test_terminate_threads                            build/obj/test_root.o (symbol from plugin)
+                                                  build/obj/test_sequence_013.o (symbol from plugin)
+test_wait_threads                                 build/obj/test_root.o (symbol from plugin)
+                                                  build/obj/test_sequence_013.o (symbol from plugin)
+                                                  build/obj/test_sequence_012.o (symbol from plugin)
+                                                  build/obj/test_sequence_008.o (symbol from plugin)
+                                                  build/obj/test_sequence_007.o (symbol from plugin)
+                                                  build/obj/test_sequence_006.o (symbol from plugin)
+                                                  build/obj/test_sequence_005.o (symbol from plugin)
+                                                  build/obj/test_sequence_004.o (symbol from plugin)
+                                                  build/obj/test_sequence_003.o (symbol from plugin)
+test_wait_tick                                    build/obj/test_root.o (symbol from plugin)
+                                                  build/obj/test_sequence_013.o (symbol from plugin)
+                                                  build/obj/test_sequence_008.o (symbol from plugin)
+                                                  build/obj/test_sequence_005.o (symbol from plugin)
+threads                                           build/obj/test_root.o (symbol from plugin)
+                                                  build/obj/test_sequence_013.o (symbol from plugin)
+                                                  build/obj/test_sequence_012.o (symbol from plugin)
+                                                  build/obj/test_sequence_008.o (symbol from plugin)
+                                                  build/obj/test_sequence_007.o (symbol from plugin)
+                                                  build/obj/test_sequence_006.o (symbol from plugin)
+                                                  build/obj/test_sequence_005.o (symbol from plugin)
+                                                  build/obj/test_sequence_004.o (symbol from plugin)
+                                                  build/obj/test_sequence_003.o (symbol from plugin)
+wa                                                build/obj/test_root.o (symbol from plugin)
+                                                  build/obj/test_sequence_013.o (symbol from plugin)
+                                                  build/obj/test_sequence_012.o (symbol from plugin)
+                                                  build/obj/test_sequence_008.o (symbol from plugin)
+                                                  build/obj/test_sequence_007.o (symbol from plugin)
+                                                  build/obj/test_sequence_006.o (symbol from plugin)
+                                                  build/obj/test_sequence_005.o (symbol from plugin)
+                                                  build/obj/test_sequence_004.o (symbol from plugin)
+                                                  build/obj/test_sequence_003.o (symbol from plugin)
