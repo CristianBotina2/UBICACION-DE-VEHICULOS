@@ -70,14 +70,14 @@ static void i2notify( io_queue_t *qp) {
 	chprintf( (BaseChannel *)&SD3, "callback %x\n\r", PAL_LOW );
 	
 	
-	
+	/*
 	int32_t n = sdRequestDataI(&SD2);
 	
 	if( n == MSG_TIMEOUT){
 		n = "pailas esto";
 	}
 	
-	chprintf( (BaseChannel *)&SD3, "callback %x\n\r", n );
+	chprintf( (BaseChannel *)&SD3, "callback %x\n\r", n );*/
 }
 
 /*Función callback, llamada al cumplirse el tiempo de espera del GPT*/
@@ -93,16 +93,18 @@ static float distancia = 0.0; //variable que tendrá la distancia de detección 
 /*Función callback, llamada al detectarse flanco (subida en este caso), para conseguir el ancho del pulso */
 static void icuwidthcb(ICUDriver *icup) {
 	
+	//osalSysLockFromISR;
   icucnt_t anchoPulso = icuGetWidthX(icup); //llama a funcion para conseguir el ancho del pulso, y retorna en ticks (es un uint16_t)
   contador = anchoPulso;
   
-  if(anchoPulso < 30){
+  if(anchoPulso < 30 || anchoPulso > 2400){ //30 corresponde a 5cm y 2400 a 400 cm
   	distancia=0;
   }else{
 		distancia = (SPEED_OF_SOUND * anchoPulso * M_TO_CM) / (100000 * 2); //100000 pues es la frec. colocada en ICUConfig icu2cfg
 		lectura = 1;
 		chprintf( (BaseChannel *)&SD3, "distancia %f cm\n\r", distancia);
   }
+  //osalSysUnlockFromISR;
 };
 
 /*configuración de GPTConfig nombrado como gpt1cfg, necesario para el gptStart() */
@@ -123,7 +125,7 @@ static const ICUConfig icu3cfg = {
   0
 };
 
-static const uint32_t sd2cfg = {9600};
+static const SerialConfig sd2cfg = {9600};
 /*--------------     -----------       -----------*/
 //static BaseSequentialStream * chp = (BaseSequentialStream*)&SD3;
 
@@ -174,9 +176,10 @@ int main(void) {
 	//osalSysUnlock();
 	
 	//sdObjectInit(&SD2, i2notify, NULL );
-	sdStart(&SD2, &sd2cfg);
+	//sdStart(&SD2, &sd2cfg);
 	//uint8_t f = sdRead(&SD2, &info, 80);
-	uint8_t n = sdReadTimeout(&SD2, &info, 128, 20000);
+	uint8_t n = 0;
+	//n = sdReadTimeout(&SD2, &info, 128, 20000);
  
 	while (true) {
    
@@ -197,7 +200,7 @@ int main(void) {
 		palSetPad(GPIOA, TRIGG);
 		gptStartOneShot(&GPTD1, 10);  // dT = 500,000 / 10 = 50000 Hz , 20us
 		
-		distancia = 0.0; 
+		distancia = 0.0; //para reiniciar el valor de distancia
 		icuStartCapture(&ICUD3); //comienza la captura o espera a un flanco de subida
 		icuEnableNotifications(&ICUD3);
 		chThdSleepMilliseconds(100); //al menos 60 ms acepta el US para ser leido de nuevo, se le da algo mas de holgura de tiempo
@@ -221,10 +224,20 @@ int main(void) {
 			chprintf( (BaseChannel *)&SD3, "els %x\n\r", PAL_LOW);
 		}
 		
+//		n = oqIsEmptyI(&SD2);
+		//n = iqReadTimeout(&SD2);
 		
+		//osalSysLock();
+		//n = streamRead(&SD2, &info, 150); //funciona sin timeout
+		//n = chnRead(&SD2, &info, 150); //funciona sin timeout
+		sdStart(&SD2, &sd2cfg);
+		n = chnReadTimeout 	(&SD2, &info, 128, TIME_INFINITE); //funciona con timeout, lee 100 primeros bytes, pero no del canal sino del inicio de transmisión, esta función es de tipo blocking
 		
+		//n = chnReadTimeout 	(&SD2, &info, 100, TIME_INMEDIATE); lee lo que esta en el channel
+		//osalSysUnlock();
+		//n = sdAsynchronousRead(&SD2, &info, 82);
 		
-		
+		/*		
 		int32_t n = 0;
 		int32_t f = 81;
 		
@@ -236,7 +249,7 @@ int main(void) {
 			n = 123456;
 		}
 		chprintf( (BaseChannel *)&SD3, "n %c\n\r", n);
-		
+		*/
 		//uint8_t n = sdReadTimeout(&SD2, &info, 128, 20000); //TIME_INFINITE, TIME_IMMEDIATE
 		//uint8_t f = sdRead(&SD2, &info, n);
 		
@@ -281,13 +294,12 @@ int main(void) {
 		} 
 		*/
 		
-		//sdStop(&SD2);
+		sdStop(&SD2);
 				
   	chprintf( (BaseChannel *)&SD3, "Count %d\n\r", contador);
-  	
 //  	chSysLock();
 		//osalSysLock();
-  	chprintf( (BaseChannel *)&SD3, "data %s\n\r", &data  );//cast a puntero de tipo BaseChannel
+  	chprintf( (BaseChannel *)&SD3, "tamano %d\n\r", n);//cast a puntero de tipo BaseChannel
   	//osalSysUnlock();
   	chprintf( (BaseChannel *)&SD3, "info %s\n\r", &info  );
 		chprintf( (BaseChannel *)&SD3, "valor: %f cm\n\r", distancia);

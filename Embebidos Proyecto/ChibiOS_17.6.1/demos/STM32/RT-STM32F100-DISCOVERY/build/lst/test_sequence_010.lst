@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccQUTNDp.s 			page 1
+ARM GAS  /tmp/cc1gkTZs.s 			page 1
 
 
    1              		.syntax unified
@@ -17,7 +17,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
   14              		.file	"test_sequence_010.c"
   15              		.text
   16              	.Ltext0:
-  17              		.section	.gnu.lto_.jmpfuncs.9d0686ebbd798dd2,"",%progbits
+  17              		.section	.gnu.lto_.jmpfuncs.8db9abcc2f20e0ea,"",%progbits
   18 0000 789CB591 		.ascii	"x\234\265\2211\016\202@\020E\377,((\032\265\264\220"
   18      310E8240 
   18      1045FF2C 
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
   25      3A1D49AC 
   25      5077D3D0 
   25      BCF7
-ARM GAS  /tmp/ccQUTNDp.s 			page 2
+ARM GAS  /tmp/cc1gkTZs.s 			page 2
 
 
   26 0097 59CF48D3 		.ascii	"Y\317H\323\0336\344\\\267P\223\276\354\274\366\036\013"
@@ -84,7 +84,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
   30 00de A13AE00E 		.ascii	"\241:\340\016K~\256\035"
   30      4B7EAE1D 
   31              		.text
-  32              		.section	.gnu.lto_.inline.9d0686ebbd798dd2,"",%progbits
+  32              		.section	.gnu.lto_.inline.8db9abcc2f20e0ea,"",%progbits
   33 0000 789C7D8F 		.ascii	"x\234}\217;\016\3020\020Dgm\307@p\240EH(\222E\317Mr"
   33      3B0EC230 
   33      1044676D 
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
   39 0078 8DAD9B63 		.ascii	"\215\255\233c/\307\366e\200O\373&\177\300\015\321K\034"
   39      2FC7F665 
   39      804FFB26 
-ARM GAS  /tmp/ccQUTNDp.s 			page 3
+ARM GAS  /tmp/cc1gkTZs.s 			page 3
 
 
   39      7FC00DD1 
@@ -134,7 +134,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
   41      0DF9
   42 00ab B71E99   		.ascii	"\267\036\231"
   43              		.text
-  44              		.section	.gnu.lto_.pureconst.9d0686ebbd798dd2,"",%progbits
+  44              		.section	.gnu.lto_.pureconst.8db9abcc2f20e0ea,"",%progbits
   45 0000 789C6362 		.ascii	"x\234cb`b\020f\200\000N\006\006F\011\026\011V\0116\011"
   45      60621066 
   45      80004E06 
@@ -145,7 +145,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
   46      000AC301 
   46      1A
   47              		.text
-  48              		.section	.gnu.lto_null_provider.9d0686ebbd798dd2,"",%progbits
+  48              		.section	.gnu.lto_null_provider.8db9abcc2f20e0ea,"",%progbits
   49 0000 789C6362 		.ascii	"x\234cb`b@\007\222@\034\005\304\306@\314\310\314\300"
   49      60624007 
   49      92401C05 
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
   55      A19E9E3E 
   55      0495A416 
   55      97E817
-ARM GAS  /tmp/ccQUTNDp.s 			page 4
+ARM GAS  /tmp/cc1gkTZs.s 			page 4
 
 
   56 0076 95E817E7 		.ascii	"\225\350\027\347\227\026%\247B\270 \"\2768\265\2604"
@@ -191,7 +191,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
   57      2F990100 
   57      5BE02ADD 
   58              		.text
-  59              		.section	.gnu.lto_test_010_003_execute.9d0686ebbd798dd2,"",%progbits
+  59              		.section	.gnu.lto_test_010_003_execute.8db9abcc2f20e0ea,"",%progbits
   60 0000 789C5D50 		.ascii	"x\234]P=O\3030\020}\347\304$\300\000#0\240\374\202\244"
   60      3D4FC330 
   60      107DE7C4 
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
   69      5AE4A485 
   69      EC800C44 
   69      8D98CDE5 
-ARM GAS  /tmp/ccQUTNDp.s 			page 5
+ARM GAS  /tmp/cc1gkTZs.s 			page 5
 
 
   70 00ab B8998D9F 		.ascii	"\270\231\215\237\251T\036\223\273\220\270\011\225c\331"
@@ -276,7 +276,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
   76      53758E3F 
   76      0F315BFC 
   77              		.text
-  78              		.section	.gnu.lto_test_010_003_setup.9d0686ebbd798dd2,"",%progbits
+  78              		.section	.gnu.lto_test_010_003_setup.8db9abcc2f20e0ea,"",%progbits
   79 0000 789C6362 		.ascii	"x\234cb`b@\007\222@<\025\210\215\201\230\221\231\201"
   79      60624007 
   79      92403C15 
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
   82      090A0C
   83 0045 0CC96015 		.ascii	"\014\311`\025!@\022\244-\224\221\011D3\237gh}\320u\222"
   83      214012A4 
-ARM GAS  /tmp/ccQUTNDp.s 			page 6
+ARM GAS  /tmp/cc1gkTZs.s 			page 6
 
 
   83      2D949109 
@@ -330,7 +330,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
   88      0C001C
   89 00bf D5379F   		.ascii	"\3257\237"
   90              		.text
-  91              		.section	.gnu.lto_test_010_002_setup.9d0686ebbd798dd2,"",%progbits
+  91              		.section	.gnu.lto_test_010_002_setup.8db9abcc2f20e0ea,"",%progbits
   92 0000 789C6362 		.ascii	"x\234cb`b@\007\222@<\025\210\215\201\230\221\231\201"
   92      60624007 
   92      92403C15 
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
   97      942F9171 
   97      21232B50 
   97      BA9AE157 
-ARM GAS  /tmp/ccQUTNDp.s 			page 7
+ARM GAS  /tmp/cc1gkTZs.s 			page 7
 
 
   97      43478340 
@@ -382,7 +382,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  101      921900AB 
  102 00bf 1F38B2   		.ascii	"\0378\262"
  103              		.text
- 104              		.section	.gnu.lto_test_010_001_setup.9d0686ebbd798dd2,"",%progbits
+ 104              		.section	.gnu.lto_test_010_001_setup.8db9abcc2f20e0ea,"",%progbits
  105 0000 789C6362 		.ascii	"x\234cb`b@\007\222@<\007\210\215\201\230\221\231\201"
  105      60624007 
  105      92403C07 
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  111      23130B98 
  112 0084 C9C8C2C0 		.ascii	"\311\310\302\300p\221\241\361\301>e\230!\020\020\002"
  112      7091A1F1 
-ARM GAS  /tmp/ccQUTNDp.s 			page 8
+ARM GAS  /tmp/cc1gkTZs.s 			page 8
 
 
  112      C13E6598 
@@ -437,7 +437,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  115      0600D0B4 
  115      3941
  116              		.text
- 117              		.section	.gnu.lto_test_010_002_execute.part.0.9d0686ebbd798dd2,"",%progbits
+ 117              		.section	.gnu.lto_test_010_002_execute.part.0.8db9abcc2f20e0ea,"",%progbits
  118 0000 789C9D54 		.ascii	"x\234\235TOHTA\030\377\276\231\367g\336{\332Z\035\252"
  118      4F485441 
  118      18FFBE99 
@@ -478,7 +478,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  125      6F02F95D 
  125      E35F
  126 0095 1382393A 		.ascii	"\023\2029:\335\323\351\036\372&\335GT\013@\230\016\030"
-ARM GAS  /tmp/ccQUTNDp.s 			page 9
+ARM GAS  /tmp/cc1gkTZs.s 			page 9
 
 
  126      DDD3E91E 
@@ -538,7 +538,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  137 015b C451C466 		.ascii	"\304Q\304f*v\340^\365\262\251\200\006\026\021\306Y\312"
  137      2A76E05E 
  137      F5B2A980 
-ARM GAS  /tmp/ccQUTNDp.s 			page 10
+ARM GAS  /tmp/cc1gkTZs.s 			page 10
 
 
  137      061611C6 
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  148      F3
  149 023b 466B9BCF 		.ascii	"Fk\233\317\322\233z\377\241\300N\252\200O\015\016+\320"
  149      D29B7AFF 
-ARM GAS  /tmp/ccQUTNDp.s 			page 11
+ARM GAS  /tmp/cc1gkTZs.s 			page 11
 
 
  149      A1C04EAA 
@@ -631,7 +631,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  155      7F01633F 
  155      248E
  156              		.text
- 157              		.section	.gnu.lto_test_010_002_execute.9d0686ebbd798dd2,"",%progbits
+ 157              		.section	.gnu.lto_test_010_002_execute.8db9abcc2f20e0ea,"",%progbits
  158 0000 789C9D54 		.ascii	"x\234\235T\317k\023A\024~of7\231tc\023S\013\012R\212"
  158      CF6B1341 
  158      147E6F66 
@@ -658,7 +658,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  162      79DFBCF7 
  162      CD
  163 005d 37F34D22 		.ascii	"7\363M\"@\300\337\355\002}\217[\000\347h\304\024\240"
-ARM GAS  /tmp/ccQUTNDp.s 			page 12
+ARM GAS  /tmp/cc1gkTZs.s 			page 12
 
 
  163      40C0DFED 
@@ -718,7 +718,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  174      12762A12 
  174      2E062501 
  174      A23C4C56 
-ARM GAS  /tmp/ccQUTNDp.s 			page 13
+ARM GAS  /tmp/cc1gkTZs.s 			page 13
 
 
  174      10C32493 
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  186      90EBE640 
  186      36742037 
  187 0214 678D037D 		.ascii	"g\215\003}\373;\220\353\342@\022\336\246\350\0055\324"
-ARM GAS  /tmp/ccQUTNDp.s 			page 14
+ARM GAS  /tmp/cc1gkTZs.s 			page 14
 
 
  187      FB3B90EB 
@@ -809,7 +809,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  192      03B52B05 
  192      CB
  193              		.text
- 194              		.section	.gnu.lto_test_010_001_execute.part.1.9d0686ebbd798dd2,"",%progbits
+ 194              		.section	.gnu.lto_test_010_001_execute.part.1.8db9abcc2f20e0ea,"",%progbits
  195 0000 789C9D94 		.ascii	"x\234\235\224\317O\023A\024\307\337\233\375\275\333"
  195      CF4F1341 
  195      14C7DF9B 
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  200      86FE3F15 
  200      801B3462 
  200      1C
-ARM GAS  /tmp/ccQUTNDp.s 			page 15
+ARM GAS  /tmp/cc1gkTZs.s 			page 15
 
 
  201 006c 3036B341 		.ascii	"06\263A\223\0302\177d(\363qB\227\304dE\227\231T\356"
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  212      A47E0C76 
  212      BC129FA9 
  212      19DF97
-ARM GAS  /tmp/ccQUTNDp.s 			page 16
+ARM GAS  /tmp/cc1gkTZs.s 			page 16
 
 
  213 0143 CB57219C 		.ascii	"\313W!\234\001O\344\035LV~\0274\341)n\362\367\302\326"
@@ -958,7 +958,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  224      131045
  225 0213 6EF269FD 		.ascii	"n\362i\375\210\004\251<\254R[\323n\324\340\303E\311"
  225      8804A93C 
-ARM GAS  /tmp/ccQUTNDp.s 			page 17
+ARM GAS  /tmp/cc1gkTZs.s 			page 17
 
 
  225      AC525BD3 
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  236      03BAD64D 
  236      7738
  237 02f2 9F723243 		.ascii	"\237r2C\371QH\370\363\301lh\267\014\345\262\267\335"
-ARM GAS  /tmp/ccQUTNDp.s 			page 18
+ARM GAS  /tmp/cc1gkTZs.s 			page 18
 
 
  237      F95148F8 
@@ -1033,7 +1033,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  239 0316 0293E975 		.ascii	"\002\223\351uq"
  239      71
  240              		.text
- 241              		.section	.gnu.lto_test_010_001_execute.9d0686ebbd798dd2,"",%progbits
+ 241              		.section	.gnu.lto_test_010_001_execute.8db9abcc2f20e0ea,"",%progbits
  242 0000 789C9554 		.ascii	"x\234\225TAk\023A\024~of7;\351\246&\256\012=\205\340"
  242      416B1341 
  242      147E6F66 
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  250      8C1B66CA 
  250      12B87605 
  250      D5AE7816 
-ARM GAS  /tmp/ccQUTNDp.s 			page 19
+ARM GAS  /tmp/cc1gkTZs.s 			page 19
 
 
  251 00ae B6A4BC1F 		.ascii	"\266\244\274\037<\375\031\340\003\331m=\221\277\207"
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  262      668CDB09 
  262      DDA4AB17 
  262      55B2
-ARM GAS  /tmp/ccQUTNDp.s 			page 20
+ARM GAS  /tmp/cc1gkTZs.s 			page 20
 
 
  263 018f 02A77C3C 		.ascii	"\002\247|<\221\207\363\217\345\346E\037\263\2200\347"
@@ -1198,14 +1198,14 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  274 025b 9A5FAB17 		.ascii	"\232_\253\027\274\352\365\372-\310\206\363\245\3458"
  274      BCEAF5FA 
  274      2DC886F3 
-ARM GAS  /tmp/ccQUTNDp.s 			page 21
+ARM GAS  /tmp/cc1gkTZs.s 			page 21
 
 
  274      A5E538
  275 026a FE03DA5A 		.ascii	"\376\003\332Z\004J"
  275      044A
  276              		.text
- 277              		.section	.gnu.lto_.symbol_nodes.9d0686ebbd798dd2,"",%progbits
+ 277              		.section	.gnu.lto_.symbol_nodes.8db9abcc2f20e0ea,"",%progbits
  278 0000 789C4D8E 		.ascii	"x\234M\216IJ\305@\020\206\353\357N'1\211C\342\364\\"
  278      494AC540 
  278      1086EBEF 
@@ -1258,7 +1258,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  288      73AA0D83 
  288      712A0D
  289 00c3 55C370C2 		.ascii	"U\303p\3021\316\251\332?\232\225qA\365\236aN\345\322"
-ARM GAS  /tmp/ccQUTNDp.s 			page 22
+ARM GAS  /tmp/cc1gkTZs.s 			page 22
 
 
  289      31CEA9DA 
@@ -1289,7 +1289,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  294      DA1EFD01 
  294      68C8AE22 
  295              		.text
- 296              		.section	.gnu.lto_.refs.9d0686ebbd798dd2,"",%progbits
+ 296              		.section	.gnu.lto_.refs.8db9abcc2f20e0ea,"",%progbits
  297 0000 789C3D8B 		.ascii	"x\234=\213\007\016\300 \014\003\3031RF\307\177\373\371"
  297      070EC020 
  297      0C03C331 
@@ -1311,14 +1311,14 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  300      C13EA6DE 
  300      026B
  301              		.text
- 302              		.section	.gnu.lto_.decls.9d0686ebbd798dd2,"",%progbits
+ 302              		.section	.gnu.lto_.decls.8db9abcc2f20e0ea,"",%progbits
  303 0000 789CAD5B 		.ascii	"x\234\255[{t\324\326\231\277\222f<\036l\236IX8I\233"
  303      7B74D4D6 
  303      99BF9266 
  303      3C1E6C9E 
  303      49583849 
  304 0015 699AB429 		.ascii	"i\232\264)i\374H\262)mOK\022v7\351i\263\333\263\273"
-ARM GAS  /tmp/ccQUTNDp.s 			page 23
+ARM GAS  /tmp/cc1gkTZs.s 			page 23
 
 
  304      69FC48B2 
@@ -1378,7 +1378,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  315      7C08E523 
  315      2817
  316 00ec A1044584 		.ascii	"\241\004E\204FA\271SD\266\003\353\305fLb\367\002\253"
-ARM GAS  /tmp/ccQUTNDp.s 			page 24
+ARM GAS  /tmp/cc1gkTZs.s 			page 24
 
 
  316      4641B953 
@@ -1438,7 +1438,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  327      8B93B53F 
  327      E5317D46 
  327      BF58CB62 
-ARM GAS  /tmp/ccQUTNDp.s 			page 25
+ARM GAS  /tmp/cc1gkTZs.s 			page 25
 
 
  327      A773DCF1 
@@ -1498,7 +1498,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  338      9D6A
  339 0292 ED28C44A 		.ascii	"\355(\304Jp=bO\034\216\257\240\325\270q[G\263\240\257"
  339      703D624F 
-ARM GAS  /tmp/ccQUTNDp.s 			page 26
+ARM GAS  /tmp/cc1gkTZs.s 			page 26
 
 
  339      1C8EAFA0 
@@ -1558,7 +1558,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  350      0744
  351 0366 3B15FEA1 		.ascii	";\025\376\241\332V\034\357\027\352\010T\027\201\332"
  351      DA561CEF 
-ARM GAS  /tmp/ccQUTNDp.s 			page 27
+ARM GAS  /tmp/cc1gkTZs.s 			page 27
 
 
  351      17EA0854 
@@ -1618,7 +1618,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  363 0437 D92D3B6E 		.ascii	"\331-;n\005\353\360\0036\316\335\262\023V\260\256\234"
  363      05EBF003 
  363      36CEDDB2 
-ARM GAS  /tmp/ccQUTNDp.s 			page 28
+ARM GAS  /tmp/cc1gkTZs.s 			page 28
 
 
  363      1356B0AE 
@@ -1678,7 +1678,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  375      B3F77B64 
  375      96AD8B98 
  375      A4394147 
-ARM GAS  /tmp/ccQUTNDp.s 			page 29
+ARM GAS  /tmp/cc1gkTZs.s 			page 29
 
 
  375      C67D
@@ -1738,7 +1738,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  387 05e5 708B707B 		.ascii	"p\213p{\216\360/*n\206\277\327e\0246W\373\035\355,p"
  387      8EF02F2A 
  387      6E86BFD7 
-ARM GAS  /tmp/ccQUTNDp.s 			page 30
+ARM GAS  /tmp/cc1gkTZs.s 			page 30
 
 
  387      65143657 
@@ -1798,7 +1798,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  398      47CA610F 
  398      A9E780
  399 06c6 F1A66823 		.ascii	"\361\246h#\235\257#\203\335.~Z\344g+\247g\250\256\230"
-ARM GAS  /tmp/ccQUTNDp.s 			page 31
+ARM GAS  /tmp/cc1gkTZs.s 			page 31
 
 
  399      9DAF2383 
@@ -1858,7 +1858,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  410      7C899C2F 
  410      93F367E4 
  410      3C48CE
-ARM GAS  /tmp/ccQUTNDp.s 			page 32
+ARM GAS  /tmp/cc1gkTZs.s 			page 32
 
 
  411 079a F3C840BA 		.ascii	"\363\310@\272\210\234\353\3119E\316o\221\363Ar\376?"
@@ -1918,7 +1918,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  422      76DEBD85 
  422      D7
  423 086d 8E5B777F 		.ascii	"\216[w\177'=\3651\324\234\317]\015\263\272\261\303\262"
-ARM GAS  /tmp/ccQUTNDp.s 			page 33
+ARM GAS  /tmp/cc1gkTZs.s 			page 33
 
 
  423      273DF531 
@@ -1978,7 +1978,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  434      43BE80C9 
  434      5F1373FD 
  434      FDC8
-ARM GAS  /tmp/ccQUTNDp.s 			page 34
+ARM GAS  /tmp/cc1gkTZs.s 			page 34
 
 
  435 0946 75D1F9F7 		.ascii	"u\321\371\367#\303\262\370w5\213\245XmW\332R\373\302"
@@ -2038,7 +2038,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  446 0a12 68D6303F 		.ascii	"h\3260?\350\013y\364E\216\350\247\016r\350\313}\241"
  446      E80B79F4 
  446      458EE8A7 
-ARM GAS  /tmp/ccQUTNDp.s 			page 35
+ARM GAS  /tmp/cc1gkTZs.s 			page 35
 
 
  446      0E72E8CB 
@@ -2098,7 +2098,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  458 0ae6 C36DE20D 		.ascii	"\303m\342\015\303\023\001v\303\346\267\372\\\375\376"
  458      C3130176 
  458      C3E6B7FA 
-ARM GAS  /tmp/ccQUTNDp.s 			page 36
+ARM GAS  /tmp/cc1gkTZs.s 			page 36
 
 
  458      5CFDFE
@@ -2158,7 +2158,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  470      12C4775C 
  470      CC3C6D37 
  470      F31EB4
-ARM GAS  /tmp/ccQUTNDp.s 			page 37
+ARM GAS  /tmp/cc1gkTZs.s 			page 37
 
 
  471 0bc8 464F1DED 		.ascii	"FO\035\355k\330\324\035\302\373F\272>08(\010\306\357"
@@ -2218,7 +2218,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  482      2A23B41F 
  482      DB91B6A6 
  482      6055D7FF 
-ARM GAS  /tmp/ccQUTNDp.s 			page 38
+ARM GAS  /tmp/cc1gkTZs.s 			page 38
 
 
  482      C3DD
@@ -2278,7 +2278,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  493      E8
  494 0d6b CBA87DF8 		.ascii	"\313\250}\370*\235\362O\307\243\307d\341\257\320g\315"
  494      2A9DF24F 
-ARM GAS  /tmp/ccQUTNDp.s 			page 39
+ARM GAS  /tmp/cc1gkTZs.s 			page 39
 
 
  494      C7A3C764 
@@ -2338,7 +2338,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  505      91E8CD1E 
  505      89E6AC
  506 0e49 91E8EEF1 		.ascii	"\221\350\356\361\025\211\367M\350/1\350\3259Gb\215K"
-ARM GAS  /tmp/ccQUTNDp.s 			page 40
+ARM GAS  /tmp/cc1gkTZs.s 			page 40
 
 
  506      1589F74D 
@@ -2398,7 +2398,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  517      A622A12A 
  517      51AD3056 
  517      11356FEF 
-ARM GAS  /tmp/ccQUTNDp.s 			page 41
+ARM GAS  /tmp/cc1gkTZs.s 			page 41
 
 
  517      75179C
@@ -2458,7 +2458,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  530 1000 F255A51C 		.ascii	"\362U\245\034,\214j\242\372\210\250\376\275\250>*\252"
  530      2C8C6AA2 
  530      FA88A8FE 
-ARM GAS  /tmp/ccQUTNDp.s 			page 42
+ARM GAS  /tmp/cc1gkTZs.s 			page 42
 
 
  530      BDA83E2A 
@@ -2518,7 +2518,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  542 10dd 2AE3E5F9 		.ascii	"*\343\345\371`\011I\277|\245F\211C\250\313C\000\211"
  542      600949BF 
  542      7CA54689 
-ARM GAS  /tmp/ccQUTNDp.s 			page 43
+ARM GAS  /tmp/cc1gkTZs.s 			page 43
 
 
  542      43A8CB43 
@@ -2578,7 +2578,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  553      C9A4A26A 
  553      613C
  554 11c5 4C56562B 		.ascii	"LVV+\254\207\225>\032\325\306\307*\236\244C\365\217"
-ARM GAS  /tmp/ccQUTNDp.s 			page 44
+ARM GAS  /tmp/cc1gkTZs.s 			page 44
 
 
  554      AC87953E 
@@ -2634,11 +2634,11 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  564      0AE8FF01 
  564      E11370E7 
  565              		.text
- 566              		.section	.gnu.lto_.symtab.9d0686ebbd798dd2,"",%progbits
+ 566              		.section	.gnu.lto_.symtab.8db9abcc2f20e0ea,"",%progbits
  567 0000 74657374 		.ascii	"test_sequence_010\000\000\000\000\000\000\000\000\000"
  567      5F736571 
  567      75656E63 
-ARM GAS  /tmp/ccQUTNDp.s 			page 45
+ARM GAS  /tmp/cc1gkTZs.s 			page 45
 
 
  567      655F3031 
@@ -2698,7 +2698,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  578      00020000 
  579 0106 000000C5 		.ascii	"\000\000\000\305\001\000\000chPoolFree\000\000\002\000"
  579      01000063 
-ARM GAS  /tmp/ccQUTNDp.s 			page 46
+ARM GAS  /tmp/cc1gkTZs.s 			page 46
 
 
  579      68506F6F 
@@ -2758,7 +2758,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  602              		.cfi_startproc
  603              		@ args = 0, pretend = 0, frame = 0
  604              		@ frame_needed = 0, uses_anonymous_args = 0
-ARM GAS  /tmp/ccQUTNDp.s 			page 47
+ARM GAS  /tmp/cc1gkTZs.s 			page 47
 
 
  605              		@ link register save eliminated.
@@ -2818,7 +2818,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  657 0036 00BFAFF3 		.section	.text.test_010_003_setup,"ax",%progbits
  657      0080AFF3 
  657      0080
-ARM GAS  /tmp/ccQUTNDp.s 			page 48
+ARM GAS  /tmp/cc1gkTZs.s 			page 48
 
 
  658              		.align	2
@@ -2878,7 +2878,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  712              		@ frame_needed = 0, uses_anonymous_args = 0
  713              		@ link register save eliminated.
  714              		.loc 1 93 0
-ARM GAS  /tmp/ccQUTNDp.s 			page 49
+ARM GAS  /tmp/cc1gkTZs.s 			page 49
 
 
  715 0000 40F20000 		movw	r0, #:lower16:.LANCHOR1
@@ -2938,7 +2938,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  769              		.loc 1 198 0
  770 002a 40F20000 		movw	r0, #:lower16:.LANCHOR0
  771 002e 0021     		movs	r1, #0
-ARM GAS  /tmp/ccQUTNDp.s 			page 50
+ARM GAS  /tmp/cc1gkTZs.s 			page 50
 
 
  772 0030 C0F20000 		movt	r0, #:upper16:.LANCHOR0
@@ -2998,7 +2998,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  826              		.loc 1 212 0
  827 0094 40F20000 		movw	r0, #:lower16:.LANCHOR0
  828 0098 2146     		mov	r1, r4
-ARM GAS  /tmp/ccQUTNDp.s 			page 51
+ARM GAS  /tmp/cc1gkTZs.s 			page 51
 
 
  829 009a C0F20000 		movt	r0, #:upper16:.LANCHOR0
@@ -3058,7 +3058,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  883 00f2 38BF     		it	cc
  884 00f4 0020     		movcc	r0, #0
  885 00f6 C0F20001 		movt	r1, #:upper16:.LC0
-ARM GAS  /tmp/ccQUTNDp.s 			page 52
+ARM GAS  /tmp/cc1gkTZs.s 			page 52
 
 
  886 00fa FFF7FEBF 		b	_test_assert
@@ -3118,7 +3118,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  940              		.loc 1 109 0
  941 002a 40F20000 		movw	r0, #:lower16:.LANCHOR1
  942 002e C0F20000 		movt	r0, #:upper16:.LANCHOR1
-ARM GAS  /tmp/ccQUTNDp.s 			page 53
+ARM GAS  /tmp/cc1gkTZs.s 			page 53
 
 
  943 0032 FFF7FEFF 		bl	chPoolAlloc
@@ -3178,7 +3178,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  997 0094 2146     		mov	r1, r4
  998 0096 C0F20000 		movt	r0, #:upper16:.LANCHOR1
  999 009a 0434     		adds	r4, r4, #4
-ARM GAS  /tmp/ccQUTNDp.s 			page 54
+ARM GAS  /tmp/cc1gkTZs.s 			page 54
 
 
  1000 009c FFF7FEFF 		bl	chPoolFree
@@ -3238,7 +3238,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  1054 00fa 00B1     		cbz	r0, .L27
  1055              	.L17:
  1056 00fc F8BD     		pop	{r3, r4, r5, r6, r7, pc}
-ARM GAS  /tmp/ccQUTNDp.s 			page 55
+ARM GAS  /tmp/cc1gkTZs.s 			page 55
 
 
  1057              	.L27:
@@ -3298,7 +3298,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  1111              		.type	test_sequence_010, %object
  1112              		.size	test_sequence_010, 16
  1113              	test_sequence_010:
-ARM GAS  /tmp/ccQUTNDp.s 			page 56
+ARM GAS  /tmp/cc1gkTZs.s 			page 56
 
 
  1114 0000 00000000 		.word	test_010_001
@@ -3358,7 +3358,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  1144      656D7074 
  1144      79696E67 
  1145 00b7 00       		.section	.rodata.test_010_001,"a",%progbits
-ARM GAS  /tmp/ccQUTNDp.s 			page 57
+ARM GAS  /tmp/cc1gkTZs.s 			page 57
 
 
  1146              		.align	2
@@ -3418,7 +3418,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  1200 0004 0400     		.2byte	0x4
  1201 0006 00000000 		.4byte	.Ldebug_abbrev0
  1202 000a 04       		.byte	0x4
-ARM GAS  /tmp/ccQUTNDp.s 			page 58
+ARM GAS  /tmp/cc1gkTZs.s 			page 58
 
 
  1203 000b 01       		.uleb128 0x1
@@ -3478,7 +3478,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  1257 007d 05       		.byte	0x5
  1258 007e 6D010000 		.4byte	.LASF9
  1259 0082 03       		.uleb128 0x3
-ARM GAS  /tmp/ccQUTNDp.s 			page 59
+ARM GAS  /tmp/cc1gkTZs.s 			page 59
 
 
  1260 0083 40050000 		.4byte	.LASF10
@@ -3538,7 +3538,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  1314 00f5 43       		.byte	0x43
  1315 00f6 82000000 		.4byte	0x82
  1316 00fa 03       		.uleb128 0x3
-ARM GAS  /tmp/ccQUTNDp.s 			page 60
+ARM GAS  /tmp/cc1gkTZs.s 			page 60
 
 
  1317 00fb D9010000 		.4byte	.LASF22
@@ -3598,7 +3598,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  1371 016a BB050000 		.4byte	0x5bb
  1372 016e 18       		.byte	0x18
  1373 016f 06       		.uleb128 0x6
-ARM GAS  /tmp/ccQUTNDp.s 			page 61
+ARM GAS  /tmp/cc1gkTZs.s 			page 61
 
 
  1374 0170 78050000 		.4byte	.LASF30
@@ -3658,7 +3658,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  1428 01df EF020000 		.4byte	.LASF38
  1429 01e3 06       		.byte	0x6
  1430 01e4 2B01     		.2byte	0x12b
-ARM GAS  /tmp/ccQUTNDp.s 			page 62
+ARM GAS  /tmp/cc1gkTZs.s 			page 62
 
 
  1431 01e6 D9000000 		.4byte	0xd9
@@ -3718,7 +3718,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  1485 0256 06       		.byte	0x6
  1486 0257 91       		.byte	0x91
  1487 0258 04020000 		.4byte	0x204
-ARM GAS  /tmp/ccQUTNDp.s 			page 63
+ARM GAS  /tmp/cc1gkTZs.s 			page 63
 
 
  1488 025c 04       		.byte	0x4
@@ -3778,7 +3778,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  1542 02cc D0020000 		.4byte	0x2d0
  1543 02d0 0A       		.uleb128 0xa
  1544 02d1 04       		.byte	0x4
-ARM GAS  /tmp/ccQUTNDp.s 			page 64
+ARM GAS  /tmp/cc1gkTZs.s 			page 64
 
 
  1545 02d2 D6020000 		.4byte	0x2d6
@@ -3838,7 +3838,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  1599 0344 48030000 		.4byte	0x348
  1600 0348 0B       		.uleb128 0xb
  1601 0349 27030000 		.4byte	.LASF57
-ARM GAS  /tmp/ccQUTNDp.s 			page 65
+ARM GAS  /tmp/cc1gkTZs.s 			page 65
 
 
  1602 034d 0C       		.byte	0xc
@@ -3898,7 +3898,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  1656 03c0 74       		.byte	0x74
  1657 03c1 06       		.byte	0x6
  1658 03c2 9C01     		.2byte	0x19c
-ARM GAS  /tmp/ccQUTNDp.s 			page 66
+ARM GAS  /tmp/cc1gkTZs.s 			page 66
 
 
  1659 03c4 09040000 		.4byte	0x409
@@ -3958,7 +3958,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  1713 0437 48030000 		.4byte	.LASF70
  1714 043b 04       		.byte	0x4
  1715 043c 07       		.byte	0x7
-ARM GAS  /tmp/ccQUTNDp.s 			page 67
+ARM GAS  /tmp/cc1gkTZs.s 			page 67
 
 
  1716 043d 89       		.byte	0x89
@@ -4018,7 +4018,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  1770 04a9 7201     		.2byte	0x172
  1771 04ab 20040000 		.4byte	0x420
  1772 04af 18       		.byte	0x18
-ARM GAS  /tmp/ccQUTNDp.s 			page 68
+ARM GAS  /tmp/cc1gkTZs.s 			page 68
 
 
  1773 04b0 08       		.uleb128 0x8
@@ -4078,7 +4078,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  1827 051a 0B020000 		.4byte	.LASF77
  1828 051e 06       		.byte	0x6
  1829 051f EE       		.byte	0xee
-ARM GAS  /tmp/ccQUTNDp.s 			page 69
+ARM GAS  /tmp/cc1gkTZs.s 			page 69
 
 
  1830 0520 53050000 		.4byte	0x553
@@ -4138,7 +4138,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  1884 0591 2D020000 		.4byte	.LASF25
  1885 0595 0B       		.byte	0xb
  1886 0596 3A       		.byte	0x3a
-ARM GAS  /tmp/ccQUTNDp.s 			page 70
+ARM GAS  /tmp/cc1gkTZs.s 			page 70
 
 
  1887 0597 2E020000 		.4byte	0x22e
@@ -4198,7 +4198,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  1941 0606 0C       		.byte	0xc
  1942 0607 47       		.byte	0x47
  1943 0608 0C060000 		.4byte	0x60c
-ARM GAS  /tmp/ccQUTNDp.s 			page 71
+ARM GAS  /tmp/cc1gkTZs.s 			page 71
 
 
  1944 060c 0A       		.uleb128 0xa
@@ -4258,7 +4258,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  1998 0678 46       		.byte	0x46
  1999 0679 45060000 		.4byte	0x645
  2000 067d 11       		.uleb128 0x11
-ARM GAS  /tmp/ccQUTNDp.s 			page 72
+ARM GAS  /tmp/cc1gkTZs.s 			page 72
 
 
  2001 067e 18       		.byte	0x18
@@ -4318,7 +4318,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  2055 06e7 0C       		.byte	0xc
  2056 06e8 00       		.byte	0
  2057 06e9 03       		.uleb128 0x3
-ARM GAS  /tmp/ccQUTNDp.s 			page 73
+ARM GAS  /tmp/cc1gkTZs.s 			page 73
 
 
  2058 06ea D6020000 		.4byte	.LASF99
@@ -4378,7 +4378,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  2112 075b 01       		.byte	0x1
  2113 075c 0501     		.2byte	0x105
  2114 075e 00000000 		.4byte	.LFB223
-ARM GAS  /tmp/ccQUTNDp.s 			page 74
+ARM GAS  /tmp/cc1gkTZs.s 			page 74
 
 
  2115 0762 36000000 		.4byte	.LFE223-.LFB223
@@ -4438,7 +4438,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  2169 07c7 00000000 		.4byte	.LANCHOR0
  2170 07cb 00       		.byte	0
  2171 07cc 00       		.byte	0
-ARM GAS  /tmp/ccQUTNDp.s 			page 75
+ARM GAS  /tmp/cc1gkTZs.s 			page 75
 
 
  2172 07cd 22       		.uleb128 0x22
@@ -4498,7 +4498,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  2226 082d 00       		.byte	0
  2227 082e 23       		.uleb128 0x23
  2228 082f F4060000 		.4byte	0x6f4
-ARM GAS  /tmp/ccQUTNDp.s 			page 76
+ARM GAS  /tmp/cc1gkTZs.s 			page 76
 
 
  2229 0833 00000000 		.4byte	.LFB221
@@ -4558,7 +4558,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  2283 08a5 05       		.uleb128 0x5
  2284 08a6 03       		.byte	0x3
  2285 08a7 10000000 		.4byte	.LC1
-ARM GAS  /tmp/ccQUTNDp.s 			page 77
+ARM GAS  /tmp/cc1gkTZs.s 			page 77
 
 
  2286 08ab 00       		.byte	0
@@ -4618,7 +4618,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  2340 090b 1E090000 		.4byte	0x91e
  2341 090f 20       		.uleb128 0x20
  2342 0910 01       		.uleb128 0x1
-ARM GAS  /tmp/ccQUTNDp.s 			page 78
+ARM GAS  /tmp/cc1gkTZs.s 			page 78
 
 
  2343 0911 51       		.byte	0x51
@@ -4678,7 +4678,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  2397 0974 9C       		.byte	0x9c
  2398 0975 DB0A0000 		.4byte	0xadb
  2399 0979 24       		.uleb128 0x24
-ARM GAS  /tmp/ccQUTNDp.s 			page 79
+ARM GAS  /tmp/cc1gkTZs.s 			page 79
 
 
  2400 097a 16070000 		.4byte	0x716
@@ -4738,7 +4738,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  2454 09ef 05       		.uleb128 0x5
  2455 09f0 03       		.byte	0x3
  2456 09f1 00000000 		.4byte	.LANCHOR1
-ARM GAS  /tmp/ccQUTNDp.s 			page 80
+ARM GAS  /tmp/cc1gkTZs.s 			page 80
 
 
  2457 09f5 00       		.byte	0
@@ -4798,7 +4798,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  2511 0a5b 00       		.byte	0
  2512 0a5c 00       		.byte	0
  2513 0a5d 1F       		.uleb128 0x1f
-ARM GAS  /tmp/ccQUTNDp.s 			page 81
+ARM GAS  /tmp/cc1gkTZs.s 			page 81
 
 
  2514 0a5e 24000000 		.4byte	.LVL26
@@ -4858,7 +4858,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  2568 0ac7 26       		.uleb128 0x26
  2569 0ac8 7C000000 		.4byte	.LVL33
  2570 0acc BB0B0000 		.4byte	0xbbb
-ARM GAS  /tmp/ccQUTNDp.s 			page 82
+ARM GAS  /tmp/cc1gkTZs.s 			page 82
 
 
  2571 0ad0 20       		.uleb128 0x20
@@ -4918,7 +4918,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  2625 0b3d 1F0B0000 		.4byte	0xb1f
  2626 0b41 05       		.uleb128 0x5
  2627 0b42 03       		.byte	0x3
-ARM GAS  /tmp/ccQUTNDp.s 			page 83
+ARM GAS  /tmp/cc1gkTZs.s 			page 83
 
 
  2628 0b43 00000000 		.4byte	test_010_003
@@ -4978,7 +4978,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  2682 0bc0 0E       		.byte	0xe
  2683 0bc1 A6       		.byte	0xa6
  2684 0bc2 FA050000 		.4byte	0x5fa
-ARM GAS  /tmp/ccQUTNDp.s 			page 84
+ARM GAS  /tmp/cc1gkTZs.s 			page 84
 
 
  2685 0bc6 D50B0000 		.4byte	0xbd5
@@ -5038,7 +5038,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  2739 0c3e 46060000 		.4byte	.LASF122
  2740 0c42 0D       		.byte	0xd
  2741 0c43 96       		.byte	0x96
-ARM GAS  /tmp/ccQUTNDp.s 			page 85
+ARM GAS  /tmp/cc1gkTZs.s 			page 85
 
 
  2742 0c44 530C0000 		.4byte	0xc53
@@ -5098,7 +5098,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  2796 0019 0B       		.uleb128 0xb
  2797 001a 03       		.uleb128 0x3
  2798 001b 08       		.uleb128 0x8
-ARM GAS  /tmp/ccQUTNDp.s 			page 86
+ARM GAS  /tmp/cc1gkTZs.s 			page 86
 
 
  2799 001c 00       		.byte	0
@@ -5158,7 +5158,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  2853 0052 00       		.byte	0
  2854 0053 00       		.byte	0
  2855 0054 07       		.uleb128 0x7
-ARM GAS  /tmp/ccQUTNDp.s 			page 87
+ARM GAS  /tmp/cc1gkTZs.s 			page 87
 
 
  2856 0055 0D       		.uleb128 0xd
@@ -5218,7 +5218,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  2910 008b 13       		.uleb128 0x13
  2911 008c 01       		.byte	0x1
  2912 008d 03       		.uleb128 0x3
-ARM GAS  /tmp/ccQUTNDp.s 			page 88
+ARM GAS  /tmp/cc1gkTZs.s 			page 88
 
 
  2913 008e 0E       		.uleb128 0xe
@@ -5278,7 +5278,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  2967 00c4 01       		.byte	0x1
  2968 00c5 0B       		.uleb128 0xb
  2969 00c6 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccQUTNDp.s 			page 89
+ARM GAS  /tmp/cc1gkTZs.s 			page 89
 
 
  2970 00c7 3A       		.uleb128 0x3a
@@ -5338,7 +5338,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  3024 00fd 16       		.uleb128 0x16
  3025 00fe 35       		.uleb128 0x35
  3026 00ff 00       		.byte	0
-ARM GAS  /tmp/ccQUTNDp.s 			page 90
+ARM GAS  /tmp/cc1gkTZs.s 			page 90
 
 
  3027 0100 49       		.uleb128 0x49
@@ -5398,7 +5398,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  3081 0136 01       		.byte	0x1
  3082 0137 03       		.uleb128 0x3
  3083 0138 0E       		.uleb128 0xe
-ARM GAS  /tmp/ccQUTNDp.s 			page 91
+ARM GAS  /tmp/cc1gkTZs.s 			page 91
 
 
  3084 0139 3A       		.uleb128 0x3a
@@ -5458,7 +5458,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  3138 0170 0E       		.uleb128 0xe
  3139 0171 3A       		.uleb128 0x3a
  3140 0172 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccQUTNDp.s 			page 92
+ARM GAS  /tmp/cc1gkTZs.s 			page 92
 
 
  3141 0173 3B       		.uleb128 0x3b
@@ -5518,7 +5518,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  3195 01b2 3B       		.uleb128 0x3b
  3196 01b3 0B       		.uleb128 0xb
  3197 01b4 27       		.uleb128 0x27
-ARM GAS  /tmp/ccQUTNDp.s 			page 93
+ARM GAS  /tmp/cc1gkTZs.s 			page 93
 
 
  3198 01b5 19       		.uleb128 0x19
@@ -5578,7 +5578,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  3252 01ef 13       		.uleb128 0x13
  3253 01f0 00       		.byte	0
  3254 01f1 00       		.byte	0
-ARM GAS  /tmp/ccQUTNDp.s 			page 94
+ARM GAS  /tmp/cc1gkTZs.s 			page 94
 
 
  3255 01f2 27       		.uleb128 0x27
@@ -5638,7 +5638,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  3309 0228 49       		.uleb128 0x49
  3310 0229 13       		.uleb128 0x13
  3311 022a 3F       		.uleb128 0x3f
-ARM GAS  /tmp/ccQUTNDp.s 			page 95
+ARM GAS  /tmp/cc1gkTZs.s 			page 95
 
 
  3312 022b 19       		.uleb128 0x19
@@ -5698,7 +5698,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  3366 0261 00       		.byte	0
  3367 0262 00       		.byte	0
  3368 0263 2E       		.uleb128 0x2e
-ARM GAS  /tmp/ccQUTNDp.s 			page 96
+ARM GAS  /tmp/cc1gkTZs.s 			page 96
 
 
  3369 0264 2E       		.uleb128 0x2e
@@ -5758,7 +5758,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  3423 029a 00       		.byte	0
  3424 029b 00       		.byte	0
  3425 029c 00       		.byte	0
-ARM GAS  /tmp/ccQUTNDp.s 			page 97
+ARM GAS  /tmp/cc1gkTZs.s 			page 97
 
 
  3426              		.section	.debug_loc,"",%progbits
@@ -5818,7 +5818,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  3480 006e AE000000 		.4byte	.LVL19
  3481 0072 CE000000 		.4byte	.LVL21
  3482 0076 0500     		.2byte	0x5
-ARM GAS  /tmp/ccQUTNDp.s 			page 98
+ARM GAS  /tmp/cc1gkTZs.s 			page 98
 
 
  3483 0078 34       		.byte	0x34
@@ -5878,7 +5878,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  3537 00e0 00000000 		.4byte	0
  3538              	.LLST4:
  3539 00e4 A8000000 		.4byte	.LVL37
-ARM GAS  /tmp/ccQUTNDp.s 			page 99
+ARM GAS  /tmp/cc1gkTZs.s 			page 99
 
 
  3540 00e8 AA000000 		.4byte	.LVL38
@@ -5938,7 +5938,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  3594              		.section	.debug_ranges,"",%progbits
  3595              	.Ldebug_ranges0:
  3596 0000 8C000000 		.4byte	.LBB5
-ARM GAS  /tmp/ccQUTNDp.s 			page 100
+ARM GAS  /tmp/cc1gkTZs.s 			page 100
 
 
  3597 0004 E6000000 		.4byte	.LBE5
@@ -5998,7 +5998,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  3637              	.LASF115:
  3638 0037 74657374 		.ascii	"test_sequence_010\000"
  3638      5F736571 
-ARM GAS  /tmp/ccQUTNDp.s 			page 101
+ARM GAS  /tmp/cc1gkTZs.s 			page 101
 
 
  3638      75656E63 
@@ -6058,7 +6058,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  3662      66666572 
  3662      00
  3663              	.LASF44:
-ARM GAS  /tmp/ccQUTNDp.s 			page 102
+ARM GAS  /tmp/cc1gkTZs.s 			page 102
 
 
  3664 00de 6E657874 		.ascii	"next\000"
@@ -6118,7 +6118,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  3690 0184 75696E74 		.ascii	"uint16_t\000"
  3690      31365F74 
  3690      00
-ARM GAS  /tmp/ccQUTNDp.s 			page 103
+ARM GAS  /tmp/cc1gkTZs.s 			page 103
 
 
  3691              	.LASF127:
@@ -6178,7 +6178,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  3718      6F6F6C5F 
  3718      7400
  3719              	.LASF29:
-ARM GAS  /tmp/ccQUTNDp.s 			page 104
+ARM GAS  /tmp/cc1gkTZs.s 			page 104
 
 
  3720 0228 6E616D65 		.ascii	"name\000"
@@ -6238,7 +6238,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  3746 02b6 74657374 		.ascii	"test_010_001_execute\000"
  3746      5F303130 
  3746      5F303031 
-ARM GAS  /tmp/ccQUTNDp.s 			page 105
+ARM GAS  /tmp/cc1gkTZs.s 			page 105
 
 
  3746      5F657865 
@@ -6298,7 +6298,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  3770      72617469 
  3770      6F6E5F74 
  3770      00
-ARM GAS  /tmp/ccQUTNDp.s 			page 106
+ARM GAS  /tmp/cc1gkTZs.s 			page 106
 
 
  3771              	.LASF96:
@@ -6358,7 +6358,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  3792      2D666C74 
  3792      6F00
  3793              	.LASF37:
-ARM GAS  /tmp/ccQUTNDp.s 			page 107
+ARM GAS  /tmp/cc1gkTZs.s 			page 107
 
 
  3794 049e 6D74786C 		.ascii	"mtxlist\000"
@@ -6418,7 +6418,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  3821              	.LASF82:
  3822 0533 63685F73 		.ascii	"ch_semaphore\000"
  3822      656D6170 
-ARM GAS  /tmp/ccQUTNDp.s 			page 108
+ARM GAS  /tmp/cc1gkTZs.s 			page 108
 
 
  3822      686F7265 
@@ -6478,7 +6478,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  3849              	.LASF72:
  3850 05c5 6F666673 		.ascii	"offset\000"
  3850      657400
-ARM GAS  /tmp/ccQUTNDp.s 			page 109
+ARM GAS  /tmp/cc1gkTZs.s 			page 109
 
 
  3851              	.LASF121:
@@ -6538,7 +6538,7 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  3878      6A7000
  3879              	.LASF90:
  3880 065e 706F6F6C 		.ascii	"pool_header\000"
-ARM GAS  /tmp/ccQUTNDp.s 			page 110
+ARM GAS  /tmp/cc1gkTZs.s 			page 110
 
 
  3880      5F686561 
@@ -6566,46 +6566,46 @@ ARM GAS  /tmp/ccQUTNDp.s 			page 1
  3888      757000
  3889              		.comm	__gnu_lto_v1,1,1
  3890              		.ident	"GCC: (Sourcery CodeBench Lite 2013.11-24) 4.8.1"
-ARM GAS  /tmp/ccQUTNDp.s 			page 111
+ARM GAS  /tmp/cc1gkTZs.s 			page 111
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 test_sequence_010.c
-     /tmp/ccQUTNDp.s:593    .text.null_provider:00000000 $t
-     /tmp/ccQUTNDp.s:598    .text.null_provider:00000000 null_provider
-     /tmp/ccQUTNDp.s:615    .text.test_010_003_execute:00000000 $t
-     /tmp/ccQUTNDp.s:620    .text.test_010_003_execute:00000000 test_010_003_execute
-     /tmp/ccQUTNDp.s:1099   .data.gmp1:00000000 .LANCHOR0
-     /tmp/ccQUTNDp.s:1127   .rodata.str1.4:00000000 .LC0
-     /tmp/ccQUTNDp.s:658    .text.test_010_003_setup:00000000 $t
-     /tmp/ccQUTNDp.s:663    .text.test_010_003_setup:00000000 test_010_003_setup
-     /tmp/ccQUTNDp.s:680    .text.test_010_002_setup:00000000 $t
-     /tmp/ccQUTNDp.s:685    .text.test_010_002_setup:00000000 test_010_002_setup
-     /tmp/ccQUTNDp.s:702    .text.test_010_001_setup:00000000 $t
-     /tmp/ccQUTNDp.s:707    .text.test_010_001_setup:00000000 test_010_001_setup
-     /tmp/ccQUTNDp.s:1174   .data.mp1:00000000 .LANCHOR1
-     /tmp/ccQUTNDp.s:725    .text.test_010_002_execute:00000000 $t
-     /tmp/ccQUTNDp.s:730    .text.test_010_002_execute:00000000 test_010_002_execute
-     /tmp/ccQUTNDp.s:1120   .bss.objects:00000000 .LANCHOR2
-     /tmp/ccQUTNDp.s:1130   .rodata.str1.4:00000010 .LC1
-     /tmp/ccQUTNDp.s:896    .text.test_010_001_execute:00000000 $t
-     /tmp/ccQUTNDp.s:901    .text.test_010_001_execute:00000000 test_010_001_execute
-     /tmp/ccQUTNDp.s:1133   .rodata.str1.4:0000001c .LC2
-     /tmp/ccQUTNDp.s:1113   .rodata.test_sequence_010:00000000 test_sequence_010
-     /tmp/ccQUTNDp.s:1098   .data.gmp1:00000000 $d
-     /tmp/ccQUTNDp.s:1102   .data.gmp1:00000000 gmp1
-     /tmp/ccQUTNDp.s:1110   .rodata.test_sequence_010:00000000 $d
-     /tmp/ccQUTNDp.s:1149   .rodata.test_010_001:00000000 test_010_001
-     /tmp/ccQUTNDp.s:1158   .rodata.test_010_002:00000000 test_010_002
-     /tmp/ccQUTNDp.s:1167   .rodata.test_010_003:00000000 test_010_003
-     /tmp/ccQUTNDp.s:1119   .bss.objects:00000000 $d
-     /tmp/ccQUTNDp.s:1123   .bss.objects:00000000 objects
-     /tmp/ccQUTNDp.s:1126   .rodata.str1.4:00000000 $d
-     /tmp/ccQUTNDp.s:1146   .rodata.test_010_001:00000000 $d
-     /tmp/ccQUTNDp.s:1155   .rodata.test_010_002:00000000 $d
-     /tmp/ccQUTNDp.s:1164   .rodata.test_010_003:00000000 $d
-     /tmp/ccQUTNDp.s:1173   .data.mp1:00000000 $d
-     /tmp/ccQUTNDp.s:1177   .data.mp1:00000000 mp1
+     /tmp/cc1gkTZs.s:593    .text.null_provider:00000000 $t
+     /tmp/cc1gkTZs.s:598    .text.null_provider:00000000 null_provider
+     /tmp/cc1gkTZs.s:615    .text.test_010_003_execute:00000000 $t
+     /tmp/cc1gkTZs.s:620    .text.test_010_003_execute:00000000 test_010_003_execute
+     /tmp/cc1gkTZs.s:1099   .data.gmp1:00000000 .LANCHOR0
+     /tmp/cc1gkTZs.s:1127   .rodata.str1.4:00000000 .LC0
+     /tmp/cc1gkTZs.s:658    .text.test_010_003_setup:00000000 $t
+     /tmp/cc1gkTZs.s:663    .text.test_010_003_setup:00000000 test_010_003_setup
+     /tmp/cc1gkTZs.s:680    .text.test_010_002_setup:00000000 $t
+     /tmp/cc1gkTZs.s:685    .text.test_010_002_setup:00000000 test_010_002_setup
+     /tmp/cc1gkTZs.s:702    .text.test_010_001_setup:00000000 $t
+     /tmp/cc1gkTZs.s:707    .text.test_010_001_setup:00000000 test_010_001_setup
+     /tmp/cc1gkTZs.s:1174   .data.mp1:00000000 .LANCHOR1
+     /tmp/cc1gkTZs.s:725    .text.test_010_002_execute:00000000 $t
+     /tmp/cc1gkTZs.s:730    .text.test_010_002_execute:00000000 test_010_002_execute
+     /tmp/cc1gkTZs.s:1120   .bss.objects:00000000 .LANCHOR2
+     /tmp/cc1gkTZs.s:1130   .rodata.str1.4:00000010 .LC1
+     /tmp/cc1gkTZs.s:896    .text.test_010_001_execute:00000000 $t
+     /tmp/cc1gkTZs.s:901    .text.test_010_001_execute:00000000 test_010_001_execute
+     /tmp/cc1gkTZs.s:1133   .rodata.str1.4:0000001c .LC2
+     /tmp/cc1gkTZs.s:1113   .rodata.test_sequence_010:00000000 test_sequence_010
+     /tmp/cc1gkTZs.s:1098   .data.gmp1:00000000 $d
+     /tmp/cc1gkTZs.s:1102   .data.gmp1:00000000 gmp1
+     /tmp/cc1gkTZs.s:1110   .rodata.test_sequence_010:00000000 $d
+     /tmp/cc1gkTZs.s:1149   .rodata.test_010_001:00000000 test_010_001
+     /tmp/cc1gkTZs.s:1158   .rodata.test_010_002:00000000 test_010_002
+     /tmp/cc1gkTZs.s:1167   .rodata.test_010_003:00000000 test_010_003
+     /tmp/cc1gkTZs.s:1119   .bss.objects:00000000 $d
+     /tmp/cc1gkTZs.s:1123   .bss.objects:00000000 objects
+     /tmp/cc1gkTZs.s:1126   .rodata.str1.4:00000000 $d
+     /tmp/cc1gkTZs.s:1146   .rodata.test_010_001:00000000 $d
+     /tmp/cc1gkTZs.s:1155   .rodata.test_010_002:00000000 $d
+     /tmp/cc1gkTZs.s:1164   .rodata.test_010_003:00000000 $d
+     /tmp/cc1gkTZs.s:1173   .data.mp1:00000000 $d
+     /tmp/cc1gkTZs.s:1177   .data.mp1:00000000 mp1
                             *COM*:00000001 __gnu_lto_v1
                      .debug_frame:00000010 $d
 

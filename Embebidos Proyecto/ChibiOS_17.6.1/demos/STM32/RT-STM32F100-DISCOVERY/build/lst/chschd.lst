@@ -1,4 +1,4 @@
-ARM GAS  /tmp/cc8RcNGg.s 			page 1
+ARM GAS  /tmp/ccxmMRIa.s 			page 1
 
 
    1              		.syntax unified
@@ -17,7 +17,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
   14              		.file	"chschd.c"
   15              		.text
   16              	.Ltext0:
-  17              		.section	.gnu.lto_.jmpfuncs.48a9e4f3395dd738,"",%progbits
+  17              		.section	.gnu.lto_.jmpfuncs.abec13c54b612096,"",%progbits
   18 0000 789C6D8E 		.ascii	"x\234m\216;\016\2000\014C\355\244\374\0318\036;S/\300"
   18      3B0E8030 
   18      0C43EDA4 
@@ -43,7 +43,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
   22      9AEE09
   23 005b 4A       		.ascii	"J"
   24              		.text
-  25              		.section	.gnu.lto_.inline.48a9e4f3395dd738,"",%progbits
+  25              		.section	.gnu.lto_.inline.abec13c54b612096,"",%progbits
   26 0000 789C6362 		.ascii	"x\234cb`b\300\006\0263Bh\036\006\006-;F\006&\347\003"
   26      6062C006 
   26      16334268 
@@ -58,7 +58,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
   28      070B3133 
   28      F01D6060 
   28      646400EA 
-ARM GAS  /tmp/cc8RcNGg.s 			page 2
+ARM GAS  /tmp/ccxmMRIa.s 			page 2
 
 
   28      63766011 
@@ -109,7 +109,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
   38      2E060095 
   38      AD3FD6
   39              		.text
-  40              		.section	.gnu.lto_.pureconst.48a9e4f3395dd738,"",%progbits
+  40              		.section	.gnu.lto_.pureconst.abec13c54b612096,"",%progbits
   41 0000 789C6362 		.ascii	"x\234cb`b\220d\200\000\036\006+&)f)\026)V)6Iv)\016V"
   41      60629064 
   41      80001E06 
@@ -118,12 +118,12 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
   42 001b 4E292E29 		.ascii	"N).)nI\036)\000\030\215\001\270"
   42      6E491E29 
   42      00188D01 
-ARM GAS  /tmp/cc8RcNGg.s 			page 3
+ARM GAS  /tmp/ccxmMRIa.s 			page 3
 
 
   42      B8
   43              		.text
-  44              		.section	.gnu.lto_wakeup.48a9e4f3395dd738,"",%progbits
+  44              		.section	.gnu.lto_wakeup.abec13c54b612096,"",%progbits
   45 0000 789CB557 		.ascii	"x\234\265W]l\024U\024>g~v\366\207R\332\322-m\0104$\232"
   45      5D6C1455 
   45      143E677E 
@@ -178,7 +178,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
   55      3988
   56 00ca CBE0A865 		.ascii	"\313\340\250e\355\037\035\277}\023\017X\251\344\021"
   56      ED1F1DBF 
-ARM GAS  /tmp/cc8RcNGg.s 			page 4
+ARM GAS  /tmp/ccxmMRIa.s 			page 4
 
 
   56      7D130F58 
@@ -238,7 +238,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
   67      7DDB75E1 
   67      940A203C 
   68 01a8 905997E8 		.ascii	"\220Y\227\350\226\351\346\206\221~\307\351\225*N\026"
-ARM GAS  /tmp/cc8RcNGg.s 			page 5
+ARM GAS  /tmp/ccxmMRIa.s 			page 5
 
 
   68      96E9E686 
@@ -298,7 +298,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
   79      BF3E31E2 
   79      921FE0E4 
   79      2BCB
-ARM GAS  /tmp/cc8RcNGg.s 			page 6
+ARM GAS  /tmp/ccxmMRIa.s 			page 6
 
 
   80 0280 E1138BAE 		.ascii	"\341\023\213\256\025&\316\237\271\016\320~:;\035\341"
@@ -358,7 +358,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
   91      2B17
   92 0349 93319B47 		.ascii	"\2231\233G\252\21427\240\\*\025\206r\205\025C\023\252"
   92      AA8C3237 
-ARM GAS  /tmp/cc8RcNGg.s 			page 7
+ARM GAS  /tmp/ccxmMRIa.s 			page 7
 
 
   92      A05C2A15 
@@ -418,7 +418,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  103      94C96277 
  103      12E0CD18 
  104 042a B6CBE8FE 		.ascii	"\266\313\350\3769\333j3V\330\340/g\210\1771\207\370"
-ARM GAS  /tmp/cc8RcNGg.s 			page 8
+ARM GAS  /tmp/ccxmMRIa.s 			page 8
 
 
  104      39DB6A33 
@@ -478,7 +478,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  115      22FE5A13 
  115      91787B24 
  115      113722
-ARM GAS  /tmp/cc8RcNGg.s 			page 9
+ARM GAS  /tmp/ccxmMRIa.s 			page 9
 
 
  116 050b 464BC268 		.ascii	"FK\302h\331Pg\200d\264I\355m\265\336)Fk,\326\272)\322"
@@ -516,7 +516,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  122      C0DF26AC 
  122      8A4C
  123              		.text
- 124              		.section	.gnu.lto__scheduler_init.48a9e4f3395dd738,"",%progbits
+ 124              		.section	.gnu.lto__scheduler_init.abec13c54b612096,"",%progbits
  125 0000 789CAD53 		.ascii	"x\234\255S\277K\303@\030\375\276KS\253\342\217U\020"
  125      BF4BC340 
  125      18FDBE4B 
@@ -538,7 +538,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  128      0E5A3C92 
  128      7C2F97F7 
  129 0050 BEF772C9 		.ascii	"\276\367r\311\021 \3209F\370\231P\000fxE\005\220\024"
-ARM GAS  /tmp/cc8RcNGg.s 			page 10
+ARM GAS  /tmp/ccxmMRIa.s 			page 10
 
 
  129      1120D039 
@@ -598,7 +598,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  140      19D8E3C1 
  140      7EAEF613 
  140      857E4A14 
-ARM GAS  /tmp/cc8RcNGg.s 			page 11
+ARM GAS  /tmp/ccxmMRIa.s 			page 11
 
 
  141 0130 F4DAB6DA 		.ascii	"\364\332\266\332\313\317*\236\364z\355\033\333\267\273"
@@ -628,7 +628,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  146      14872F05 
  147 0190 A6EC42   		.ascii	"\246\354B"
  148              		.text
- 149              		.section	.gnu.lto_chSchReadyI.48a9e4f3395dd738,"",%progbits
+ 149              		.section	.gnu.lto_chSchReadyI.abec13c54b612096,"",%progbits
  150 0000 789C9D92 		.ascii	"x\234\235\222\317k\023A\024\307\337wfg7\333\372\343"
  150      CF6B1341 
  150      14C7DF77 
@@ -658,7 +658,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  155      EB223FA7 
  155      3DA2731C 
  155      E113C4FC 
-ARM GAS  /tmp/cc8RcNGg.s 			page 12
+ARM GAS  /tmp/ccxmMRIa.s 			page 12
 
 
  155      5B
@@ -718,7 +718,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  167      94038EB3 
  167      34B71DE3 
  167      329968E4 
-ARM GAS  /tmp/cc8RcNGg.s 			page 13
+ARM GAS  /tmp/ccxmMRIa.s 			page 13
 
 
  167      45
@@ -775,10 +775,10 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  178      07
  179 020b 173CF2ED 		.ascii	"\027<\362\355"
  180              		.text
- 181              		.section	.gnu.lto_chSchReadyAheadI.48a9e4f3395dd738,"",%progbits
+ 181              		.section	.gnu.lto_chSchReadyAheadI.abec13c54b612096,"",%progbits
  182 0000 789C9D92 		.ascii	"x\234\235\222\317k\023A\024\307\337wfg7\333\252\275"
  182      CF6B1341 
-ARM GAS  /tmp/cc8RcNGg.s 			page 14
+ARM GAS  /tmp/ccxmMRIa.s 			page 14
 
 
  182      14C7DF77 
@@ -838,7 +838,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  194      4952D4D2 
  194      7A65DAFE 
  194      5C079F45 
-ARM GAS  /tmp/cc8RcNGg.s 			page 15
+ARM GAS  /tmp/ccxmMRIa.s 			page 15
 
 
  194      C9F9595E 
@@ -898,7 +898,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  206      F2CFBE65 
  206      2675DA6F 
  206      542A
-ARM GAS  /tmp/cc8RcNGg.s 			page 16
+ARM GAS  /tmp/ccxmMRIa.s 			page 16
 
 
  207 01af 3F4C3A4E 		.ascii	"?L:NQ\267\220g\251\335X\376\310\270\336\207\251\377"
@@ -927,7 +927,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  211      FE0D394E 
  211      EF10
  212              		.text
- 213              		.section	.gnu.lto_chSchGoSleepS.48a9e4f3395dd738,"",%progbits
+ 213              		.section	.gnu.lto_chSchGoSleepS.abec13c54b612096,"",%progbits
  214 0000 789CA553 		.ascii	"x\234\245SMh\023A\024~o6\233d\243U\257\202\326\320\233"
  214      4D681341 
  214      147E6F36 
@@ -958,7 +958,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  220 006a 0D40B6D0 		.ascii	"\015@\266\320\001\250\246\031\242\010\000a\232\341\364"
  220      01A8A619 
  220      A2080061 
-ARM GAS  /tmp/cc8RcNGg.s 			page 17
+ARM GAS  /tmp/ccxmMRIa.s 			page 17
 
 
  220      9AE1F4
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  232 0141 BB986670 		.ascii	"\273\230fpn?\363\224~\257[\037\244|M\376\230\362,\035"
  232      6E3FF394 
  232      7EAF5B1F 
-ARM GAS  /tmp/cc8RcNGg.s 			page 18
+ARM GAS  /tmp/ccxmMRIa.s 			page 18
 
 
  232      A47C4DFE 
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  244      195503EA 
  244      59A378CE 
  244      22F7582E 
-ARM GAS  /tmp/cc8RcNGg.s 			page 19
+ARM GAS  /tmp/ccxmMRIa.s 			page 19
 
 
  244      97579F89 
@@ -1095,7 +1095,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  247 024b 175A172C 		.ascii	"\027Z\027,,"
  247      2C
  248              		.text
- 249              		.section	.gnu.lto_chSchGoSleepTimeoutS.48a9e4f3395dd738,"",%progbits
+ 249              		.section	.gnu.lto_chSchGoSleepTimeoutS.abec13c54b612096,"",%progbits
  250 0000 789CA553 		.ascii	"x\234\245S\317k\023A\024~of7\233\337\211?\352IL\361"
  250      CF6B1341 
  250      147E6F66 
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  258      10E68434 
  258      CC888573 
  258      D7
-ARM GAS  /tmp/cc8RcNGg.s 			page 20
+ARM GAS  /tmp/ccxmMRIa.s 			page 20
 
 
  259 009d 9065F02C 		.ascii	"\220e\360,\254*\267\323\355\035|\025M\345\266V\324/"
@@ -1198,7 +1198,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  270      D17230
  271 016f 0D40C9BD 		.ascii	"\015@\311\275\274\357\255_\320\3102\306\310>\331\314"
  271      BCEFAD5F 
-ARM GAS  /tmp/cc8RcNGg.s 			page 21
+ARM GAS  /tmp/ccxmMRIa.s 			page 21
 
 
  271      D0C832C6 
@@ -1258,7 +1258,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  283 023d 66EA85DA 		.ascii	"f\352\205\332\214]\260+5\2732\225\267A4\352g\016\375"
  283      8C5DB02B 
  283      35BB3295 
-ARM GAS  /tmp/cc8RcNGg.s 			page 22
+ARM GAS  /tmp/ccxmMRIa.s 			page 22
 
 
  283      B74134EA 
@@ -1270,7 +1270,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  284      FF01
  285 0262 3A6AF32E 		.ascii	":j\363."
  286              		.text
- 287              		.section	.gnu.lto_chSchWakeupS.48a9e4f3395dd738,"",%progbits
+ 287              		.section	.gnu.lto_chSchWakeupS.abec13c54b612096,"",%progbits
  288 0000 789CA556 		.ascii	"x\234\245V\337k\034U\024>g\356\314\316\354N\262\233"
  288      DF6B1C55 
  288      143E67EE 
@@ -1318,7 +1318,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  297      40BE182A 
  297      FB91C0BC 
  297      984514
-ARM GAS  /tmp/cc8RcNGg.s 			page 23
+ARM GAS  /tmp/ccxmMRIa.s 			page 23
 
 
  298 00b2 13409877 		.ascii	"\023@\230w\230\233\3632~H\266\371c(rb\007\340\002\347"
@@ -1378,7 +1378,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  309      8D8C9044 
  309      591959CC 
  309      71043DEA 
-ARM GAS  /tmp/cc8RcNGg.s 			page 24
+ARM GAS  /tmp/ccxmMRIa.s 			page 24
 
 
  309      09AC
@@ -1438,7 +1438,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  321 024f FA836F75 		.ascii	"\372\203ou\324\012\026\022KMN_\247\220v\035y\273\016"
  321      D40A1612 
  321      4B4D4E5F 
-ARM GAS  /tmp/cc8RcNGg.s 			page 25
+ARM GAS  /tmp/ccxmMRIa.s 			page 25
 
 
  321      A790761D 
@@ -1498,7 +1498,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  333 032c 4E0B5AD6 		.ascii	"N\013Z\326\002oY\360\206\026?\241\005\313rw\216\330"
  333      026F59F0 
  333      86163FA1 
-ARM GAS  /tmp/cc8RcNGg.s 			page 26
+ARM GAS  /tmp/ccxmMRIa.s 			page 26
 
 
  333      05CB7277 
@@ -1558,7 +1558,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  344      C4C9B989 
  344      D993
  345 0411 E589F2D4 		.ascii	"\345\211\362\324ly\352\335\3612\260\023s3Ny\306\231"
-ARM GAS  /tmp/cc8RcNGg.s 			page 27
+ARM GAS  /tmp/ccxmMRIa.s 			page 27
 
 
  345      6C79EADD 
@@ -1568,7 +1568,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  346 0423 9BF91F3C 		.ascii	"\233\371\037<\270\267\332"
  346      B8B7DA
  347              		.text
- 348              		.section	.gnu.lto_chSchIsPreemptionRequired.48a9e4f3395dd738,"",%progbits
+ 348              		.section	.gnu.lto_chSchIsPreemptionRequired.abec13c54b612096,"",%progbits
  349 0000 789C9551 		.ascii	"x\234\225Q;K\003A\020\236\231{$\202\205\235\210\202"
  349      3B4B0341 
  349      109E997B 
@@ -1618,7 +1618,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  358      C4
  359 00b2 E1A4CD89 		.ascii	"\341\244\315\211\313\211@\035\250+\325L\230\023\246"
  359      CB89401D 
-ARM GAS  /tmp/cc8RcNGg.s 			page 28
+ARM GAS  /tmp/ccxmMRIa.s 			page 28
 
 
  359      A82BD54C 
@@ -1671,14 +1671,14 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  369      2F53BF8B 
  369      DA
  370              		.text
- 371              		.section	.gnu.lto_chSchDoRescheduleBehind.48a9e4f3395dd738,"",%progbits
+ 371              		.section	.gnu.lto_chSchDoRescheduleBehind.abec13c54b612096,"",%progbits
  372 0000 789CA555 		.ascii	"x\234\245U[H\024a\024>\347\237\035\367\352\352\223\364"
  372      5B481461 
  372      143EE79F 
  372      1DF7EAEA 
  372      93F4
  373 0012 60253D26 		.ascii	"`%=&(=\026\275\004A\020\365TR>\3256\306\356B\027M{\362"
-ARM GAS  /tmp/cc8RcNGg.s 			page 29
+ARM GAS  /tmp/ccxmMRIa.s 			page 29
 
 
  373      283D16BD 
@@ -1738,7 +1738,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  385 00eb D1628416 		.ascii	"\321b\204\026ae#\264\251\225\363K\224\337\246\241C\332"
  385      616523B4 
  385      A995F34B 
-ARM GAS  /tmp/cc8RcNGg.s 			page 30
+ARM GAS  /tmp/ccxmMRIa.s 			page 30
 
 
  385      94DFA6A1 
@@ -1798,7 +1798,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  396      A88CDA09 
  396      DF8D
  397 01c4 1424070E 		.ascii	"\024$\007\016\356$\347s\301\213\003\021d\376UT\002*"
-ARM GAS  /tmp/cc8RcNGg.s 			page 31
+ARM GAS  /tmp/ccxmMRIa.s 			page 31
 
 
  397      EE24E773 
@@ -1858,7 +1858,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  408      4FF18F17 
  408      DEB2
  409 0296 3DDE54E2 		.ascii	"=\336T\342<I\036mya\336\215\026\021\265\022\361\242"
-ARM GAS  /tmp/cc8RcNGg.s 			page 32
+ARM GAS  /tmp/ccxmMRIa.s 			page 32
 
 
  409      3C491E6D 
@@ -1918,7 +1918,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  420      6F18F5
  421 036a 46A2D548 		.ascii	"F\242\325H4\325\031\240]ok\256)y y\315\270r\263\351"
  421      34D519A0 
-ARM GAS  /tmp/cc8RcNGg.s 			page 33
+ARM GAS  /tmp/ccxmMRIa.s 			page 33
 
 
  421      5D6F6BAE 
@@ -1930,7 +1930,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  422      E67F3089 
  422      3A1F
  423              		.text
- 424              		.section	.gnu.lto_chSchDoRescheduleAhead.48a9e4f3395dd738,"",%progbits
+ 424              		.section	.gnu.lto_chSchDoRescheduleAhead.abec13c54b612096,"",%progbits
  425 0000 789CA555 		.ascii	"x\234\245UKh\023Q\024\275\367M\246\3716u!\245\202b\251"
  425      4B681351 
  425      14BDF74D 
@@ -1978,7 +1978,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  434      47B0100E 
  434      D2021BA5 
  434      61BE
-ARM GAS  /tmp/cc8RcNGg.s 			page 34
+ARM GAS  /tmp/ccxmMRIa.s 			page 34
 
 
  435 00b9 6A2ADAF7 		.ascii	"j*\332\367\362\3344z}w.\321\367\361\255\"\362>\236\376"
@@ -2038,7 +2038,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  445      15
  446 0181 988648F9 		.ascii	"\230\206H\371W\337\247\301m\216<CR\036\265\314O\275"
  446      57DFA7C1 
-ARM GAS  /tmp/cc8RcNGg.s 			page 35
+ARM GAS  /tmp/ccxmMRIa.s 			page 35
 
 
  446      6D8E3C43 
@@ -2098,7 +2098,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  457      FEFE6BA6 
  457      483B
  458 0255 87C23CBC 		.ascii	"\207\302<\274cX\024BJ\356\2722\355\253\005\214aA\326"
-ARM GAS  /tmp/cc8RcNGg.s 			page 36
+ARM GAS  /tmp/ccxmMRIa.s 			page 36
 
 
  458      63581442 
@@ -2158,7 +2158,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  469      6E74290A 
  469      A8B7
  470 032c 73EAFB7F 		.ascii	"s\352\373\177(\273\004\011\3647\262\333\236\316\255"
-ARM GAS  /tmp/cc8RcNGg.s 			page 37
+ARM GAS  /tmp/ccxmMRIa.s 			page 37
 
 
  470      28BB0409 
@@ -2191,7 +2191,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  476      DA527F00 
  476      262C38C6 
  477              		.text
- 478              		.section	.gnu.lto_chSchRescheduleS.48a9e4f3395dd738,"",%progbits
+ 478              		.section	.gnu.lto_chSchRescheduleS.abec13c54b612096,"",%progbits
  479 0000 789C9D52 		.ascii	"x\234\235R\277K\0031\030}_.\327V\021\021\034\\\244\350"
  479      BF4B0331 
  479      187D5F2E 
@@ -2218,7 +2218,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  484 0055 CDEF244F 		.ascii	"\315\357$O\317qO6HTn\200rL\010\253\021\207\032\224\367"
  484      CF714F36 
  484      48546E80 
-ARM GAS  /tmp/cc8RcNGg.s 			page 38
+ARM GAS  /tmp/ccxmMRIa.s 			page 38
 
 
  484      724C08AB 
@@ -2278,7 +2278,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  496      20CDDC46 
  496      DCBAC5
  497 0132 4EE7E065 		.ascii	"N\347\340e\330\347\000a\302\230K\376\335\361h \020H"
-ARM GAS  /tmp/cc8RcNGg.s 			page 39
+ARM GAS  /tmp/ccxmMRIa.s 			page 39
 
 
  497      D8E70061 
@@ -2300,7 +2300,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  500      0484868F 
  500      50
  501              		.text
- 502              		.section	.gnu.lto_chSchDoReschedule.48a9e4f3395dd738,"",%progbits
+ 502              		.section	.gnu.lto_chSchDoReschedule.abec13c54b612096,"",%progbits
  503 0000 789CA555 		.ascii	"x\234\245U]H\024Q\024>\347\316\216\373\353\326CDA\221"
  503      5D481451 
  503      143EE7CE 
@@ -2338,7 +2338,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  510 0084 986A7F8B 		.ascii	"\230j\177\213\017QX@8\306\014\323\207\307\366\242@3"
  510      0F515840 
  510      38C60CD3 
-ARM GAS  /tmp/cc8RcNGg.s 			page 40
+ARM GAS  /tmp/ccxmMRIa.s 			page 40
 
 
  510      87C7F6A2 
@@ -2398,7 +2398,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  521      459A26D1 
  522 0162 60FB7CCA 		.ascii	"`\373|\312(\022\231oom\203\0344\333\213\364`@\317O\323"
  522      2812996F 
-ARM GAS  /tmp/cc8RcNGg.s 			page 41
+ARM GAS  /tmp/ccxmMRIa.s 			page 41
 
 
  522      6F6D831C 
@@ -2458,7 +2458,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  533      6D1154A6 
  533      AE7D44A7 
  534 023f 4EAFBAEA 		.ascii	"N\257\272\352\224\217>m\214\341XI\225J\201\024\345\314"
-ARM GAS  /tmp/cc8RcNGg.s 			page 42
+ARM GAS  /tmp/ccxmMRIa.s 			page 42
 
 
  534      948F3E6D 
@@ -2518,7 +2518,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  545      B0E1B960 
  545      CD5285B3 
  545      CF972C9A 
-ARM GAS  /tmp/cc8RcNGg.s 			page 43
+ARM GAS  /tmp/ccxmMRIa.s 			page 43
 
 
  545      A9
@@ -2558,7 +2558,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  553 0397 96C686DF 		.ascii	"\226\306\206\337\243v9@"
  553      A3763940 
  554              		.text
- 555              		.section	.gnu.lto_.symbol_nodes.48a9e4f3395dd738,"",%progbits
+ 555              		.section	.gnu.lto_.symbol_nodes.abec13c54b612096,"",%progbits
  556 0000 789C4DCA 		.ascii	"x\234M\312\273\016\001Q\030\004\340\177\316qvY\273\264"
  556      BB0E0151 
  556      1804E07F 
@@ -2578,7 +2578,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  559      00453A67 
  559      11B2D7AA 
  559      B931C451 
-ARM GAS  /tmp/cc8RcNGg.s 			page 44
+ARM GAS  /tmp/ccxmMRIa.s 			page 44
 
 
  559      CC04
@@ -2610,7 +2610,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  565      A53C01A3 
  565      165F9E
  566              		.text
- 567              		.section	.gnu.lto_.refs.48a9e4f3395dd738,"",%progbits
+ 567              		.section	.gnu.lto_.refs.abec13c54b612096,"",%progbits
  568 0000 789C4D8B 		.ascii	"x\234M\213\013\016\2000\010C\333nC\247^\327\373\333"
  568      0B0E8030 
  568      0843DB6E 
@@ -2629,7 +2629,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  571      78760F1F 
  571      6BE60152 
  572              		.text
- 573              		.section	.gnu.lto_.decls.48a9e4f3395dd738,"",%progbits
+ 573              		.section	.gnu.lto_.decls.abec13c54b612096,"",%progbits
  574 0000 789CBD5B 		.ascii	"x\234\275[{x\024U\226\277\267\252\223t\310\203\307\210"
  574      7B781455 
  574      96BFB7AA 
@@ -2638,7 +2638,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  575 0012 0BB3EE1A 		.ascii	"\013\263\356\032\346S\007\335\321\340\214\243\314\314"
  575      E65307DD 
  575      D1E08CA3 
-ARM GAS  /tmp/cc8RcNGg.s 			page 45
+ARM GAS  /tmp/ccxmMRIa.s 			page 45
 
 
  575      CCCC
@@ -2698,7 +2698,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  587 00eb 690BBC1F 		.ascii	"i\013\274\037\014\277\011H\273 u\300s\021\244\004\244"
  587      0CBF0948 
  587      BB2075C0 
-ARM GAS  /tmp/cc8RcNGg.s 			page 46
+ARM GAS  /tmp/ccxmMRIa.s 			page 46
 
 
  587      7311A404 
@@ -2758,7 +2758,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  599      8CC8E88F 
  599      12748C13 
  599      72D5385D 
-ARM GAS  /tmp/cc8RcNGg.s 			page 47
+ARM GAS  /tmp/ccxmMRIa.s 			page 47
 
 
  599      06
@@ -2818,7 +2818,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  611      E335FFAF 
  611      D8F6
  612 02a0 F92EDA5E 		.ascii	"\371.\332^\204\236\325\264z\255\255Q\033\333Uz+Z\240"
-ARM GAS  /tmp/cc8RcNGg.s 			page 48
+ARM GAS  /tmp/ccxmMRIa.s 			page 48
 
 
  612      849ED5B4 
@@ -2878,7 +2878,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  623      C356B9
  624 0372 2CC61D84 		.ascii	",\306\035\204\346\222/e]\245I\353\264y\014a\177\011"
  624      E6922F65 
-ARM GAS  /tmp/cc8RcNGg.s 			page 49
+ARM GAS  /tmp/ccxmMRIa.s 			page 49
 
 
  624      5DA549EB 
@@ -2938,7 +2938,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  635      50F7A436 
  635      B6BC7F01 
  635      D7
-ARM GAS  /tmp/cc8RcNGg.s 			page 50
+ARM GAS  /tmp/ccxmMRIa.s 			page 50
 
 
  636 0456 53529D94 		.ascii	"SR\235\224\324\031\216\224\204\013\012\221\351\242\317"
@@ -2998,7 +2998,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  647      37C48638 
  648 0529 AC296762 		.ascii	"\254)gbV\311\376`&\366\234\033be6\222%/\247\241G7N\342"
  648      56C9FE60 
-ARM GAS  /tmp/cc8RcNGg.s 			page 51
+ARM GAS  /tmp/ccxmMRIa.s 			page 51
 
 
  648      26F69C1B 
@@ -3058,7 +3058,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  659      04278CA6 
  659      0EECF8
  660 0612 473A3826 		.ascii	"G:8& \025\320\036{\215\273 \264\261\345\215rJ\250\201"
-ARM GAS  /tmp/cc8RcNGg.s 			page 52
+ARM GAS  /tmp/ccxmMRIa.s 			page 52
 
 
  660      2015D01E 
@@ -3118,7 +3118,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  671      335DD079 
  671      E126C9BD 
  672 06ed 7D90EFA8 		.ascii	"}\220\357\250\270\211\304\006\207(l\254)l\230\365\003"
-ARM GAS  /tmp/cc8RcNGg.s 			page 53
+ARM GAS  /tmp/ccxmMRIa.s 			page 53
 
 
  672      B889C406 
@@ -3178,7 +3178,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  683      708A745A 
  683      3B04B246 
  683      B93A9F87 
-ARM GAS  /tmp/cc8RcNGg.s 			page 54
+ARM GAS  /tmp/ccxmMRIa.s 			page 54
 
 
  684 07cb AE1913B4 		.ascii	"\256\031\023\264R"
@@ -3238,7 +3238,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  696 088f E1463813 		.ascii	"\341F8\023[>\317P\356F:B\231Y\340\202\336H\247\306\326"
  696      5B3ECF50 
  696      EE463A42 
-ARM GAS  /tmp/cc8RcNGg.s 			page 55
+ARM GAS  /tmp/ccxmMRIa.s 			page 55
 
 
  696      9959E082 
@@ -3298,7 +3298,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  707      96F8
  708 0971 242536B7 		.ascii	"$%6\267\014\250\351cH\266\355;[\2331\000'\367}I-\013"
  708      0CA8E963 
-ARM GAS  /tmp/cc8RcNGg.s 			page 56
+ARM GAS  /tmp/ccxmMRIa.s 			page 56
 
 
  708      48B6ED3B 
@@ -3358,7 +3358,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  719      68C98B9A 
  719      E802DB0C 
  719      AD0E3F95 
-ARM GAS  /tmp/cc8RcNGg.s 			page 57
+ARM GAS  /tmp/ccxmMRIa.s 			page 57
 
 
  720 0a5b 61818DAE 		.ascii	"a\201\215\256\377K\270Q\364\222\263\007^\307\325{R\000"
@@ -3418,7 +3418,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  731      C4C99D95 
  731      0C4CE468 
  731      95DF8969 
-ARM GAS  /tmp/cc8RcNGg.s 			page 58
+ARM GAS  /tmp/ccxmMRIa.s 			page 58
 
 
  731      C7
@@ -3478,7 +3478,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  743 0c00 CC67E082 		.ascii	"\314g\340\202\261\351\032\011\253\330\356\304_[\201"
  743      B1E91A09 
  743      ABD8EEC4 
-ARM GAS  /tmp/cc8RcNGg.s 			page 59
+ARM GAS  /tmp/ccxmMRIa.s 			page 59
 
 
  743      5F5B81
@@ -3538,7 +3538,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  754      D58B4DBE 
  755 0cda B175CE6F 		.ascii	"\261u\316o\251otS\337\330\223\3357,T\004\364\021\255"
  755      A96F7453 
-ARM GAS  /tmp/cc8RcNGg.s 			page 60
+ARM GAS  /tmp/ccxmMRIa.s 			page 60
 
 
  755      DFD893DD 
@@ -3598,7 +3598,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  767 0dac 5F7EEBCC 		.ascii	"_~\353\314C\324\356\237Q\273\177\230\253\335\211\212"
  767      43D4EE9F 
  767      51BB7F98 
-ARM GAS  /tmp/cc8RcNGg.s 			page 61
+ARM GAS  /tmp/ccxmMRIa.s 			page 61
 
 
  767      ABDD898A 
@@ -3658,7 +3658,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  778      B638EC4E 
  778      915A8954 
  779 0e8b F67F6A5B 		.ascii	"\366\177j[?\2760i\315\233\232F\247\\u\323\261\261\""
-ARM GAS  /tmp/cc8RcNGg.s 			page 62
+ARM GAS  /tmp/ccxmMRIa.s 			page 62
 
 
  779      3FBE3069 
@@ -3718,7 +3718,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  790      11EE81B1 
  790      8407
  791 0f5c C635316D 		.ascii	"\30651m\007\365cNN\006\205\303d{A/~\206\216\304\027"
-ARM GAS  /tmp/cc8RcNGg.s 			page 63
+ARM GAS  /tmp/ccxmMRIa.s 			page 63
 
 
  791      07F5634E 
@@ -3778,7 +3778,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  803      96C180E3 
  803      A8
  804 1035 852B25E1 		.ascii	"\205+%\341M\236\\G-\233=\366\243\0263\024R\245\310\306"
-ARM GAS  /tmp/cc8RcNGg.s 			page 64
+ARM GAS  /tmp/ccxmMRIa.s 			page 64
 
 
  804      4D9E5C47 
@@ -3838,7 +3838,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  815      D3B9004E 
  815      08017566 
  815      C2F7
-ARM GAS  /tmp/cc8RcNGg.s 			page 65
+ARM GAS  /tmp/ccxmMRIa.s 			page 65
 
 
  816 1115 6A876D2C 		.ascii	"j\207m,R\374\240\015\276\017~\327\024\344\037\326w\345"
@@ -3898,7 +3898,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  827 11d6 6A440984 		.ascii	"jD\011\204}\352\177\226W\207\203r\271T#O-\177L\016\251"
  827      7DEA7F96 
  827      57878372 
-ARM GAS  /tmp/cc8RcNGg.s 			page 66
+ARM GAS  /tmp/ccxmMRIa.s 			page 66
 
 
  827      B954234F 
@@ -3958,7 +3958,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  838      0C9E26D4 
  838      4813
  839 12bd A305AA22 		.ascii	"\243\005\252\"O\210\202\002\310O^0:\021\2123\235\344"
-ARM GAS  /tmp/cc8RcNGg.s 			page 67
+ARM GAS  /tmp/ccxmMRIa.s 			page 67
 
 
  839      4F888202 
@@ -4018,7 +4018,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  850      E8536F31 
  850      97FC0D7C 
  850      0BD7AA95 
-ARM GAS  /tmp/cc8RcNGg.s 			page 68
+ARM GAS  /tmp/ccxmMRIa.s 			page 68
 
 
  850      1E52
@@ -4078,7 +4078,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  862 146c 2662D5F8 		.ascii	"&b\325\370\211\375\202\022\030\224B\312YG*\201\373\000"
  862      89FD8212 
  862      189442CA 
-ARM GAS  /tmp/cc8RcNGg.s 			page 69
+ARM GAS  /tmp/ccxmMRIa.s 			page 69
 
 
  862      59472A81 
@@ -4138,13 +4138,13 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  873      367F7F60 
  873      E42DCC6D 
  874 1550 B80D87A9 		.ascii	"\270\015\207\251\370?\017\234\347\251"
-ARM GAS  /tmp/cc8RcNGg.s 			page 70
+ARM GAS  /tmp/ccxmMRIa.s 			page 70
 
 
  874      F83F0F9C 
  874      E7A9
  875              		.text
- 876              		.section	.gnu.lto_.symtab.48a9e4f3395dd738,"",%progbits
+ 876              		.section	.gnu.lto_.symtab.abec13c54b612096,"",%progbits
  877 0000 63680000 		.ascii	"ch\000\000\000\000\000\000\000\000\000\000\000\000\271"
  877      00000000 
  877      00000000 
@@ -4198,7 +4198,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  887      6E526571 
  888 00e9 00000000 		.ascii	"\000\000\000\000\000\204\001\000\000chSchDoReschedu"
  888      00840100 
-ARM GAS  /tmp/cc8RcNGg.s 			page 71
+ARM GAS  /tmp/ccxmMRIa.s 			page 71
 
 
  888      00636853 
@@ -4258,7 +4258,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  902 0000 272D6D63 		.ascii	"'-mcpu=cortex-m3' '-mno-thumb-interwork' '-mthumb' "
  902      70753D63 
  902      6F727465 
-ARM GAS  /tmp/cc8RcNGg.s 			page 72
+ARM GAS  /tmp/ccxmMRIa.s 			page 72
 
 
  902      782D6D33 
@@ -4318,7 +4318,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  943              		.loc 1 323 0
  944 0008 90F82030 		ldrb	r3, [r0, #32]	@ zero_extendqisi2
  945 000c 072B     		cmp	r3, #7
-ARM GAS  /tmp/cc8RcNGg.s 			page 73
+ARM GAS  /tmp/ccxmMRIa.s 			page 73
 
 
  946 000e 0ED8     		bhi	.L2
@@ -4378,7 +4378,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  1000              	.LBB86:
  1001              	.LBB84:
  1002              		.loc 1 227 0
-ARM GAS  /tmp/cc8RcNGg.s 			page 74
+ARM GAS  /tmp/ccxmMRIa.s 			page 74
 
 
  1003 003c 80F82020 		strb	r2, [r0, #32]
@@ -4438,7 +4438,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  1057              	.LBE94:
  1058              	.LBE95:
  1059              	.LBE97:
-ARM GAS  /tmp/cc8RcNGg.s 			page 75
+ARM GAS  /tmp/ccxmMRIa.s 			page 75
 
 
  1060              		.loc 1 351 0
@@ -4498,7 +4498,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  1112              		.loc 4 550 0
  1113 0000 40F20003 		movw	r3, #:lower16:.LANCHOR0
  1114 0004 C0F20003 		movt	r3, #:upper16:.LANCHOR0
-ARM GAS  /tmp/cc8RcNGg.s 			page 76
+ARM GAS  /tmp/ccxmMRIa.s 			page 76
 
 
  1115              	.LBE104:
@@ -4558,7 +4558,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  1167              	.LVL13:
  1168              	.L15:
  1169              		.loc 1 230 0 discriminator 1
-ARM GAS  /tmp/cc8RcNGg.s 			page 77
+ARM GAS  /tmp/ccxmMRIa.s 			page 77
 
 
  1170 0014 1B68     		ldr	r3, [r3]
@@ -4618,7 +4618,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  1224              		.loc 1 266 0
  1225 0010 80F82020 		strb	r2, [r0, #32]
  1226              	.LVL18:
-ARM GAS  /tmp/cc8RcNGg.s 			page 78
+ARM GAS  /tmp/ccxmMRIa.s 			page 78
 
 
  1227              	.L18:
@@ -4678,7 +4678,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  1281 000a 1A68     		ldr	r2, [r3]
  1282              	.LBE108:
  1283              	.LBE107:
-ARM GAS  /tmp/cc8RcNGg.s 			page 79
+ARM GAS  /tmp/ccxmMRIa.s 			page 79
 
 
  1284              		.loc 1 290 0
@@ -4738,7 +4738,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  1337              		@ frame_needed = 0, uses_anonymous_args = 0
  1338              	.LVL27:
  1339 0000 30B5     		push	{r4, r5, lr}
-ARM GAS  /tmp/cc8RcNGg.s 			page 80
+ARM GAS  /tmp/ccxmMRIa.s 			page 80
 
 
  1340              		.cfi_def_cfa_offset 12
@@ -4798,7 +4798,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  1394 004a A369     		ldr	r3, [r4, #24]
  1395              		.loc 1 392 0
  1396 004c 586A     		ldr	r0, [r3, #36]
-ARM GAS  /tmp/cc8RcNGg.s 			page 81
+ARM GAS  /tmp/ccxmMRIa.s 			page 81
 
 
  1397 004e 07B0     		add	sp, sp, #28
@@ -4858,7 +4858,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  1448 0020 80F82020 		strb	r2, [r0, #32]
  1449              	.LVL38:
  1450              	.L30:
-ARM GAS  /tmp/cc8RcNGg.s 			page 82
+ARM GAS  /tmp/ccxmMRIa.s 			page 82
 
 
  1451              		.loc 1 230 0
@@ -4918,7 +4918,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  1505 0056 C2F800C0 		str	ip, [r2]
  1506              		.loc 1 236 0
  1507 005a C3F804C0 		str	ip, [r3, #4]
-ARM GAS  /tmp/cc8RcNGg.s 			page 83
+ARM GAS  /tmp/ccxmMRIa.s 			page 83
 
 
  1508              	.LVL44:
@@ -4978,7 +4978,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  1562              		.size	chSchIsPreemptionRequired, .-chSchIsPreemptionRequired
  1563 001a 00BFAFF3 		.section	.text.chSchDoRescheduleBehind,"ax",%progbits
  1563      0080
-ARM GAS  /tmp/cc8RcNGg.s 			page 84
+ARM GAS  /tmp/ccxmMRIa.s 			page 84
 
 
  1564              		.align	2
@@ -5038,7 +5038,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  1618              		.loc 1 509 0
  1619 001a 80F82060 		strb	r6, [r0, #32]
  1620              	.LVL51:
-ARM GAS  /tmp/cc8RcNGg.s 			page 85
+ARM GAS  /tmp/ccxmMRIa.s 			page 85
 
 
  1621              		.loc 1 508 0
@@ -5098,7 +5098,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  1675              		.loc 1 537 0
  1676              		.cfi_startproc
  1677              		@ args = 0, pretend = 0, frame = 0
-ARM GAS  /tmp/cc8RcNGg.s 			page 86
+ARM GAS  /tmp/ccxmMRIa.s 			page 86
 
 
  1678              		@ frame_needed = 0, uses_anonymous_args = 0
@@ -5158,7 +5158,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  1732              	.LVL61:
  1733              	.L43:
  1734 0026 1B68     		ldr	r3, [r3]
-ARM GAS  /tmp/cc8RcNGg.s 			page 87
+ARM GAS  /tmp/ccxmMRIa.s 			page 87
 
 
  1735              	.LVL62:
@@ -5218,7 +5218,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  1789 000a 9B69     		ldr	r3, [r3, #24]
  1790              	.LBE147:
  1791              	.LBE146:
-ARM GAS  /tmp/cc8RcNGg.s 			page 88
+ARM GAS  /tmp/ccxmMRIa.s 			page 88
 
 
  1792              		.loc 1 459 0
@@ -5278,7 +5278,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  1845              	.LBB153:
  1846              	.LBB154:
  1847              		.loc 1 266 0
-ARM GAS  /tmp/cc8RcNGg.s 			page 89
+ARM GAS  /tmp/ccxmMRIa.s 			page 89
 
 
  1848 0012 0021     		movs	r1, #0
@@ -5338,7 +5338,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  1902              		.loc 1 602 0
  1903 003c FFF7FEBF 		b	_port_switch
  1904              	.LVL74:
-ARM GAS  /tmp/cc8RcNGg.s 			page 90
+ARM GAS  /tmp/ccxmMRIa.s 			page 90
 
 
  1905              		.cfi_endproc
@@ -5398,7 +5398,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  1955 003b AD030000 		.4byte	.LASF4
  1956 003f 05       		.byte	0x5
  1957 0040 2A       		.byte	0x2a
-ARM GAS  /tmp/cc8RcNGg.s 			page 91
+ARM GAS  /tmp/ccxmMRIa.s 			page 91
 
 
  1958 0041 45000000 		.4byte	0x45
@@ -5458,7 +5458,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  2012 00ad 04       		.uleb128 0x4
  2013 00ae 31040000 		.4byte	.LASF15
  2014 00b2 06       		.byte	0x6
-ARM GAS  /tmp/cc8RcNGg.s 			page 92
+ARM GAS  /tmp/ccxmMRIa.s 			page 92
 
 
  2015 00b3 3C       		.byte	0x3c
@@ -5518,7 +5518,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  2069 0128 06       		.uleb128 0x6
  2070 0129 72030000 		.4byte	.LASF25
  2071 012d 04       		.byte	0x4
-ARM GAS  /tmp/cc8RcNGg.s 			page 93
+ARM GAS  /tmp/ccxmMRIa.s 			page 93
 
 
  2072 012e 9C       		.byte	0x9c
@@ -5578,7 +5578,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  2126 0198 0F01     		.2byte	0x10f
  2127 019a D5040000 		.4byte	0x4d5
  2128 019e 24       		.byte	0x24
-ARM GAS  /tmp/cc8RcNGg.s 			page 94
+ARM GAS  /tmp/ccxmMRIa.s 			page 94
 
 
  2129 019f 09       		.uleb128 0x9
@@ -5638,7 +5638,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  2183 0211 88       		.byte	0x88
  2184 0212 23020000 		.4byte	0x223
  2185 0216 06       		.uleb128 0x6
-ARM GAS  /tmp/cc8RcNGg.s 			page 95
+ARM GAS  /tmp/ccxmMRIa.s 			page 95
 
 
  2186 0217 72000000 		.4byte	.LASF43
@@ -5698,7 +5698,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  2240 0286 63747800 		.ascii	"ctx\000"
  2241 028a 04       		.byte	0x4
  2242 028b 6E01     		.2byte	0x16e
-ARM GAS  /tmp/cc8RcNGg.s 			page 96
+ARM GAS  /tmp/ccxmMRIa.s 			page 96
 
 
  2243 028d 1B040000 		.4byte	0x41b
@@ -5758,7 +5758,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  2297 02fe DD000000 		.4byte	.LASF46
  2298 0302 04       		.byte	0x4
  2299 0303 4701     		.2byte	0x147
-ARM GAS  /tmp/cc8RcNGg.s 			page 97
+ARM GAS  /tmp/ccxmMRIa.s 			page 97
 
 
  2300 0305 B8050000 		.4byte	0x5b8
@@ -5818,7 +5818,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  2354 0379 FA000000 		.4byte	0xfa
  2355 037d 0A       		.byte	0xa
  2356 037e 00       		.byte	0
-ARM GAS  /tmp/cc8RcNGg.s 			page 98
+ARM GAS  /tmp/ccxmMRIa.s 			page 98
 
 
  2357 037f 04       		.uleb128 0x4
@@ -5878,7 +5878,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  2411 03f2 746D00   		.ascii	"tm\000"
  2412 03f5 04       		.byte	0x4
  2413 03f6 B101     		.2byte	0x1b1
-ARM GAS  /tmp/cc8RcNGg.s 			page 99
+ARM GAS  /tmp/ccxmMRIa.s 			page 99
 
 
  2414 03f8 CA040000 		.4byte	0x4ca
@@ -5938,7 +5938,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  2468 0464 08       		.uleb128 0x8
  2469 0465 723700   		.ascii	"r7\000"
  2470 0468 09       		.byte	0x9
-ARM GAS  /tmp/cc8RcNGg.s 			page 100
+ARM GAS  /tmp/ccxmMRIa.s 			page 100
 
 
  2471 0469 6F01     		.2byte	0x16f
@@ -5998,7 +5998,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  2525 04d5 10       		.uleb128 0x10
  2526 04d6 04       		.byte	0x4
  2527 04d7 04       		.byte	0x4
-ARM GAS  /tmp/cc8RcNGg.s 			page 101
+ARM GAS  /tmp/ccxmMRIa.s 			page 101
 
 
  2528 04d8 D2       		.byte	0xd2
@@ -6058,7 +6058,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  2582 054f 03       		.byte	0x3
  2583 0550 35       		.byte	0x35
  2584 0551 23020000 		.4byte	0x223
-ARM GAS  /tmp/cc8RcNGg.s 			page 102
+ARM GAS  /tmp/ccxmMRIa.s 			page 102
 
 
  2585 0555 00       		.byte	0
@@ -6118,7 +6118,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  2639 05be 14       		.uleb128 0x14
  2640 05bf A0050000 		.4byte	0x5a0
  2641 05c3 04       		.uleb128 0x4
-ARM GAS  /tmp/cc8RcNGg.s 			page 103
+ARM GAS  /tmp/ccxmMRIa.s 			page 103
 
 
  2642 05c4 09020000 		.4byte	.LASF85
@@ -6178,7 +6178,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  2696 0631 42060000 		.4byte	0x642
  2697 0635 19       		.uleb128 0x19
  2698 0636 76747000 		.ascii	"vtp\000"
-ARM GAS  /tmp/cc8RcNGg.s 			page 104
+ARM GAS  /tmp/ccxmMRIa.s 			page 104
 
 
  2699 063a 0C       		.byte	0xc
@@ -6238,7 +6238,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  2753 06a7 7B02     		.2byte	0x27b
  2754 06a9 F9010000 		.4byte	0x1f9
  2755 06ad 00       		.byte	0
-ARM GAS  /tmp/cc8RcNGg.s 			page 105
+ARM GAS  /tmp/ccxmMRIa.s 			page 105
 
 
  2756 06ae 1C       		.uleb128 0x1c
@@ -6298,7 +6298,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  2810 072a 01       		.byte	0x1
  2811 072b 53070000 		.4byte	0x753
  2812 072f 19       		.uleb128 0x19
-ARM GAS  /tmp/cc8RcNGg.s 			page 106
+ARM GAS  /tmp/ccxmMRIa.s 			page 106
 
 
  2813 0730 747000   		.ascii	"tp\000"
@@ -6358,7 +6358,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  2867 07a9 02000000 		.4byte	.LBB73
  2868 07ad 06000000 		.4byte	.LBE73-.LBB73
  2869 07b1 01       		.byte	0x1
-ARM GAS  /tmp/cc8RcNGg.s 			page 107
+ARM GAS  /tmp/ccxmMRIa.s 			page 107
 
 
  2870 07b2 4201     		.2byte	0x142
@@ -6418,7 +6418,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  2924 083c 5D01     		.2byte	0x15d
  2925 083e 60080000 		.4byte	0x860
  2926 0842 2A       		.uleb128 0x2a
-ARM GAS  /tmp/cc8RcNGg.s 			page 108
+ARM GAS  /tmp/ccxmMRIa.s 			page 108
 
 
  2927 0843 BE060000 		.4byte	0x6be
@@ -6478,7 +6478,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  2981 08cf B601     		.2byte	0x1b6
  2982 08d1 28       		.uleb128 0x28
  2983 08d2 09060000 		.4byte	0x609
-ARM GAS  /tmp/cc8RcNGg.s 			page 109
+ARM GAS  /tmp/ccxmMRIa.s 			page 109
 
 
  2984 08d6 6A000000 		.4byte	.LBB100
@@ -6538,7 +6538,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  3038 0950 53       		.byte	0x53
  3039 0951 2E       		.uleb128 0x2e
  3040 0952 D2060000 		.4byte	0x6d2
-ARM GAS  /tmp/cc8RcNGg.s 			page 110
+ARM GAS  /tmp/ccxmMRIa.s 			page 110
 
 
  3041 0956 00       		.byte	0
@@ -6598,7 +6598,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  3095 09db 2D       		.uleb128 0x2d
  3096 09dc 12070000 		.4byte	0x712
  3097 09e0 F6000000 		.4byte	.LLST9
-ARM GAS  /tmp/cc8RcNGg.s 			page 111
+ARM GAS  /tmp/ccxmMRIa.s 			page 111
 
 
  3098 09e4 00       		.byte	0
@@ -6658,7 +6658,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  3152 0a5f 91       		.byte	0x91
  3153 0a60 5C       		.sleb128 -36
  3154 0a61 00       		.byte	0
-ARM GAS  /tmp/cc8RcNGg.s 			page 112
+ARM GAS  /tmp/ccxmMRIa.s 			page 112
 
 
  3155 0a62 3B       		.uleb128 0x3b
@@ -6718,7 +6718,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  3209 0ad8 77030000 		.4byte	.LASF124
  3210 0adc 6A0B0000 		.4byte	0xb6a
  3211 0ae0 27       		.uleb128 0x27
-ARM GAS  /tmp/cc8RcNGg.s 			page 113
+ARM GAS  /tmp/ccxmMRIa.s 			page 113
 
 
  3212 0ae1 AE060000 		.4byte	0x6ae
@@ -6778,7 +6778,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  3266 0b64 FE030000 		.4byte	0x3fe
  3267 0b68 0C       		.byte	0xc
  3268 0b69 00       		.byte	0
-ARM GAS  /tmp/cc8RcNGg.s 			page 114
+ARM GAS  /tmp/ccxmMRIa.s 			page 114
 
 
  3269 0b6a 13       		.uleb128 0x13
@@ -6838,7 +6838,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  3323 0be5 01       		.byte	0x1
  3324 0be6 FC01     		.2byte	0x1fc
  3325 0be8 080C0000 		.4byte	0xc08
-ARM GAS  /tmp/cc8RcNGg.s 			page 115
+ARM GAS  /tmp/ccxmMRIa.s 			page 115
 
 
  3326 0bec 32       		.uleb128 0x32
@@ -6898,7 +6898,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  3380 0c73 D0000000 		.4byte	.Ldebug_ranges0+0xd0
  3381 0c77 01       		.byte	0x1
  3382 0c78 1D02     		.2byte	0x21d
-ARM GAS  /tmp/cc8RcNGg.s 			page 116
+ARM GAS  /tmp/ccxmMRIa.s 			page 116
 
 
  3383 0c7a 9A0C0000 		.4byte	0xc9a
@@ -6958,7 +6958,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  3437 0d01 440C0000 		.4byte	0xc44
  3438 0d05 00       		.byte	0
  3439 0d06 35       		.uleb128 0x35
-ARM GAS  /tmp/cc8RcNGg.s 			page 117
+ARM GAS  /tmp/ccxmMRIa.s 			page 117
 
 
  3440 0d07 10000000 		.4byte	.LASF115
@@ -7018,7 +7018,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  3494 0d8f 40000000 		.4byte	.LVL74
  3495 0d93 B90D0000 		.4byte	0xdb9
  3496 0d97 00       		.byte	0
-ARM GAS  /tmp/cc8RcNGg.s 			page 118
+ARM GAS  /tmp/ccxmMRIa.s 			page 118
 
 
  3497 0d98 44       		.uleb128 0x44
@@ -7078,7 +7078,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  3551 0005 13       		.uleb128 0x13
  3552 0006 0B       		.uleb128 0xb
  3553 0007 03       		.uleb128 0x3
-ARM GAS  /tmp/cc8RcNGg.s 			page 119
+ARM GAS  /tmp/ccxmMRIa.s 			page 119
 
 
  3554 0008 0E       		.uleb128 0xe
@@ -7138,7 +7138,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  3608 003e 0B       		.uleb128 0xb
  3609 003f 3B       		.uleb128 0x3b
  3610 0040 0B       		.uleb128 0xb
-ARM GAS  /tmp/cc8RcNGg.s 			page 120
+ARM GAS  /tmp/ccxmMRIa.s 			page 120
 
 
  3611 0041 01       		.uleb128 0x1
@@ -7198,7 +7198,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  3665 0077 3A       		.uleb128 0x3a
  3666 0078 0B       		.uleb128 0xb
  3667 0079 3B       		.uleb128 0x3b
-ARM GAS  /tmp/cc8RcNGg.s 			page 121
+ARM GAS  /tmp/ccxmMRIa.s 			page 121
 
 
  3668 007a 05       		.uleb128 0x5
@@ -7258,7 +7258,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  3722 00b0 0F       		.uleb128 0xf
  3723 00b1 13       		.uleb128 0x13
  3724 00b2 01       		.byte	0x1
-ARM GAS  /tmp/cc8RcNGg.s 			page 122
+ARM GAS  /tmp/ccxmMRIa.s 			page 122
 
 
  3725 00b3 0B       		.uleb128 0xb
@@ -7318,7 +7318,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  3779 00e9 00       		.byte	0
  3780 00ea 00       		.byte	0
  3781 00eb 14       		.uleb128 0x14
-ARM GAS  /tmp/cc8RcNGg.s 			page 123
+ARM GAS  /tmp/ccxmMRIa.s 			page 123
 
 
  3782 00ec 35       		.uleb128 0x35
@@ -7378,7 +7378,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  3836 0122 03       		.uleb128 0x3
  3837 0123 0E       		.uleb128 0xe
  3838 0124 3A       		.uleb128 0x3a
-ARM GAS  /tmp/cc8RcNGg.s 			page 124
+ARM GAS  /tmp/ccxmMRIa.s 			page 124
 
 
  3839 0125 0B       		.uleb128 0xb
@@ -7438,7 +7438,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  3893 015b 00       		.byte	0
  3894 015c 00       		.byte	0
  3895 015d 1C       		.uleb128 0x1c
-ARM GAS  /tmp/cc8RcNGg.s 			page 125
+ARM GAS  /tmp/ccxmMRIa.s 			page 125
 
 
  3896 015e 2E       		.uleb128 0x2e
@@ -7498,7 +7498,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  3950 0194 00       		.byte	0
  3951 0195 20       		.uleb128 0x20
  3952 0196 21       		.uleb128 0x21
-ARM GAS  /tmp/cc8RcNGg.s 			page 126
+ARM GAS  /tmp/ccxmMRIa.s 			page 126
 
 
  3953 0197 00       		.byte	0
@@ -7558,7 +7558,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  4007 01cd 20       		.uleb128 0x20
  4008 01ce 0B       		.uleb128 0xb
  4009 01cf 00       		.byte	0
-ARM GAS  /tmp/cc8RcNGg.s 			page 127
+ARM GAS  /tmp/ccxmMRIa.s 			page 127
 
 
  4010 01d0 00       		.byte	0
@@ -7618,7 +7618,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  4064 0207 27       		.uleb128 0x27
  4065 0208 1D       		.uleb128 0x1d
  4066 0209 01       		.byte	0x1
-ARM GAS  /tmp/cc8RcNGg.s 			page 128
+ARM GAS  /tmp/ccxmMRIa.s 			page 128
 
 
  4067 020a 31       		.uleb128 0x31
@@ -7678,7 +7678,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  4121 0240 55       		.uleb128 0x55
  4122 0241 17       		.uleb128 0x17
  4123 0242 58       		.uleb128 0x58
-ARM GAS  /tmp/cc8RcNGg.s 			page 129
+ARM GAS  /tmp/ccxmMRIa.s 			page 129
 
 
  4124 0243 0B       		.uleb128 0xb
@@ -7738,7 +7738,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  4178 0279 3B       		.uleb128 0x3b
  4179 027a 0B       		.uleb128 0xb
  4180 027b 27       		.uleb128 0x27
-ARM GAS  /tmp/cc8RcNGg.s 			page 130
+ARM GAS  /tmp/ccxmMRIa.s 			page 130
 
 
  4181 027c 19       		.uleb128 0x19
@@ -7798,7 +7798,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  4235 02b4 34       		.uleb128 0x34
  4236 02b5 34       		.uleb128 0x34
  4237 02b6 00       		.byte	0
-ARM GAS  /tmp/cc8RcNGg.s 			page 131
+ARM GAS  /tmp/ccxmMRIa.s 			page 131
 
 
  4238 02b7 31       		.uleb128 0x31
@@ -7858,7 +7858,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  4292 02ee 05       		.uleb128 0x5
  4293 02ef 49       		.uleb128 0x49
  4294 02f0 13       		.uleb128 0x13
-ARM GAS  /tmp/cc8RcNGg.s 			page 132
+ARM GAS  /tmp/ccxmMRIa.s 			page 132
 
 
  4295 02f1 02       		.uleb128 0x2
@@ -7918,7 +7918,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  4349 032b 898201   		.uleb128 0x4109
  4350 032e 01       		.byte	0x1
  4351 032f 11       		.uleb128 0x11
-ARM GAS  /tmp/cc8RcNGg.s 			page 133
+ARM GAS  /tmp/ccxmMRIa.s 			page 133
 
 
  4352 0330 01       		.uleb128 0x1
@@ -7978,7 +7978,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  4406 036d 49       		.uleb128 0x49
  4407 036e 13       		.uleb128 0x13
  4408 036f 34       		.uleb128 0x34
-ARM GAS  /tmp/cc8RcNGg.s 			page 134
+ARM GAS  /tmp/ccxmMRIa.s 			page 134
 
 
  4409 0370 19       		.uleb128 0x19
@@ -8038,7 +8038,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  4463 03a9 00       		.byte	0
  4464 03aa 45       		.uleb128 0x45
  4465 03ab 34       		.uleb128 0x34
-ARM GAS  /tmp/cc8RcNGg.s 			page 135
+ARM GAS  /tmp/ccxmMRIa.s 			page 135
 
 
  4466 03ac 00       		.byte	0
@@ -8098,7 +8098,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  4520 03e2 2E       		.uleb128 0x2e
  4521 03e3 01       		.byte	0x1
  4522 03e4 3F       		.uleb128 0x3f
-ARM GAS  /tmp/cc8RcNGg.s 			page 136
+ARM GAS  /tmp/ccxmMRIa.s 			page 136
 
 
  4523 03e5 19       		.uleb128 0x19
@@ -8158,7 +8158,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  4577 0066 30       		.byte	0x30
  4578 0067 9F       		.byte	0x9f
  4579 0068 00000000 		.4byte	0
-ARM GAS  /tmp/cc8RcNGg.s 			page 137
+ARM GAS  /tmp/ccxmMRIa.s 			page 137
 
 
  4580 006c 00000000 		.4byte	0
@@ -8218,7 +8218,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  4634 00fa 27000000 		.4byte	.LVL26-1
  4635 00fe 0100     		.2byte	0x1
  4636 0100 52       		.byte	0x52
-ARM GAS  /tmp/cc8RcNGg.s 			page 138
+ARM GAS  /tmp/ccxmMRIa.s 			page 138
 
 
  4637 0101 00000000 		.4byte	0
@@ -8278,7 +8278,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  4691 0181 64000000 		.4byte	.LVL45
  4692 0185 0100     		.2byte	0x1
  4693 0187 50       		.byte	0x50
-ARM GAS  /tmp/cc8RcNGg.s 			page 139
+ARM GAS  /tmp/ccxmMRIa.s 			page 139
 
 
  4694 0188 64000000 		.4byte	.LVL45
@@ -8338,7 +8338,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  4748 020f 00000000 		.4byte	0
  4749              	.LLST16:
  4750 0213 24000000 		.4byte	.LVL38
-ARM GAS  /tmp/cc8RcNGg.s 			page 140
+ARM GAS  /tmp/ccxmMRIa.s 			page 140
 
 
  4751 0217 3A000000 		.4byte	.LVL40
@@ -8398,7 +8398,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  4805 02aa 03       		.byte	0x3
  4806 02ab 00000000 		.4byte	ch
  4807 02af 9F       		.byte	0x9f
-ARM GAS  /tmp/cc8RcNGg.s 			page 141
+ARM GAS  /tmp/ccxmMRIa.s 			page 141
 
 
  4808 02b0 26000000 		.4byte	.LVL53
@@ -8458,7 +8458,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  4862 0345 0100     		.2byte	0x1
  4863 0347 50       		.byte	0x50
  4864 0348 00000000 		.4byte	0
-ARM GAS  /tmp/cc8RcNGg.s 			page 142
+ARM GAS  /tmp/ccxmMRIa.s 			page 142
 
 
  4865 034c 00000000 		.4byte	0
@@ -8518,7 +8518,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  4919 0064 1A000000 		.4byte	.LFE193-.LFB193
  4920 0068 00000000 		.4byte	.LFB197
  4921 006c 40000000 		.4byte	.LFE197-.LFB197
-ARM GAS  /tmp/cc8RcNGg.s 			page 143
+ARM GAS  /tmp/ccxmMRIa.s 			page 143
 
 
  4922 0070 00000000 		.4byte	0
@@ -8578,7 +8578,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  4976 00c8 00000000 		.4byte	0
  4977 00cc 00000000 		.4byte	0
  4978 00d0 08000000 		.4byte	.LBB134
-ARM GAS  /tmp/cc8RcNGg.s 			page 144
+ARM GAS  /tmp/ccxmMRIa.s 			page 144
 
 
  4979 00d4 0A000000 		.4byte	.LBE134
@@ -8638,7 +8638,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  5033 01ac 40000000 		.4byte	.LFE197
  5034 01b0 00000000 		.4byte	0
  5035 01b4 00000000 		.4byte	0
-ARM GAS  /tmp/cc8RcNGg.s 			page 145
+ARM GAS  /tmp/ccxmMRIa.s 			page 145
 
 
  5036              		.section	.debug_line,"",%progbits
@@ -8698,7 +8698,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  5061              	.LASF40:
  5062 0077 74687265 		.ascii	"threads_list_t\000"
  5062      6164735F 
-ARM GAS  /tmp/cc8RcNGg.s 			page 146
+ARM GAS  /tmp/ccxmMRIa.s 			page 146
 
 
  5062      6C697374 
@@ -8758,7 +8758,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  5088      6D466173 
  5088      74536967 
  5088      6E616C49 
-ARM GAS  /tmp/cc8RcNGg.s 			page 147
+ARM GAS  /tmp/ccxmMRIa.s 			page 147
 
 
  5088      00
@@ -8818,7 +8818,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  5112      00
  5113              	.LASF13:
  5114 01ac 6C6F6E67 		.ascii	"long long unsigned int\000"
-ARM GAS  /tmp/cc8RcNGg.s 			page 148
+ARM GAS  /tmp/ccxmMRIa.s 			page 148
 
 
  5114      206C6F6E 
@@ -8878,7 +8878,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  5139              	.LASF97:
  5140 0253 63685379 		.ascii	"chSysUnlockFromISR\000"
  5140      73556E6C 
-ARM GAS  /tmp/cc8RcNGg.s 			page 149
+ARM GAS  /tmp/ccxmMRIa.s 			page 149
 
 
  5140      6F636B46 
@@ -8938,7 +8938,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  5161      2D666C74 
  5161      6F00
  5162              	.LASF25:
-ARM GAS  /tmp/cc8RcNGg.s 			page 150
+ARM GAS  /tmp/ccxmMRIa.s 			page 150
 
 
  5163 0372 7072696F 		.ascii	"prio\000"
@@ -8998,7 +8998,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  5189      75616C5F 
  5189      74696D65 
  5189      725F7400 
-ARM GAS  /tmp/cc8RcNGg.s 			page 151
+ARM GAS  /tmp/ccxmMRIa.s 			page 151
 
 
  5190              	.LASF117:
@@ -9058,7 +9058,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  5215      79737465 
  5215      6D00
  5216              	.LASF93:
-ARM GAS  /tmp/cc8RcNGg.s 			page 152
+ARM GAS  /tmp/ccxmMRIa.s 			page 152
 
 
  5217 04a0 5F5F7365 		.ascii	"__set_BASEPRI\000"
@@ -9118,7 +9118,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  5241      54696D65 
  5241      6F757453 
  5242              	.LASF24:
-ARM GAS  /tmp/cc8RcNGg.s 			page 153
+ARM GAS  /tmp/ccxmMRIa.s 			page 153
 
 
  5243 0537 71756575 		.ascii	"queue\000"
@@ -9178,7 +9178,7 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  5271 05c8 63685363 		.ascii	"chSchDoRescheduleAhead\000"
  5271      68446F52 
  5271      65736368 
-ARM GAS  /tmp/cc8RcNGg.s 			page 154
+ARM GAS  /tmp/ccxmMRIa.s 			page 154
 
 
  5271      6564756C 
@@ -9234,40 +9234,40 @@ ARM GAS  /tmp/cc8RcNGg.s 			page 1
  5294      6C00
  5295              		.comm	__gnu_lto_v1,1,1
  5296              		.ident	"GCC: (Sourcery CodeBench Lite 2013.11-24) 4.8.1"
-ARM GAS  /tmp/cc8RcNGg.s 			page 155
+ARM GAS  /tmp/ccxmMRIa.s 			page 155
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 chschd.c
-     /tmp/cc8RcNGg.s:909    .text.wakeup:00000000 $t
-     /tmp/cc8RcNGg.s:914    .text.wakeup:00000000 wakeup
-     /tmp/cc8RcNGg.s:949    .text.wakeup:00000014 $d
-     /tmp/cc8RcNGg.s:957    .text.wakeup:0000001c $t
-     /tmp/cc8RcNGg.s:1911   .bss.ch:00000000 .LANCHOR0
-     /tmp/cc8RcNGg.s:1096   .text._scheduler_init:00000000 $t
-     /tmp/cc8RcNGg.s:1102   .text._scheduler_init:00000000 _scheduler_init
-     /tmp/cc8RcNGg.s:1138   .text.chSchReadyI:00000000 $t
-     /tmp/cc8RcNGg.s:1144   .text.chSchReadyI:00000000 chSchReadyI
-     /tmp/cc8RcNGg.s:1197   .text.chSchReadyAheadI:00000000 $t
-     /tmp/cc8RcNGg.s:1203   .text.chSchReadyAheadI:00000000 chSchReadyAheadI
-     /tmp/cc8RcNGg.s:1256   .text.chSchGoSleepS:00000000 $t
-     /tmp/cc8RcNGg.s:1262   .text.chSchGoSleepS:00000000 chSchGoSleepS
-     /tmp/cc8RcNGg.s:1326   .text.chSchGoSleepTimeoutS:00000000 $t
-     /tmp/cc8RcNGg.s:1332   .text.chSchGoSleepTimeoutS:00000000 chSchGoSleepTimeoutS
-     /tmp/cc8RcNGg.s:1404   .text.chSchWakeupS:00000000 $t
-     /tmp/cc8RcNGg.s:1410   .text.chSchWakeupS:00000000 chSchWakeupS
-     /tmp/cc8RcNGg.s:1531   .text.chSchIsPreemptionRequired:00000000 $t
-     /tmp/cc8RcNGg.s:1537   .text.chSchIsPreemptionRequired:00000000 chSchIsPreemptionRequired
-     /tmp/cc8RcNGg.s:1564   .text.chSchDoRescheduleBehind:00000000 $t
-     /tmp/cc8RcNGg.s:1570   .text.chSchDoRescheduleBehind:00000000 chSchDoRescheduleBehind
-     /tmp/cc8RcNGg.s:1667   .text.chSchDoRescheduleAhead:00000000 $t
-     /tmp/cc8RcNGg.s:1673   .text.chSchDoRescheduleAhead:00000000 chSchDoRescheduleAhead
-     /tmp/cc8RcNGg.s:1770   .text.chSchRescheduleS:00000000 $t
-     /tmp/cc8RcNGg.s:1776   .text.chSchRescheduleS:00000000 chSchRescheduleS
-     /tmp/cc8RcNGg.s:1806   .text.chSchDoReschedule:00000000 $t
-     /tmp/cc8RcNGg.s:1812   .text.chSchDoReschedule:00000000 chSchDoReschedule
-     /tmp/cc8RcNGg.s:1914   .bss.ch:00000000 ch
-     /tmp/cc8RcNGg.s:1910   .bss.ch:00000000 $d
+     /tmp/ccxmMRIa.s:909    .text.wakeup:00000000 $t
+     /tmp/ccxmMRIa.s:914    .text.wakeup:00000000 wakeup
+     /tmp/ccxmMRIa.s:949    .text.wakeup:00000014 $d
+     /tmp/ccxmMRIa.s:957    .text.wakeup:0000001c $t
+     /tmp/ccxmMRIa.s:1911   .bss.ch:00000000 .LANCHOR0
+     /tmp/ccxmMRIa.s:1096   .text._scheduler_init:00000000 $t
+     /tmp/ccxmMRIa.s:1102   .text._scheduler_init:00000000 _scheduler_init
+     /tmp/ccxmMRIa.s:1138   .text.chSchReadyI:00000000 $t
+     /tmp/ccxmMRIa.s:1144   .text.chSchReadyI:00000000 chSchReadyI
+     /tmp/ccxmMRIa.s:1197   .text.chSchReadyAheadI:00000000 $t
+     /tmp/ccxmMRIa.s:1203   .text.chSchReadyAheadI:00000000 chSchReadyAheadI
+     /tmp/ccxmMRIa.s:1256   .text.chSchGoSleepS:00000000 $t
+     /tmp/ccxmMRIa.s:1262   .text.chSchGoSleepS:00000000 chSchGoSleepS
+     /tmp/ccxmMRIa.s:1326   .text.chSchGoSleepTimeoutS:00000000 $t
+     /tmp/ccxmMRIa.s:1332   .text.chSchGoSleepTimeoutS:00000000 chSchGoSleepTimeoutS
+     /tmp/ccxmMRIa.s:1404   .text.chSchWakeupS:00000000 $t
+     /tmp/ccxmMRIa.s:1410   .text.chSchWakeupS:00000000 chSchWakeupS
+     /tmp/ccxmMRIa.s:1531   .text.chSchIsPreemptionRequired:00000000 $t
+     /tmp/ccxmMRIa.s:1537   .text.chSchIsPreemptionRequired:00000000 chSchIsPreemptionRequired
+     /tmp/ccxmMRIa.s:1564   .text.chSchDoRescheduleBehind:00000000 $t
+     /tmp/ccxmMRIa.s:1570   .text.chSchDoRescheduleBehind:00000000 chSchDoRescheduleBehind
+     /tmp/ccxmMRIa.s:1667   .text.chSchDoRescheduleAhead:00000000 $t
+     /tmp/ccxmMRIa.s:1673   .text.chSchDoRescheduleAhead:00000000 chSchDoRescheduleAhead
+     /tmp/ccxmMRIa.s:1770   .text.chSchRescheduleS:00000000 $t
+     /tmp/ccxmMRIa.s:1776   .text.chSchRescheduleS:00000000 chSchRescheduleS
+     /tmp/ccxmMRIa.s:1806   .text.chSchDoReschedule:00000000 $t
+     /tmp/ccxmMRIa.s:1812   .text.chSchDoReschedule:00000000 chSchDoReschedule
+     /tmp/ccxmMRIa.s:1914   .bss.ch:00000000 ch
+     /tmp/ccxmMRIa.s:1910   .bss.ch:00000000 $d
                             *COM*:00000001 __gnu_lto_v1
                      .debug_frame:00000010 $d
 

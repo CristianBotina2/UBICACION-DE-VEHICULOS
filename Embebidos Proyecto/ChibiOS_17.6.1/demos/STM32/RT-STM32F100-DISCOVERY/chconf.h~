@@ -515,6 +515,11 @@
 /* Port-specific settings (override port settings defaulted in chcore.h).    */
 /*===========================================================================*/
 
+#if !defined(CH_USE_QUEUES) || defined(__DOXYGEN__)
+#define CH_USE_QUEUES                   TRUE
+#endif
+
+
 #endif  /* CHCONF_H */
 
 /** @} */

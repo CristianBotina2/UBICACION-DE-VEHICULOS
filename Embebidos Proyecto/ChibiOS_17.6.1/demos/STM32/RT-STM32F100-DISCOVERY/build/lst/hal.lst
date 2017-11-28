@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccUHOeRP.s 			page 1
+ARM GAS  /tmp/ccHeAZX7.s 			page 1
 
 
    1              		.syntax unified
@@ -17,7 +17,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
   14              		.file	"hal.c"
   15              		.text
   16              	.Ltext0:
-  17              		.section	.gnu.lto_.jmpfuncs.a56602d36f2ce6cc,"",%progbits
+  17              		.section	.gnu.lto_.jmpfuncs.a1cff76a429528b4,"",%progbits
   18 0000 789C6362 		.ascii	"x\234cb`b\300\006d\2414#\214f\252f\370\3250\243A \223"
   18      6062C006 
   18      64A13423 
@@ -27,7 +27,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
   19      080040FF 
   19      041B
   20              		.text
-  21              		.section	.gnu.lto_.inline.a56602d36f2ce6cc,"",%progbits
+  21              		.section	.gnu.lto_.inline.a1cff76a429528b4,"",%progbits
   22 0000 789C6362 		.ascii	"x\234cb`b\300\006,\2414#\003\003\367I \011R\305\266"
   22      6062C006 
   22      2CA13423 
@@ -40,14 +40,14 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
   24 0024 00657202 		.ascii	"\000er\002-"
   24      2D
   25              		.text
-  26              		.section	.gnu.lto_.pureconst.a56602d36f2ce6cc,"",%progbits
+  26              		.section	.gnu.lto_.pureconst.a1cff76a429528b4,"",%progbits
   27 0000 789C6362 		.ascii	"x\234cb`b`f\200\000F\006\011\000\000\203\000!"
   27      60626066 
   27      80004606 
   27      09000083 
   27      0021
   28              		.text
-  29              		.section	.gnu.lto_halInit.a56602d36f2ce6cc,"",%progbits
+  29              		.section	.gnu.lto_halInit.a1cff76a429528b4,"",%progbits
   30 0000 789C6362 		.ascii	"x\234cb`b@\007\222@\234\307\310\300 \003\244\031\231"
   30      60624007 
   30      92409CC7 
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
   31      E4606264 
   31      04311818 
   31      19EA99
-ARM GAS  /tmp/ccUHOeRP.s 			page 2
+ARM GAS  /tmp/ccHeAZX7.s 			page 2
 
 
   32 0026 18EB2319 		.ascii	"\030\353#\031\301j\3273\035x\360\377\377\272\017\033"
@@ -112,13 +112,13 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
   42      0000
   43 00e3 833F6161 		.ascii	"\203?aa"
   44              		.text
-  45              		.section	.gnu.lto_.symbol_nodes.a56602d36f2ce6cc,"",%progbits
+  45              		.section	.gnu.lto_.symbol_nodes.a1cff76a429528b4,"",%progbits
   46 0000 789C45C8 		.ascii	"x\234E\310\273\015\203@\020\204\341\231=\016\350z\220"
   46      BB0D8340 
   46      1084E199 
   46      3D0EE87A 
   46      90
-ARM GAS  /tmp/ccUHOeRP.s 			page 3
+ARM GAS  /tmp/ccHeAZX7.s 			page 3
 
 
   47 0011 4808A980 		.ascii	"H\010\251\200\204\016\334\0029\271\237\200\334\007\342"
@@ -145,14 +145,14 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
   51      C394C401 
   51      F04A36C4 
   52              		.text
-  53              		.section	.gnu.lto_.refs.a56602d36f2ce6cc,"",%progbits
+  53              		.section	.gnu.lto_.refs.a1cff76a429528b4,"",%progbits
   54 0000 789C6362 		.ascii	"x\234cb`b`e\200\000F\006&F\006\000\000\237\000\016"
   54      60626065 
   54      80004606 
   54      26460600 
   54      009F000E 
   55              		.text
-  56              		.section	.gnu.lto_.decls.a56602d36f2ce6cc,"",%progbits
+  56              		.section	.gnu.lto_.decls.a1cff76a429528b4,"",%progbits
   57 0000 789C9596 		.ascii	"x\234\225\226\177h\033e\030\307\2377\027\333\206\305"
   57      7F681B65 
   57      18C79F37 
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
   62 0054 30F00FFF 		.ascii	"0\360\017\377\333P\231\203\262\370\274\357\335%\271"
   62      DB509983 
   62      B2F8BCEF 
-ARM GAS  /tmp/ccUHOeRP.s 			page 4
+ARM GAS  /tmp/ccHeAZX7.s 			page 4
 
 
   62      DD25B9
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
   74      FBE025E2 
   74      A06F4460 
   74      5ACE60A0 
-ARM GAS  /tmp/ccUHOeRP.s 			page 5
+ARM GAS  /tmp/ccHeAZX7.s 			page 5
 
 
   74      1963693D 
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
   86      EA1E05F3 
   86      8D5143CD 
   87 0215 555A0FCD 		.ascii	"UZ\017\315r\335\216\034\013\236!\233l\227\255\360\005"
-ARM GAS  /tmp/ccUHOeRP.s 			page 6
+ARM GAS  /tmp/ccHeAZX7.s 			page 6
 
 
   87      72DD8E1C 
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
   99      1527621B 
   99      CCD0BB99 
   99      D29F7F
-ARM GAS  /tmp/ccUHOeRP.s 			page 7
+ARM GAS  /tmp/ccHeAZX7.s 			page 7
 
 
  100 02ed 17844986 		.ascii	"\027\204I\206`\325\020\024\374\245\371\226\252@<\377"
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  111      6C098CF4 
  111      0C85B5C4 
  112 03cd A83AF6F4 		.ascii	"\250:\366\364\372\202Sz\204\255\335\021h\305e0\241\032"
-ARM GAS  /tmp/ccUHOeRP.s 			page 8
+ARM GAS  /tmp/ccHeAZX7.s 			page 8
 
 
  112      FA82537A 
@@ -457,7 +457,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  118      1F39BA
  119 0453 84B2     		.ascii	"\204\262"
  120              		.text
- 121              		.section	.gnu.lto_.symtab.a56602d36f2ce6cc,"",%progbits
+ 121              		.section	.gnu.lto_.symtab.a1cff76a429528b4,"",%progbits
  122 0000 68616C49 		.ascii	"halInit\000\000\000\000\000\000\000\000\000\000\000"
  122      6E697400 
  122      00000000 
@@ -478,7 +478,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  125      000000
  126 004b C5000000 		.ascii	"\305\000\000\000boardInit\000\000\002\000\000\000\000"
  126      626F6172 
-ARM GAS  /tmp/ccUHOeRP.s 			page 9
+ARM GAS  /tmp/ccHeAZX7.s 			page 9
 
 
  126      64496E69 
@@ -538,7 +538,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  139      66756E63 
  139      74696F6E 
  140 0099 666E6F2D 		.ascii	"fno-common' '-flto'\000"
-ARM GAS  /tmp/ccUHOeRP.s 			page 10
+ARM GAS  /tmp/ccHeAZX7.s 			page 10
 
 
  140      636F6D6D 
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  190              	.Letext0:
  191              		.file 2 "/home/alex/MentorGraphics/Sourcery_CodeBench_Lite_for_ARM_EABI/arm-none-eabi/include/stdi
  192              		.file 3 "../../../os/common/ports/ARMCMx/compilers/GCC/chtypes.h"
-ARM GAS  /tmp/ccUHOeRP.s 			page 11
+ARM GAS  /tmp/ccHeAZX7.s 			page 11
 
 
  193              		.file 4 "../../../os/rt/include/chsystypes.h"
@@ -658,7 +658,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  247 004f 58030000 		.4byte	.LASF3
  248 0053 04       		.uleb128 0x4
  249 0054 40030000 		.4byte	.LASF5
-ARM GAS  /tmp/ccUHOeRP.s 			page 12
+ARM GAS  /tmp/ccHeAZX7.s 			page 12
 
 
  250 0058 02       		.byte	0x2
@@ -718,7 +718,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  304 00c4 E4030000 		.4byte	.LASF17
  305 00c8 03       		.byte	0x3
  306 00c9 3E       		.byte	0x3e
-ARM GAS  /tmp/ccUHOeRP.s 			page 13
+ARM GAS  /tmp/ccHeAZX7.s 			page 13
 
 
  307 00ca 3A000000 		.4byte	0x3a
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  361 013f 0C       		.byte	0xc
  362 0140 06       		.uleb128 0x6
  363 0141 35040000 		.4byte	.LASF26
-ARM GAS  /tmp/ccUHOeRP.s 			page 14
+ARM GAS  /tmp/ccHeAZX7.s 			page 14
 
 
  364 0145 05       		.byte	0x5
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  418 01b1 05       		.byte	0x5
  419 01b2 1A01     		.2byte	0x11a
  420 01b4 23020000 		.4byte	0x223
-ARM GAS  /tmp/ccUHOeRP.s 			page 15
+ARM GAS  /tmp/ccHeAZX7.s 			page 15
 
 
  421 01b8 2C       		.byte	0x2c
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  475 0228 04       		.byte	0x4
  476 0229 50       		.byte	0x50
  477 022a 2E020000 		.4byte	0x22e
-ARM GAS  /tmp/ccUHOeRP.s 			page 16
+ARM GAS  /tmp/ccHeAZX7.s 			page 16
 
 
  478 022e 05       		.uleb128 0x5
@@ -958,7 +958,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  532 029f 09       		.uleb128 0x9
  533 02a0 67040000 		.4byte	.LASF27
  534 02a4 05       		.byte	0x5
-ARM GAS  /tmp/ccUHOeRP.s 			page 17
+ARM GAS  /tmp/ccHeAZX7.s 			page 17
 
 
  535 02a5 7201     		.2byte	0x172
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  589 0317 09       		.uleb128 0x9
  590 0318 B0000000 		.4byte	.LASF54
  591 031c 05       		.byte	0x5
-ARM GAS  /tmp/ccUHOeRP.s 			page 18
+ARM GAS  /tmp/ccHeAZX7.s 			page 18
 
 
  592 031d 4901     		.2byte	0x149
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  646 0390 05       		.byte	0x5
  647 0391 7C01     		.2byte	0x17c
  648 0393 A5030000 		.4byte	0x3a5
-ARM GAS  /tmp/ccUHOeRP.s 			page 19
+ARM GAS  /tmp/ccHeAZX7.s 			page 19
 
 
  649 0397 09       		.uleb128 0x9
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  703 0406 36000000 		.4byte	.LASF67
  704 040a 06       		.byte	0x6
  705 040b 65       		.byte	0x65
-ARM GAS  /tmp/ccUHOeRP.s 			page 20
+ARM GAS  /tmp/ccHeAZX7.s 			page 20
 
 
  706 040c D6020000 		.4byte	0x2d6
@@ -1198,7 +1198,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  760 047b 10       		.byte	0x10
  761 047c 08       		.uleb128 0x8
  762 047d 723900   		.ascii	"r9\000"
-ARM GAS  /tmp/ccUHOeRP.s 			page 21
+ARM GAS  /tmp/ccHeAZX7.s 			page 21
 
 
  763 0480 07       		.byte	0x7
@@ -1258,7 +1258,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  817 04e9 15050000 		.4byte	.LASF74
  818 04ed 05       		.byte	0x5
  819 04ee E0       		.byte	0xe0
-ARM GAS  /tmp/ccUHOeRP.s 			page 22
+ARM GAS  /tmp/ccHeAZX7.s 			page 22
 
 
  820 04ef D9000000 		.4byte	0xd9
@@ -1318,7 +1318,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  874 0563 0A       		.uleb128 0xa
  875 0564 04       		.byte	0x4
  876 0565 3E050000 		.4byte	0x53e
-ARM GAS  /tmp/ccUHOeRP.s 			page 23
+ARM GAS  /tmp/ccHeAZX7.s 			page 23
 
 
  877 0569 05       		.uleb128 0x5
@@ -1378,7 +1378,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  931 05d5 01       		.byte	0x1
  932 05d6 02       		.byte	0x2
  933 05d7 CB010000 		.4byte	.LASF86
-ARM GAS  /tmp/ccUHOeRP.s 			page 24
+ARM GAS  /tmp/ccHeAZX7.s 			page 24
 
 
  934 05db 0F       		.uleb128 0xf
@@ -1438,7 +1438,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  988 0644 0B       		.byte	0xb
  989 0645 80       		.byte	0x80
  990 0646 08060000 		.4byte	0x608
-ARM GAS  /tmp/ccUHOeRP.s 			page 25
+ARM GAS  /tmp/ccHeAZX7.s 			page 25
 
 
  991 064a 24       		.byte	0x24
@@ -1498,7 +1498,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  1045 06cd 14       		.uleb128 0x14
  1046 06ce 65000000 		.4byte	0x65
  1047 06d2 1A       		.uleb128 0x1a
-ARM GAS  /tmp/ccUHOeRP.s 			page 26
+ARM GAS  /tmp/ccHeAZX7.s 			page 26
 
 
  1048 06d3 636800   		.ascii	"ch\000"
@@ -1558,7 +1558,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  1102 0005 13       		.uleb128 0x13
  1103 0006 0B       		.uleb128 0xb
  1104 0007 03       		.uleb128 0x3
-ARM GAS  /tmp/ccUHOeRP.s 			page 27
+ARM GAS  /tmp/ccHeAZX7.s 			page 27
 
 
  1105 0008 0E       		.uleb128 0xe
@@ -1618,7 +1618,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  1159 003e 0B       		.uleb128 0xb
  1160 003f 3B       		.uleb128 0x3b
  1161 0040 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccUHOeRP.s 			page 28
+ARM GAS  /tmp/ccHeAZX7.s 			page 28
 
 
  1162 0041 01       		.uleb128 0x1
@@ -1678,7 +1678,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  1216 0077 3A       		.uleb128 0x3a
  1217 0078 0B       		.uleb128 0xb
  1218 0079 3B       		.uleb128 0x3b
-ARM GAS  /tmp/ccUHOeRP.s 			page 29
+ARM GAS  /tmp/ccHeAZX7.s 			page 29
 
 
  1219 007a 05       		.uleb128 0x5
@@ -1738,7 +1738,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  1273 00b0 0F       		.uleb128 0xf
  1274 00b1 13       		.uleb128 0x13
  1275 00b2 01       		.byte	0x1
-ARM GAS  /tmp/ccUHOeRP.s 			page 30
+ARM GAS  /tmp/ccHeAZX7.s 			page 30
 
 
  1276 00b3 0B       		.uleb128 0xb
@@ -1798,7 +1798,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  1330 00e9 00       		.byte	0
  1331 00ea 00       		.byte	0
  1332 00eb 14       		.uleb128 0x14
-ARM GAS  /tmp/ccUHOeRP.s 			page 31
+ARM GAS  /tmp/ccHeAZX7.s 			page 31
 
 
  1333 00ec 35       		.uleb128 0x35
@@ -1858,7 +1858,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  1387 0125 00       		.byte	0
  1388 0126 18       		.uleb128 0x18
  1389 0127 898201   		.uleb128 0x4109
-ARM GAS  /tmp/ccUHOeRP.s 			page 32
+ARM GAS  /tmp/ccHeAZX7.s 			page 32
 
 
  1390 012a 00       		.byte	0
@@ -1918,7 +1918,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  1444 0161 27       		.uleb128 0x27
  1445 0162 19       		.uleb128 0x19
  1446 0163 3C       		.uleb128 0x3c
-ARM GAS  /tmp/ccUHOeRP.s 			page 33
+ARM GAS  /tmp/ccHeAZX7.s 			page 33
 
 
  1447 0164 19       		.uleb128 0x19
@@ -1978,7 +1978,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  1501 0000 00000000 		.4byte	.LFB217
  1502 0004 2A000000 		.4byte	.LFE217
  1503 0008 00000000 		.4byte	0
-ARM GAS  /tmp/ccUHOeRP.s 			page 34
+ARM GAS  /tmp/ccHeAZX7.s 			page 34
 
 
  1504 000c 00000000 		.4byte	0
@@ -2038,7 +2038,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  1531      00
  1532              	.LASF40:
  1533 0073 74687265 		.ascii	"threads_list_t\000"
-ARM GAS  /tmp/ccUHOeRP.s 			page 35
+ARM GAS  /tmp/ccHeAZX7.s 			page 35
 
 
  1533      6164735F 
@@ -2098,7 +2098,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  1561 00fc 6576656E 		.ascii	"eventmask_t\000"
  1561      746D6173 
  1561      6B5F7400 
-ARM GAS  /tmp/ccUHOeRP.s 			page 36
+ARM GAS  /tmp/ccHeAZX7.s 			page 36
 
 
  1562              	.LASF81:
@@ -2158,7 +2158,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  1585      61645F74 
  1585      00
  1586              	.LASF92:
-ARM GAS  /tmp/ccUHOeRP.s 			page 37
+ARM GAS  /tmp/ccHeAZX7.s 			page 37
 
 
  1587 01b6 50454461 		.ascii	"PEData\000"
@@ -2218,7 +2218,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  1612 02ab 74687265 		.ascii	"thread_reference_t\000"
  1612      61645F72 
  1612      65666572 
-ARM GAS  /tmp/ccUHOeRP.s 			page 38
+ARM GAS  /tmp/ccHeAZX7.s 			page 38
 
 
  1612      656E6365 
@@ -2278,7 +2278,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  1640      31365F74 
  1640      00
  1641              	.LASF14:
-ARM GAS  /tmp/ccUHOeRP.s 			page 39
+ARM GAS  /tmp/ccHeAZX7.s 			page 39
 
 
  1642 0349 7274636E 		.ascii	"rtcnt_t\000"
@@ -2338,7 +2338,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  1670      00
  1671              	.LASF93:
  1672 03d1 50414C43 		.ascii	"PALConfig\000"
-ARM GAS  /tmp/ccUHOeRP.s 			page 40
+ARM GAS  /tmp/ccHeAZX7.s 			page 40
 
 
  1672      6F6E6669 
@@ -2398,7 +2398,7 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  1699              	.LASF27:
  1700 0467 6F6C6465 		.ascii	"older\000"
  1700      7200
-ARM GAS  /tmp/ccUHOeRP.s 			page 41
+ARM GAS  /tmp/ccHeAZX7.s 			page 41
 
 
  1701              	.LASF30:
@@ -2457,13 +2457,13 @@ ARM GAS  /tmp/ccUHOeRP.s 			page 1
  1727      6C00
  1728              		.comm	__gnu_lto_v1,1,1
  1729              		.ident	"GCC: (Sourcery CodeBench Lite 2013.11-24) 4.8.1"
-ARM GAS  /tmp/ccUHOeRP.s 			page 42
+ARM GAS  /tmp/ccHeAZX7.s 			page 42
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 hal.c
-     /tmp/ccUHOeRP.s:144    .text.halInit:00000000 $t
-     /tmp/ccUHOeRP.s:150    .text.halInit:00000000 halInit
+     /tmp/ccHeAZX7.s:144    .text.halInit:00000000 $t
+     /tmp/ccHeAZX7.s:150    .text.halInit:00000000 halInit
                             *COM*:00000001 __gnu_lto_v1
                      .debug_frame:00000010 $d
 

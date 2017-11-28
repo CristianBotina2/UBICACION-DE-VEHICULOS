@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccDEaXLj.s 			page 1
+ARM GAS  /tmp/ccO3i0OC.s 			page 1
 
 
    1              		.syntax unified
@@ -17,7 +17,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
   14              		.file	"hal_gpt.c"
   15              		.text
   16              	.Ltext0:
-  17              		.section	.gnu.lto_.jmpfuncs.fdb3c48e3cdae2ea,"",%progbits
+  17              		.section	.gnu.lto_.jmpfuncs.8caed59ffdfd1a23,"",%progbits
   18 0000 789C758B 		.ascii	"x\234u\213\331\021\200P\010\0037\301[\013\264\005\033"
   18      D9118050 
   18      080337C1 
@@ -40,7 +40,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
   21      008D240A 
   22 004f E5       		.ascii	"\345"
   23              		.text
-  24              		.section	.gnu.lto_.inline.fdb3c48e3cdae2ea,"",%progbits
+  24              		.section	.gnu.lto_.inline.8caed59ffdfd1a23,"",%progbits
   25 0000 789C6362 		.ascii	"x\234cb`b\300\006l\031!4\017\003\003\013\017#X\021\333"
   25      6062C006 
   25      6C192134 
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
   28 0036 06AA9CE0 		.ascii	"\006\252\234\340\307\214S\206\205\201\203\235\021\010"
   28      C78C5386 
   28      8581839D 
-ARM GAS  /tmp/ccDEaXLj.s 			page 2
+ARM GAS  /tmp/ccO3i0OC.s 			page 2
 
 
   28      1108
@@ -86,7 +86,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
   33      1800EF
   34 0093 D723D4   		.ascii	"\327#\324"
   35              		.text
-  36              		.section	.gnu.lto_.pureconst.fdb3c48e3cdae2ea,"",%progbits
+  36              		.section	.gnu.lto_.pureconst.8caed59ffdfd1a23,"",%progbits
   37 0000 789C6362 		.ascii	"x\234cb`b\220d\200\000\036\006\011F)&+f+\026+V+6)v+"
   37      60629064 
   37      80001E06 
@@ -97,7 +97,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
   38      001F8802 
   38      62
   39              		.text
-  40              		.section	.gnu.lto_gptInit.fdb3c48e3cdae2ea,"",%progbits
+  40              		.section	.gnu.lto_gptInit.8caed59ffdfd1a23,"",%progbits
   41 0000 789C6362 		.ascii	"x\234cb`b@\007\222@\\\011\304\012@\314\310\314\300\310"
   41      60624007 
   41      92405C09 
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
   44      50673258 
   44      3E04
   45 0047 48823485 		.ascii	"H\2024\20522\201h\346\363\014\315\017~\331%2.dd\005"
-ARM GAS  /tmp/ccDEaXLj.s 			page 3
+ARM GAS  /tmp/ccO3i0OC.s 			page 3
 
 
   45      32328168 
@@ -142,7 +142,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
   48      4F2F28D1 
   49 0098 590E2B2D 		.ascii	"Y\016+-"
   50              		.text
-  51              		.section	.gnu.lto_gptObjectInit.fdb3c48e3cdae2ea,"",%progbits
+  51              		.section	.gnu.lto_gptObjectInit.8caed59ffdfd1a23,"",%progbits
   52 0000 789C6362 		.ascii	"x\234cb`b@\007\222@|\035\210\025\200\230\221\231\201"
   52      60624007 
   52      92407C1D 
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
   58      9604B189 
   58      0124C200 
   58      6283
-ARM GAS  /tmp/ccDEaXLj.s 			page 4
+ARM GAS  /tmp/ccO3i0OC.s 			page 4
 
 
   59 0086 74FFC0A2 		.ascii	"t\377\300\242\233\031\273nF\270nf\020\343\"C\343\203"
@@ -198,7 +198,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
   62      0600042A 
   62      3CFA
   63              		.text
-  64              		.section	.gnu.lto_gptStart.fdb3c48e3cdae2ea,"",%progbits
+  64              		.section	.gnu.lto_gptStart.8caed59ffdfd1a23,"",%progbits
   65 0000 789C8552 		.ascii	"x\234\205RMh\023A\024~o\266\333\306\024i\257\212\244"
   65      4D681341 
   65      147E6FB6 
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
   72      129A
   73 008e 0843B408 		.ascii	"\010C\264\010\257\014U\327]QL\244\263\270\037>C\253"
   73      AF0C55D7 
-ARM GAS  /tmp/ccDEaXLj.s 			page 5
+ARM GAS  /tmp/ccO3i0OC.s 			page 5
 
 
   73      5D514CA4 
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
   85 015e B1D5DC6D 		.ascii	"\261\325\334mb?D|0\004\206\235\214\213\222{Y\371Y\357"
   85      623F447C 
   85      3004869D 
-ARM GAS  /tmp/ccDEaXLj.s 			page 6
+ARM GAS  /tmp/ccO3i0OC.s 			page 6
 
 
   85      8C8B927B 
@@ -356,9 +356,9 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
   96      CB5E82BF 
   96      0777F3B6 
   97              		.text
-  98              		.section	.gnu.lto_gptStop.fdb3c48e3cdae2ea,"",%progbits
+  98              		.section	.gnu.lto_gptStop.8caed59ffdfd1a23,"",%progbits
   99 0000 789C8552 		.ascii	"x\234\205ROh\323`\024\177\357\213]kE\266\253\"]\230"
-ARM GAS  /tmp/ccDEaXLj.s 			page 7
+ARM GAS  /tmp/ccO3i0OC.s 			page 7
 
 
   99      4F68D360 
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  110      DF1BF3
  111 00d1 F70FB6BA 		.ascii	"\367\017\266\272\266\333{\017\336-+Gu\274\213#\341H"
  111      B6DB7B0F 
-ARM GAS  /tmp/ccDEaXLj.s 			page 8
+ARM GAS  /tmp/ccO3i0OC.s 			page 8
 
 
  111      DE2D2B47 
@@ -478,7 +478,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  122      20F2162A 
  122      8D9F
  123 01a6 87DB7C04 		.ascii	"\207\333|\004g\234\026B7T\226\246\322i-xmW+\350E\315"
-ARM GAS  /tmp/ccDEaXLj.s 			page 9
+ARM GAS  /tmp/ccO3i0OC.s 			page 9
 
 
  123      679C1642 
@@ -517,7 +517,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  129      24F3
  130 0232 CB       		.ascii	"\313"
  131              		.text
- 132              		.section	.gnu.lto_gptChangeInterval.fdb3c48e3cdae2ea,"",%progbits
+ 132              		.section	.gnu.lto_gptChangeInterval.8caed59ffdfd1a23,"",%progbits
  133 0000 789C8552 		.ascii	"x\234\205RMh\023A\024~o6\233D\213\324k\213\244\241P"
  133      4D681341 
  133      147E6F36 
@@ -538,7 +538,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  136      4113503C 
  136      882284DE 
  136      F4
-ARM GAS  /tmp/ccDEaXLj.s 			page 10
+ARM GAS  /tmp/ccO3i0OC.s 			page 10
 
 
  137 004a E6ADB7F5 		.ascii	"\346\255\267\365\315n\262\331\204\242\263;\363\336\314"
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  148      DC7137AF 
  148      1A1410C5 
  148      D3B3FF
-ARM GAS  /tmp/ccDEaXLj.s 			page 11
+ARM GAS  /tmp/ccO3i0OC.s 			page 11
 
 
  149 0121 E8D8E301 		.ascii	"\350\330\343\001\342&T\276o\356\215\004%t\214M\302\005"
@@ -658,7 +658,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  160      99CEE666 
  160      728AB1
  161 01fa C08B8BB7 		.ascii	"\300\213\213\2675\205\233\216\341\344u\316)n,\032a\227"
-ARM GAS  /tmp/ccDEaXLj.s 			page 12
+ARM GAS  /tmp/ccO3i0OC.s 			page 12
 
 
  161      35859B8E 
@@ -677,7 +677,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  163      D44CCB5E 
  164 0234 E323EB6E 		.ascii	"\343#\353n"
  165              		.text
- 166              		.section	.gnu.lto_gptStartContinuous.fdb3c48e3cdae2ea,"",%progbits
+ 166              		.section	.gnu.lto_gptStartContinuous.8caed59ffdfd1a23,"",%progbits
  167 0000 789C8D53 		.ascii	"x\234\215SMh\023A\024~o6i\022\203\264WE\322P(\010jV"
  167      4D681341 
  167      147E6F36 
@@ -718,7 +718,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  174      84350863 
  174      9C8FC7
  175 0099 0154CFB7 		.ascii	"\001T\317\267\207fq\3001dBJ\257\241\030\006\350\200"
-ARM GAS  /tmp/ccDEaXLj.s 			page 13
+ARM GAS  /tmp/ccO3i0OC.s 			page 13
 
 
  175      876671C0 
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  186 0167 3D30C339 		.ascii	"=0\3039w\036,R\256\320$\\.p\336\246c\230@\211D\236\013"
  186      771E2C52 
  186      AED0245C 
-ARM GAS  /tmp/ccDEaXLj.s 			page 14
+ARM GAS  /tmp/ccO3i0OC.s 			page 14
 
 
  186      2E70DEA6 
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  197      864FC61E 
  198 0252 B69BED02 		.ascii	"\266\233\355\002\244i\323D\216B\222\275-\231\352\216"
  198      A469D344 
-ARM GAS  /tmp/ccDEaXLj.s 			page 15
+ARM GAS  /tmp/ccO3i0OC.s 			page 15
 
 
  198      8E4292BD 
@@ -853,7 +853,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  200      84EE2F3C 
  200      FA17E3
  201              		.text
- 202              		.section	.gnu.lto_gptStartContinuousI.fdb3c48e3cdae2ea,"",%progbits
+ 202              		.section	.gnu.lto_gptStartContinuousI.8caed59ffdfd1a23,"",%progbits
  203 0000 789C6362 		.ascii	"x\234cb`b@\007\222@|\026\210\025\200\230\221\231\201"
  203      60624007 
  203      92407C16 
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  211      A19AE157 
  211      4347
  212 009f 83402623 		.ascii	"\203@&#s2#D)P{:#K&#\013\003\303E\206\306\007wTaJ! \004"
-ARM GAS  /tmp/ccDEaXLj.s 			page 16
+ARM GAS  /tmp/ccO3i0OC.s 			page 16
 
 
  212      73322344 
@@ -915,7 +915,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  214      921900
  215 00dc 4D763B6B 		.ascii	"Mv;k"
  216              		.text
- 217              		.section	.gnu.lto_gptStartOneShot.fdb3c48e3cdae2ea,"",%progbits
+ 217              		.section	.gnu.lto_gptStartOneShot.8caed59ffdfd1a23,"",%progbits
  218 0000 789C8D53 		.ascii	"x\234\215SOH\024a\024\177\357\033\307][B\257E\254\213"
  218      4F481461 
  218      147FEF1B 
@@ -958,7 +958,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  226 0096 63009A17 		.ascii	"c\000\232\027\333G\263\270\340<2\261J\257!\027\006\350"
  226      DB47B3B8 
  226      E03C32B1 
-ARM GAS  /tmp/ccDEaXLj.s 			page 17
+ARM GAS  /tmp/ccO3i0OC.s 			page 17
 
 
  226      4AAF2117 
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  238 016a 4858A159 		.ascii	"HX\241Y\270\225\345\274\315\3000\221\022@^\010\014\240"
  238      B895E5BC 
  238      CDC03091 
-ARM GAS  /tmp/ccDEaXLj.s 			page 18
+ARM GAS  /tmp/ccO3i0OC.s 			page 18
 
 
  238      12405E08 
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  250      663A86D3 
  250      9FD434CA 
  250      6B0F66D8 
-ARM GAS  /tmp/ccDEaXLj.s 			page 19
+ARM GAS  /tmp/ccO3i0OC.s 			page 19
 
 
  250      995A
@@ -1097,7 +1097,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  253      767F01FE 
  253      76185F
  254              		.text
- 255              		.section	.gnu.lto_gptStartOneShotI.fdb3c48e3cdae2ea,"",%progbits
+ 255              		.section	.gnu.lto_gptStartOneShotI.8caed59ffdfd1a23,"",%progbits
  256 0000 789C5D4E 		.ascii	"x\234]N=k\002Q\020\234\331;E\260\320\326F\354,\204\273"
  256      3D6B0251 
  256      109CD93B 
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  263      2824C41B 
  264 0091 164CC898 		.ascii	"\026L\310\230\322Tu'>\271\215\260\025\370\232\0340K"
  264      D2547527 
-ARM GAS  /tmp/ccDEaXLj.s 			page 20
+ARM GAS  /tmp/ccO3i0OC.s 			page 20
 
 
  264      3EB98DB0 
@@ -1161,7 +1161,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  268      4110E102 
  268      A3073B88 
  269              		.text
- 270              		.section	.gnu.lto_gptStopTimer.fdb3c48e3cdae2ea,"",%progbits
+ 270              		.section	.gnu.lto_gptStopTimer.8caed59ffdfd1a23,"",%progbits
  271 0000 789C8552 		.ascii	"x\234\205ROh\323`\024\177/Y\332\352\220\355&\212te "
  271      4F68D360 
  271      147F2F59 
@@ -1198,7 +1198,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  277      8F05A7
  278 0082 EEBA6B3B 		.ascii	"\356\272k;\263K\237\360\205pPD\303\213K0\303\330\\\014"
  278      B34B9FF0 
-ARM GAS  /tmp/ccDEaXLj.s 			page 21
+ARM GAS  /tmp/ccO3i0OC.s 			page 21
 
 
  278      85705044 
@@ -1258,7 +1258,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  290 0155 C6FA750C 		.ascii	"\306\372u\014\323\267\370\010\257\004F\321\353z\312"
  290      D3B7F808 
  290      AF0446D1 
-ARM GAS  /tmp/ccDEaXLj.s 			page 22
+ARM GAS  /tmp/ccO3i0OC.s 			page 22
 
 
  290      EB7ACA
@@ -1318,7 +1318,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  302      C9D85376 
  302      779E8334 
  302      6D7A5121 
-ARM GAS  /tmp/ccDEaXLj.s 			page 23
+ARM GAS  /tmp/ccO3i0OC.s 			page 23
 
 
  303 0239 94EF4F24 		.ascii	"\224\357O$\207c\243\212\255\345,\375t\354\370Y\020,"
@@ -1331,7 +1331,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  304      44727F00 
  304      318D04C3 
  305              		.text
- 306              		.section	.gnu.lto_gptStopTimerI.fdb3c48e3cdae2ea,"",%progbits
+ 306              		.section	.gnu.lto_gptStopTimerI.8caed59ffdfd1a23,"",%progbits
  307 0000 789C6362 		.ascii	"x\234cb`b@\007\222@|\024\210\025\200\230\221\231\201"
  307      60624007 
  307      92407C14 
@@ -1378,7 +1378,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  316 00a7 182E3234 		.ascii	"\030.24>x\241\016S\007\001!@5@'\200\314\221\323\323"
  316      3E78A10E 
  316      53070121 
-ARM GAS  /tmp/ccDEaXLj.s 			page 24
+ARM GAS  /tmp/ccO3i0OC.s 			page 24
 
 
  316      40354027 
@@ -1391,7 +1391,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  318      97CC0000 
  318      21223AB6 
  319              		.text
- 320              		.section	.gnu.lto_gptPolledDelay.fdb3c48e3cdae2ea,"",%progbits
+ 320              		.section	.gnu.lto_gptPolledDelay.8caed59ffdfd1a23,"",%progbits
  321 0000 789C6362 		.ascii	"x\234cb`b@\007\222@\314\315\310\300\240\000\244\031"
  321      60624007 
  321      9240CCCD 
@@ -1438,7 +1438,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  330      08643232 
  330      27334294 
  330      02B5A733 
-ARM GAS  /tmp/ccDEaXLj.s 			page 25
+ARM GAS  /tmp/ccO3i0OC.s 			page 25
 
 
  330      B2643202 
@@ -1456,7 +1456,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  333      25330000 
  333      2CA447D2 
  334              		.text
- 335              		.section	.gnu.lto_.symbol_nodes.fdb3c48e3cdae2ea,"",%progbits
+ 335              		.section	.gnu.lto_.symbol_nodes.8caed59ffdfd1a23,"",%progbits
  336 0000 789C4DC7 		.ascii	"x\234M\307;\016\202P\024E\321{\036\362\007\201\3519"
  336      3B0E8250 
  336      1445D17B 
@@ -1498,18 +1498,18 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  344 0091 54BDA37C 		.ascii	"T\275\243|p\\\374._\331\261o\203"
  344      705CFC2E 
  344      5FD9B16F 
-ARM GAS  /tmp/ccDEaXLj.s 			page 26
+ARM GAS  /tmp/ccO3i0OC.s 			page 26
 
 
  344      83
  345              		.text
- 346              		.section	.gnu.lto_.refs.fdb3c48e3cdae2ea,"",%progbits
+ 346              		.section	.gnu.lto_.refs.8caed59ffdfd1a23,"",%progbits
  347 0000 789C6362 		.ascii	"x\234cb`b`d\200\002\000\000F\000\006"
  347      60626064 
  347      80020000 
  347      460006
  348              		.text
- 349              		.section	.gnu.lto_.decls.fdb3c48e3cdae2ea,"",%progbits
+ 349              		.section	.gnu.lto_.decls.8caed59ffdfd1a23,"",%progbits
  350 0000 789CA55A 		.ascii	"x\234\245Z\015pT\325\025\276\367\355\206\354\222\037"
  350      0D7054D5 
  350      15BEF7ED 
@@ -1558,7 +1558,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  360 00ab 186431C8 		.ascii	"\030d1\310\003 n\220*\220_\203<\004\3620F\243>\004W"
  360      03206E90 
  360      2A905F83 
-ARM GAS  /tmp/ccDEaXLj.s 			page 27
+ARM GAS  /tmp/ccO3i0OC.s 			page 27
 
 
  360      3C04F230 
@@ -1618,7 +1618,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  372      40494CC2 
  372      651E5CEF 
  372      056965B0 
-ARM GAS  /tmp/ccDEaXLj.s 			page 28
+ARM GAS  /tmp/ccO3i0OC.s 			page 28
 
 
  373 018b FB3FB9DC 		.ascii	"\373?\271\334\307\3412\337\200\313\317\340\372s\306"
@@ -1678,7 +1678,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  384      2FE369D0 
  384      BE822D5C 
  384      B5
-ARM GAS  /tmp/ccDEaXLj.s 			page 29
+ARM GAS  /tmp/ccO3i0OC.s 			page 29
 
 
  385 0265 29A843EA 		.ascii	")\250C\352\214\307?\\\275\177\334F)\326$\215\214<\201"
@@ -1738,7 +1738,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  396      897D3C88 
  396      1D26F8FF 
  396      1D6A6ECC 
-ARM GAS  /tmp/ccDEaXLj.s 			page 30
+ARM GAS  /tmp/ccO3i0OC.s 			page 30
 
 
  396      6964E2
@@ -1798,7 +1798,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  408 0407 5EF2F142 		.ascii	"^\362\361Bc#\032%\351\000\316J\032]iaV\240\364\222\020"
  408      63231A25 
  408      E900CE4A 
-ARM GAS  /tmp/ccDEaXLj.s 			page 31
+ARM GAS  /tmp/ccO3i0OC.s 			page 31
 
 
  408      1A5D6961 
@@ -1858,7 +1858,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  420 04e1 CC80CD34 		.ascii	"\314\200\3154\362\2541\366\366\303-\342D\324\242\254"
  420      F2AC31F6 
  420      F6C32DE2 
-ARM GAS  /tmp/ccDEaXLj.s 			page 32
+ARM GAS  /tmp/ccO3i0OC.s 			page 32
 
 
  420      44D4A2AC 
@@ -1918,7 +1918,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  432 05bb 6DD70826 		.ascii	"m\327\010&\266m\347\264\333\266]\326t\367Y\216TA\330"
  432      B66DE7B4 
  432      DBB65DD6 
-ARM GAS  /tmp/ccDEaXLj.s 			page 33
+ARM GAS  /tmp/ccO3i0OC.s 			page 33
 
 
  432      74F7598E 
@@ -1978,7 +1978,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  444      87DEEDC2 
  444      EB120F89 
  445 06a1 1AEB1DA6 		.ascii	"\032\353\035\246\012\347#R8\262\327_\310\360\206j\273"
-ARM GAS  /tmp/ccDEaXLj.s 			page 34
+ARM GAS  /tmp/ccO3i0OC.s 			page 34
 
 
  445      0AE72352 
@@ -2038,7 +2038,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  456      75FD2853 
  456      C727F95E 
  456      B5B299
-ARM GAS  /tmp/ccDEaXLj.s 			page 35
+ARM GAS  /tmp/ccO3i0OC.s 			page 35
 
 
  457 0773 FFC054E6 		.ascii	"\377\300T\346{\330\314\033\253\245\312\374\007,\231"
@@ -2098,7 +2098,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  469      E178CF95 
  469      537F78AD 
  469      4B92
-ARM GAS  /tmp/ccDEaXLj.s 			page 36
+ARM GAS  /tmp/ccO3i0OC.s 			page 36
 
 
  470 0848 68913736 		.ascii	"h\22176%\312\374\253Q\311\341\375\264\370\031\373$\235"
@@ -2158,7 +2158,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  481 090c C92A8771 		.ascii	"\311*\207q\362\311N\254=1\303\377\014!\342\2700\315"
  481      F2C94EAC 
  481      3D31C3FF 
-ARM GAS  /tmp/ccDEaXLj.s 			page 37
+ARM GAS  /tmp/ccO3i0OC.s 			page 37
 
 
  481      0C21E2B8 
@@ -2218,7 +2218,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  492      3AD61B
  493 09f3 59D69A57 		.ascii	"Y\326\232W3\326\013\001\265\363Xw\035\035\213u\235\212"
  493      33D60B01 
-ARM GAS  /tmp/ccDEaXLj.s 			page 38
+ARM GAS  /tmp/ccO3i0OC.s 			page 38
 
 
  493      B5F35877 
@@ -2278,7 +2278,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  505 0aca 2C295D3E 		.ascii	",)]>K\205\360\004\002\325\340p\006\365\326\016\003K"
  505      4B85F004 
  505      02D5E070 
-ARM GAS  /tmp/ccDEaXLj.s 			page 39
+ARM GAS  /tmp/ccO3i0OC.s 			page 39
 
 
  505      06F5D60E 
@@ -2338,7 +2338,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  516      72C23D28 
  516      2C2CAC74 
  516      590A89
-ARM GAS  /tmp/ccDEaXLj.s 			page 40
+ARM GAS  /tmp/ccO3i0OC.s 			page 40
 
 
  517 0bad 6669814B 		.ascii	"fi\201K(\227\265f\303\374\007]\026\300'\234\312\227"
@@ -2398,7 +2398,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  528      CFB37C1E 
  528      29083BF9 
  528      938754D3 
-ARM GAS  /tmp/ccDEaXLj.s 			page 41
+ARM GAS  /tmp/ccO3i0OC.s 			page 41
 
 
  528      2C8E
@@ -2433,7 +2433,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  534      FD0FA1B9 
  534      6E47
  535              		.text
- 536              		.section	.gnu.lto_.symtab.fdb3c48e3cdae2ea,"",%progbits
+ 536              		.section	.gnu.lto_.symtab.8caed59ffdfd1a23,"",%progbits
  537 0000 67707449 		.ascii	"gptInit\000\000\000\000\000\000\000\000\000\000\000"
  537      6E697400 
  537      00000000 
@@ -2458,7 +2458,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  541      6F700000 
  541      00000000 
  541      0000
-ARM GAS  /tmp/ccDEaXLj.s 			page 42
+ARM GAS  /tmp/ccO3i0OC.s 			page 42
 
 
  542 005b 00000000 		.ascii	"\000\000\000\000 \001\000\000gptChangeInterval\000\000"
@@ -2518,7 +2518,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  553      00000000 
  553      4C01
  554 015d 00006770 		.ascii	"\000\000gpt_lld_init\000\000\002\000\000\000\000\000"
-ARM GAS  /tmp/ccDEaXLj.s 			page 43
+ARM GAS  /tmp/ccO3i0OC.s 			page 43
 
 
  554      745F6C6C 
@@ -2578,7 +2578,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  567 0066 696F6E73 		.ascii	"ions=16' '-ffunction-sections' '-fdata-sections' '-"
  567      3D313627 
  567      20272D66 
-ARM GAS  /tmp/ccDEaXLj.s 			page 44
+ARM GAS  /tmp/ccO3i0OC.s 			page 44
 
 
  567      66756E63 
@@ -2638,7 +2638,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  614 0006 4360     		str	r3, [r0, #4]
  615 0008 7047     		bx	lr
  616              		.cfi_endproc
-ARM GAS  /tmp/ccDEaXLj.s 			page 45
+ARM GAS  /tmp/ccO3i0OC.s 			page 45
 
 
  617              	.LFE218:
@@ -2698,7 +2698,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  670 000c FFF7FEFF 		bl	gpt_lld_start
  671              	.LVL3:
  672              		.loc 1 91 0
-ARM GAS  /tmp/ccDEaXLj.s 			page 46
+ARM GAS  /tmp/ccO3i0OC.s 			page 46
 
 
  673 0010 0223     		movs	r3, #2
@@ -2758,7 +2758,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  727              	.LBE124:
  728              		.loc 1 102 0
  729 0004 0446     		mov	r4, r0
-ARM GAS  /tmp/ccDEaXLj.s 			page 47
+ARM GAS  /tmp/ccO3i0OC.s 			page 47
 
 
  730              	.LBB133:
@@ -2818,7 +2818,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  784              		.type	gptChangeInterval, %function
  785              	gptChangeInterval:
  786              	.LFB221:
-ARM GAS  /tmp/ccDEaXLj.s 			page 48
+ARM GAS  /tmp/ccO3i0OC.s 			page 48
 
 
  787              		.loc 1 129 0
@@ -2878,7 +2878,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  839              		.p2align 4,,15
  840              		.global	gptStartContinuous
  841              		.thumb
-ARM GAS  /tmp/ccDEaXLj.s 			page 49
+ARM GAS  /tmp/ccO3i0OC.s 			page 49
 
 
  842              		.thumb_func
@@ -2938,7 +2938,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  896              	.LBE162:
  897              	.LBE161:
  898              	.LBE160:
-ARM GAS  /tmp/ccDEaXLj.s 			page 50
+ARM GAS  /tmp/ccO3i0OC.s 			page 50
 
 
  899              	.LBE159:
@@ -2998,7 +2998,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  951              		.loc 2 264 0
  952 0002 2023     		movs	r3, #32
  953              	@ 264 "../../../os/common/ext/CMSIS/include/cmsis_gcc.h" 1
-ARM GAS  /tmp/ccDEaXLj.s 			page 51
+ARM GAS  /tmp/ccO3i0OC.s 			page 51
 
 
  954 0004 83F31188 		MSR basepri, r3
@@ -3058,7 +3058,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  1007              		@ frame_needed = 0, uses_anonymous_args = 0
  1008              		@ link register save eliminated.
  1009              	.LVL19:
-ARM GAS  /tmp/ccDEaXLj.s 			page 52
+ARM GAS  /tmp/ccO3i0OC.s 			page 52
 
 
  1010              		.loc 1 205 0
@@ -3118,7 +3118,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  1063              	.LBE182:
  1064              	.LBB184:
  1065              	.LBB185:
-ARM GAS  /tmp/ccDEaXLj.s 			page 53
+ARM GAS  /tmp/ccO3i0OC.s 			page 53
 
 
  1066              	.LBB186:
@@ -3178,7 +3178,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  1118              	.LFB228:
  1119              		.loc 1 254 0
  1120              		.cfi_startproc
-ARM GAS  /tmp/ccDEaXLj.s 			page 54
+ARM GAS  /tmp/ccO3i0OC.s 			page 54
 
 
  1121              		@ args = 0, pretend = 0, frame = 0
@@ -3238,7 +3238,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  1172 001d 00000000 		.4byte	0
  1173 0021 00000000 		.4byte	.Ldebug_line0
  1174 0025 02       		.uleb128 0x2
-ARM GAS  /tmp/ccDEaXLj.s 			page 55
+ARM GAS  /tmp/ccO3i0OC.s 			page 55
 
 
  1175 0026 04       		.byte	0x4
@@ -3298,7 +3298,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  1229 008c 77010000 		.4byte	.LASF11
  1230 0090 04       		.uleb128 0x4
  1231 0091 2A000000 		.4byte	.LASF12
-ARM GAS  /tmp/ccDEaXLj.s 			page 56
+ARM GAS  /tmp/ccO3i0OC.s 			page 56
 
 
  1232 0095 03       		.byte	0x3
@@ -3358,7 +3358,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  1286 010a 05       		.byte	0x5
  1287 010b 3F       		.byte	0x3f
  1288 010c 10010000 		.4byte	0x110
-ARM GAS  /tmp/ccDEaXLj.s 			page 57
+ARM GAS  /tmp/ccO3i0OC.s 			page 57
 
 
  1289 0110 05       		.uleb128 0x5
@@ -3418,7 +3418,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  1343 017c 06       		.uleb128 0x6
  1344 017d E8060000 		.4byte	.LASF31
  1345 0181 06       		.byte	0x6
-ARM GAS  /tmp/ccDEaXLj.s 			page 58
+ARM GAS  /tmp/ccO3i0OC.s 			page 58
 
 
  1346 0182 B9       		.byte	0xb9
@@ -3478,7 +3478,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  1400 01f3 05       		.byte	0x5
  1401 01f4 44       		.byte	0x44
  1402 01f5 F9010000 		.4byte	0x1f9
-ARM GAS  /tmp/ccDEaXLj.s 			page 59
+ARM GAS  /tmp/ccO3i0OC.s 			page 59
 
 
  1403 01f9 0A       		.uleb128 0xa
@@ -3538,7 +3538,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  1457 0265 6A01     		.2byte	0x16a
  1458 0267 BA020000 		.4byte	0x2ba
  1459 026b 09       		.uleb128 0x9
-ARM GAS  /tmp/ccDEaXLj.s 			page 60
+ARM GAS  /tmp/ccO3i0OC.s 			page 60
 
 
  1460 026c 6D020000 		.4byte	.LASF24
@@ -3598,7 +3598,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  1514 02de 61       		.byte	0x61
  1515 02df E3020000 		.4byte	0x2e3
  1516 02e3 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccDEaXLj.s 			page 61
+ARM GAS  /tmp/ccO3i0OC.s 			page 61
 
 
  1517 02e4 F6040000 		.4byte	.LASF52
@@ -3658,7 +3658,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  1571 0358 33000000 		.4byte	.LASF46
  1572 035c 06       		.byte	0x6
  1573 035d 5801     		.2byte	0x158
-ARM GAS  /tmp/ccDEaXLj.s 			page 62
+ARM GAS  /tmp/ccO3i0OC.s 			page 62
 
 
  1574 035f FF060000 		.4byte	0x6ff
@@ -3718,7 +3718,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  1628 03d2 32030000 		.4byte	0x332
  1629 03d6 1C       		.byte	0x1c
  1630 03d7 08       		.uleb128 0x8
-ARM GAS  /tmp/ccDEaXLj.s 			page 63
+ARM GAS  /tmp/ccO3i0OC.s 			page 63
 
 
  1631 03d8 64626700 		.ascii	"dbg\000"
@@ -3778,7 +3778,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  1685 044c 07       		.uleb128 0x7
  1686 044d 737000   		.ascii	"sp\000"
  1687 0450 07       		.byte	0x7
-ARM GAS  /tmp/ccDEaXLj.s 			page 64
+ARM GAS  /tmp/ccO3i0OC.s 			page 64
 
 
  1688 0451 8A       		.byte	0x8a
@@ -3838,7 +3838,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  1742 04bf 08       		.byte	0x8
  1743 04c0 7301     		.2byte	0x173
  1744 04c2 2A040000 		.4byte	0x42a
-ARM GAS  /tmp/ccDEaXLj.s 			page 65
+ARM GAS  /tmp/ccO3i0OC.s 			page 65
 
 
  1745 04c6 1C       		.byte	0x1c
@@ -3898,7 +3898,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  1799 0535 09       		.byte	0x9
  1800 0536 A801     		.2byte	0x1a8
  1801 0538 05040000 		.4byte	0x405
-ARM GAS  /tmp/ccDEaXLj.s 			page 66
+ARM GAS  /tmp/ccO3i0OC.s 			page 66
 
 
  1802 053c 18       		.byte	0x18
@@ -3958,7 +3958,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  1856 05b1 48       		.byte	0x48
  1857 05b2 09       		.uleb128 0x9
  1858 05b3 74050000 		.4byte	.LASF77
-ARM GAS  /tmp/ccDEaXLj.s 			page 67
+ARM GAS  /tmp/ccO3i0OC.s 			page 67
 
 
  1859 05b7 09       		.byte	0x9
@@ -4018,7 +4018,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  1913 0624 16       		.uleb128 0x16
  1914 0625 23000000 		.4byte	.LASF83
  1915 0629 06       		.byte	0x6
-ARM GAS  /tmp/ccDEaXLj.s 			page 68
+ARM GAS  /tmp/ccO3i0OC.s 			page 68
 
 
  1916 062a D9       		.byte	0xd9
@@ -4078,7 +4078,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  1970 069e 636E7400 		.ascii	"cnt\000"
  1971 06a2 0B       		.byte	0xb
  1972 06a3 37       		.byte	0x37
-ARM GAS  /tmp/ccDEaXLj.s 			page 69
+ARM GAS  /tmp/ccO3i0OC.s 			page 69
 
 
  1973 06a4 EF000000 		.4byte	0xef
@@ -4138,7 +4138,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  2027 0710 34       		.byte	0x34
  2028 0711 B0060000 		.4byte	0x6b0
  2029 0715 0A       		.uleb128 0xa
-ARM GAS  /tmp/ccDEaXLj.s 			page 70
+ARM GAS  /tmp/ccO3i0OC.s 			page 70
 
 
  2030 0716 04       		.byte	0x4
@@ -4198,7 +4198,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  2084 0785 04       		.byte	0x4
  2085 0786 09       		.uleb128 0x9
  2086 0787 18070000 		.4byte	.LASF105
-ARM GAS  /tmp/ccDEaXLj.s 			page 71
+ARM GAS  /tmp/ccO3i0OC.s 			page 71
 
 
  2087 078b 0E       		.byte	0xe
@@ -4258,7 +4258,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  2141 07fe 08       		.uleb128 0x8
  2142 07ff 63723200 		.ascii	"cr2\000"
  2143 0803 0E       		.byte	0xe
-ARM GAS  /tmp/ccDEaXLj.s 			page 72
+ARM GAS  /tmp/ccO3i0OC.s 			page 72
 
 
  2144 0804 ED01     		.2byte	0x1ed
@@ -4318,7 +4318,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  2198 0873 03       		.byte	0x3
  2199 0874 86080000 		.4byte	0x886
  2200 0878 1E       		.uleb128 0x1e
-ARM GAS  /tmp/ccDEaXLj.s 			page 73
+ARM GAS  /tmp/ccO3i0OC.s 			page 73
 
 
  2201 0879 19050000 		.4byte	.LASF123
@@ -4378,7 +4378,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  2255 08f3 26070000 		.4byte	.LASF126
  2256 08f7 01       		.byte	0x1
  2257 08f8 C5       		.byte	0xc5
-ARM GAS  /tmp/ccDEaXLj.s 			page 74
+ARM GAS  /tmp/ccO3i0OC.s 			page 74
 
 
  2258 08f9 01       		.byte	0x1
@@ -4438,7 +4438,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  2312 0977 38       		.byte	0x38
  2313 0978 00000000 		.4byte	.LFB217
  2314 097c 04000000 		.4byte	.LFE217-.LFB217
-ARM GAS  /tmp/ccDEaXLj.s 			page 75
+ARM GAS  /tmp/ccO3i0OC.s 			page 75
 
 
  2315 0980 01       		.uleb128 0x1
@@ -4498,7 +4498,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  2369 09fe 3C0A0000 		.4byte	0xa3c
  2370 0a02 27       		.uleb128 0x27
  2371 0a03 62080000 		.4byte	0x862
-ARM GAS  /tmp/ccDEaXLj.s 			page 76
+ARM GAS  /tmp/ccO3i0OC.s 			page 76
 
 
  2372 0a07 02000000 		.4byte	.LBB109
@@ -4558,7 +4558,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  2426 0a8e 43080000 		.4byte	0x843
  2427 0a92 00       		.byte	0
  2428 0a93 00       		.byte	0
-ARM GAS  /tmp/ccDEaXLj.s 			page 77
+ARM GAS  /tmp/ccO3i0OC.s 			page 77
 
 
  2429 0a94 00       		.byte	0
@@ -4618,7 +4618,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  2483 0b0c ED01     		.2byte	0x1ed
  2484 0b0e 27       		.uleb128 0x27
  2485 0b0f 50080000 		.4byte	0x850
-ARM GAS  /tmp/ccDEaXLj.s 			page 78
+ARM GAS  /tmp/ccO3i0OC.s 			page 78
 
 
  2486 0b13 02000000 		.4byte	.LBB126
@@ -4678,7 +4678,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  2540 0b93 00       		.byte	0
  2541 0b94 2D       		.uleb128 0x2d
  2542 0b95 0E000000 		.4byte	.LVL6
-ARM GAS  /tmp/ccDEaXLj.s 			page 79
+ARM GAS  /tmp/ccO3i0OC.s 			page 79
 
 
  2543 0b99 5A110000 		.4byte	0x115a
@@ -4738,7 +4738,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  2597 0c14 10       		.byte	0x10
  2598 0c15 ED01     		.2byte	0x1ed
  2599 0c17 2A       		.uleb128 0x2a
-ARM GAS  /tmp/ccDEaXLj.s 			page 80
+ARM GAS  /tmp/ccO3i0OC.s 			page 80
 
 
  2600 0c18 50080000 		.4byte	0x850
@@ -4798,7 +4798,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  2654 0c98 00       		.byte	0
  2655 0c99 00       		.byte	0
  2656 0c9a 10       		.uleb128 0x10
-ARM GAS  /tmp/ccDEaXLj.s 			page 81
+ARM GAS  /tmp/ccO3i0OC.s 			page 81
 
 
  2657 0c9b F2060000 		.4byte	0x6f2
@@ -4858,7 +4858,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  2711 0d25 28       		.uleb128 0x28
  2712 0d26 43080000 		.4byte	0x843
  2713 0d2a 20       		.byte	0x20
-ARM GAS  /tmp/ccDEaXLj.s 			page 82
+ARM GAS  /tmp/ccO3i0OC.s 			page 82
 
 
  2714 0d2b 00       		.byte	0
@@ -4918,7 +4918,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  2768 0d9b 2B       		.uleb128 0x2b
  2769 0d9c 10000000 		.4byte	.LBB160
  2770 0da0 08000000 		.4byte	.LBE160-.LBB160
-ARM GAS  /tmp/ccDEaXLj.s 			page 83
+ARM GAS  /tmp/ccO3i0OC.s 			page 83
 
 
  2771 0da4 2C       		.uleb128 0x2c
@@ -4978,7 +4978,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  2825 0e15 50       		.byte	0x50
  2826 0e16 00       		.byte	0
  2827 0e17 00       		.byte	0
-ARM GAS  /tmp/ccDEaXLj.s 			page 84
+ARM GAS  /tmp/ccO3i0OC.s 			page 84
 
 
  2828 0e18 21       		.uleb128 0x21
@@ -5038,7 +5038,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  2882 0e99 F2080000 		.4byte	0x8f2
  2883 0e9d 08000000 		.4byte	.LBB169
  2884 0ea1 08000000 		.4byte	.LBE169-.LBB169
-ARM GAS  /tmp/ccDEaXLj.s 			page 85
+ARM GAS  /tmp/ccO3i0OC.s 			page 85
 
 
  2885 0ea5 01       		.byte	0x1
@@ -5098,7 +5098,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  2939 0f1b 08000000 		.4byte	.LBE174-.LBB174
  2940 0f1f 0F       		.byte	0xf
  2941 0f20 8F01     		.2byte	0x18f
-ARM GAS  /tmp/ccDEaXLj.s 			page 86
+ARM GAS  /tmp/ccO3i0OC.s 			page 86
 
 
  2942 0f22 2A       		.uleb128 0x2a
@@ -5158,7 +5158,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  2996 0f8c 18000000 		.4byte	.LFE226-.LFB226
  2997 0f90 01       		.uleb128 0x1
  2998 0f91 9C       		.byte	0x9c
-ARM GAS  /tmp/ccDEaXLj.s 			page 87
+ARM GAS  /tmp/ccO3i0OC.s 			page 87
 
 
  2999 0f92 88100000 		.4byte	0x1088
@@ -5218,7 +5218,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  3053 101c 2D       		.uleb128 0x2d
  3054 101d 10000000 		.4byte	.LVL23
  3055 1021 83110000 		.4byte	0x1183
-ARM GAS  /tmp/ccDEaXLj.s 			page 88
+ARM GAS  /tmp/ccO3i0OC.s 			page 88
 
 
  3056 1025 2E       		.uleb128 0x2e
@@ -5278,7 +5278,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  3110 1097 BB100000 		.4byte	0x10bb
  3111 109b 30       		.uleb128 0x30
  3112 109c 43090000 		.4byte	0x943
-ARM GAS  /tmp/ccDEaXLj.s 			page 89
+ARM GAS  /tmp/ccO3i0OC.s 			page 89
 
 
  3113 10a0 4B020000 		.4byte	.LLST18
@@ -5338,7 +5338,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  3167 110c 00       		.sleb128 0
  3168 110d 00       		.byte	0
  3169 110e 00       		.byte	0
-ARM GAS  /tmp/ccDEaXLj.s 			page 90
+ARM GAS  /tmp/ccO3i0OC.s 			page 90
 
 
  3170 110f 10       		.uleb128 0x10
@@ -5398,7 +5398,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  3224 1189 7602     		.2byte	0x276
  3225 118b 95110000 		.4byte	0x1195
  3226 118f 0D       		.uleb128 0xd
-ARM GAS  /tmp/ccDEaXLj.s 			page 91
+ARM GAS  /tmp/ccO3i0OC.s 			page 91
 
 
  3227 1190 BD070000 		.4byte	0x7bd
@@ -5458,7 +5458,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  3281 0028 00       		.byte	0
  3282 0029 04       		.uleb128 0x4
  3283 002a 16       		.uleb128 0x16
-ARM GAS  /tmp/ccDEaXLj.s 			page 92
+ARM GAS  /tmp/ccO3i0OC.s 			page 92
 
 
  3284 002b 00       		.byte	0
@@ -5518,7 +5518,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  3338 0061 00       		.byte	0
  3339 0062 00       		.byte	0
  3340 0063 08       		.uleb128 0x8
-ARM GAS  /tmp/ccDEaXLj.s 			page 93
+ARM GAS  /tmp/ccO3i0OC.s 			page 93
 
 
  3341 0064 0D       		.uleb128 0xd
@@ -5578,7 +5578,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  3395 009a 15       		.uleb128 0x15
  3396 009b 01       		.byte	0x1
  3397 009c 27       		.uleb128 0x27
-ARM GAS  /tmp/ccDEaXLj.s 			page 94
+ARM GAS  /tmp/ccO3i0OC.s 			page 94
 
 
  3398 009d 19       		.uleb128 0x19
@@ -5638,7 +5638,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  3452 00d3 13       		.uleb128 0x13
  3453 00d4 00       		.byte	0
  3454 00d5 00       		.byte	0
-ARM GAS  /tmp/ccDEaXLj.s 			page 95
+ARM GAS  /tmp/ccO3i0OC.s 			page 95
 
 
  3455 00d6 13       		.uleb128 0x13
@@ -5698,7 +5698,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  3509 010c 00       		.byte	0
  3510 010d 03       		.uleb128 0x3
  3511 010e 0E       		.uleb128 0xe
-ARM GAS  /tmp/ccDEaXLj.s 			page 96
+ARM GAS  /tmp/ccO3i0OC.s 			page 96
 
 
  3512 010f 3A       		.uleb128 0x3a
@@ -5758,7 +5758,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  3566 0145 1C       		.uleb128 0x1c
  3567 0146 05       		.uleb128 0x5
  3568 0147 00       		.byte	0
-ARM GAS  /tmp/ccDEaXLj.s 			page 97
+ARM GAS  /tmp/ccO3i0OC.s 			page 97
 
 
  3569 0148 03       		.uleb128 0x3
@@ -5818,7 +5818,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  3623 017e 13       		.uleb128 0x13
  3624 017f 00       		.byte	0
  3625 0180 00       		.byte	0
-ARM GAS  /tmp/ccDEaXLj.s 			page 98
+ARM GAS  /tmp/ccO3i0OC.s 			page 98
 
 
  3626 0181 20       		.uleb128 0x20
@@ -5878,7 +5878,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  3680 01bb 3A       		.uleb128 0x3a
  3681 01bc 0B       		.uleb128 0xb
  3682 01bd 3B       		.uleb128 0x3b
-ARM GAS  /tmp/ccDEaXLj.s 			page 99
+ARM GAS  /tmp/ccO3i0OC.s 			page 99
 
 
  3683 01be 0B       		.uleb128 0xb
@@ -5938,7 +5938,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  3737 01f4 13       		.uleb128 0x13
  3738 01f5 52       		.uleb128 0x52
  3739 01f6 01       		.uleb128 0x1
-ARM GAS  /tmp/ccDEaXLj.s 			page 100
+ARM GAS  /tmp/ccO3i0OC.s 			page 100
 
 
  3740 01f7 55       		.uleb128 0x55
@@ -5998,7 +5998,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  3794 022d 12       		.uleb128 0x12
  3795 022e 06       		.uleb128 0x6
  3796 022f 00       		.byte	0
-ARM GAS  /tmp/ccDEaXLj.s 			page 101
+ARM GAS  /tmp/ccO3i0OC.s 			page 101
 
 
  3797 0230 00       		.byte	0
@@ -6058,7 +6058,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  3851 026b 13       		.uleb128 0x13
  3852 026c 11       		.uleb128 0x11
  3853 026d 01       		.uleb128 0x1
-ARM GAS  /tmp/ccDEaXLj.s 			page 102
+ARM GAS  /tmp/ccO3i0OC.s 			page 102
 
 
  3854 026e 12       		.uleb128 0x12
@@ -6118,7 +6118,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  3908 02a8 00       		.byte	0
  3909 02a9 35       		.uleb128 0x35
  3910 02aa 2E       		.uleb128 0x2e
-ARM GAS  /tmp/ccDEaXLj.s 			page 103
+ARM GAS  /tmp/ccO3i0OC.s 			page 103
 
 
  3911 02ab 00       		.byte	0
@@ -6178,7 +6178,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  3965              	.LLST0:
  3966 0000 00000000 		.4byte	.LVL2
  3967 0004 0F000000 		.4byte	.LVL3-1
-ARM GAS  /tmp/ccDEaXLj.s 			page 104
+ARM GAS  /tmp/ccO3i0OC.s 			page 104
 
 
  3968 0008 0100     		.2byte	0x1
@@ -6238,7 +6238,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  4022 0092 F3       		.byte	0xf3
  4023 0093 01       		.uleb128 0x1
  4024 0094 50       		.byte	0x50
-ARM GAS  /tmp/ccDEaXLj.s 			page 105
+ARM GAS  /tmp/ccO3i0OC.s 			page 105
 
 
  4025 0095 9F       		.byte	0x9f
@@ -6298,7 +6298,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  4079 0117 01       		.uleb128 0x1
  4080 0118 50       		.byte	0x50
  4081 0119 9F       		.byte	0x9f
-ARM GAS  /tmp/ccDEaXLj.s 			page 106
+ARM GAS  /tmp/ccO3i0OC.s 			page 106
 
 
  4082 011a 00000000 		.4byte	0
@@ -6358,7 +6358,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  4136 019c 51       		.byte	0x51
  4137 019d 9F       		.byte	0x9f
  4138 019e 00000000 		.4byte	0
-ARM GAS  /tmp/ccDEaXLj.s 			page 107
+ARM GAS  /tmp/ccO3i0OC.s 			page 107
 
 
  4139 01a2 00000000 		.4byte	0
@@ -6418,7 +6418,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  4193 0221 9F       		.byte	0x9f
  4194 0222 00000000 		.4byte	0
  4195 0226 00000000 		.4byte	0
-ARM GAS  /tmp/ccDEaXLj.s 			page 108
+ARM GAS  /tmp/ccO3i0OC.s 			page 108
 
 
  4196              	.LLST17:
@@ -6478,7 +6478,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  4250 0000 74000000 		.4byte	0x74
  4251 0004 0200     		.2byte	0x2
  4252 0006 00000000 		.4byte	.Ldebug_info0
-ARM GAS  /tmp/ccDEaXLj.s 			page 109
+ARM GAS  /tmp/ccO3i0OC.s 			page 109
 
 
  4253 000a 04       		.byte	0x4
@@ -6538,7 +6538,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  4307 0058 00000000 		.4byte	.LFB222
  4308 005c 18000000 		.4byte	.LFE222
  4309 0060 00000000 		.4byte	.LFB223
-ARM GAS  /tmp/ccDEaXLj.s 			page 110
+ARM GAS  /tmp/ccO3i0OC.s 			page 110
 
 
  4310 0064 08000000 		.4byte	.LFE223
@@ -6598,7 +6598,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  4345      64735F71 
  4345      75657565 
  4345      00
-ARM GAS  /tmp/ccDEaXLj.s 			page 111
+ARM GAS  /tmp/ccO3i0OC.s 			page 111
 
 
  4346              	.LASF58:
@@ -6658,7 +6658,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  4371 00eb 43434D52 		.ascii	"CCMR2\000"
  4371      3200
  4372              	.LASF78:
-ARM GAS  /tmp/ccDEaXLj.s 			page 112
+ARM GAS  /tmp/ccO3i0OC.s 			page 112
 
 
  4373 00f1 43434D52 		.ascii	"CCMR3\000"
@@ -6718,7 +6718,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  4402              	.LASF11:
  4403 0177 6C6F6E67 		.ascii	"long long int\000"
  4403      206C6F6E 
-ARM GAS  /tmp/ccDEaXLj.s 			page 113
+ARM GAS  /tmp/ccO3i0OC.s 			page 113
 
 
  4403      6720696E 
@@ -6778,7 +6778,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  4429      74617465 
  4429      5F7400
  4430              	.LASF0:
-ARM GAS  /tmp/ccDEaXLj.s 			page 114
+ARM GAS  /tmp/ccO3i0OC.s 			page 114
 
 
  4431 0215 756E7369 		.ascii	"unsigned int\000"
@@ -6838,7 +6838,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  4457      00
  4458              	.LASF35:
  4459 02a1 6570656E 		.ascii	"epending\000"
-ARM GAS  /tmp/ccDEaXLj.s 			page 115
+ARM GAS  /tmp/ccO3i0OC.s 			page 115
 
 
  4459      64696E67 
@@ -6898,7 +6898,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  4483      00
  4484              	.LASF66:
  4485 033a 73697A65 		.ascii	"sizetype\000"
-ARM GAS  /tmp/ccDEaXLj.s 			page 116
+ARM GAS  /tmp/ccO3i0OC.s 			page 116
 
 
  4485      74797065 
@@ -6958,7 +6958,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  4507      6C6C645F 
  4507      73746172 
  4507      745F7469 
-ARM GAS  /tmp/ccDEaXLj.s 			page 117
+ARM GAS  /tmp/ccO3i0OC.s 			page 117
 
 
  4507      6D657200 
@@ -7018,7 +7018,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  4534 04b2 6C617374 		.ascii	"lasttime\000"
  4534      74696D65 
  4534      00
-ARM GAS  /tmp/ccDEaXLj.s 			page 118
+ARM GAS  /tmp/ccO3i0OC.s 			page 118
 
 
  4535              	.LASF90:
@@ -7078,7 +7078,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  4560      68726561 
  4560      64735F6C 
  4560      69737400 
-ARM GAS  /tmp/ccDEaXLj.s 			page 119
+ARM GAS  /tmp/ccO3i0OC.s 			page 119
 
 
  4561              	.LASF93:
@@ -7138,7 +7138,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  4590      6E7400
  4591              	.LASF38:
  4592 05d1 6D706F6F 		.ascii	"mpool\000"
-ARM GAS  /tmp/ccDEaXLj.s 			page 120
+ARM GAS  /tmp/ccO3i0OC.s 			page 120
 
 
  4592      6C00
@@ -7198,7 +7198,7 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  4614              	.LASF141:
  4615 06d9 67707450 		.ascii	"gptPolledDelay\000"
  4615      6F6C6C65 
-ARM GAS  /tmp/ccDEaXLj.s 			page 121
+ARM GAS  /tmp/ccO3i0OC.s 			page 121
 
 
  4615      6444656C 
@@ -7243,35 +7243,35 @@ ARM GAS  /tmp/ccDEaXLj.s 			page 1
  4635      4900
  4636              		.comm	__gnu_lto_v1,1,1
  4637              		.ident	"GCC: (Sourcery CodeBench Lite 2013.11-24) 4.8.1"
-ARM GAS  /tmp/ccDEaXLj.s 			page 122
+ARM GAS  /tmp/ccO3i0OC.s 			page 122
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 hal_gpt.c
-     /tmp/ccDEaXLj.s:572    .text.gptInit:00000000 $t
-     /tmp/ccDEaXLj.s:578    .text.gptInit:00000000 gptInit
-     /tmp/ccDEaXLj.s:593    .text.gptObjectInit:00000000 $t
-     /tmp/ccDEaXLj.s:599    .text.gptObjectInit:00000000 gptObjectInit
-     /tmp/ccDEaXLj.s:620    .text.gptStart:00000000 $t
-     /tmp/ccDEaXLj.s:626    .text.gptStart:00000000 gptStart
-     /tmp/ccDEaXLj.s:699    .text.gptStop:00000000 $t
-     /tmp/ccDEaXLj.s:705    .text.gptStop:00000000 gptStop
-     /tmp/ccDEaXLj.s:779    .text.gptChangeInterval:00000000 $t
-     /tmp/ccDEaXLj.s:785    .text.gptChangeInterval:00000000 gptChangeInterval
-     /tmp/ccDEaXLj.s:838    .text.gptStartContinuous:00000000 $t
-     /tmp/ccDEaXLj.s:844    .text.gptStartContinuous:00000000 gptStartContinuous
-     /tmp/ccDEaXLj.s:905    .text.gptStartContinuousI:00000000 $t
-     /tmp/ccDEaXLj.s:911    .text.gptStartContinuousI:00000000 gptStartContinuousI
-     /tmp/ccDEaXLj.s:929    .text.gptStartOneShot:00000000 $t
-     /tmp/ccDEaXLj.s:935    .text.gptStartOneShot:00000000 gptStartOneShot
-     /tmp/ccDEaXLj.s:996    .text.gptStartOneShotI:00000000 $t
-     /tmp/ccDEaXLj.s:1002   .text.gptStartOneShotI:00000000 gptStartOneShotI
-     /tmp/ccDEaXLj.s:1020   .text.gptStopTimer:00000000 $t
-     /tmp/ccDEaXLj.s:1026   .text.gptStopTimer:00000000 gptStopTimer
-     /tmp/ccDEaXLj.s:1087   .text.gptStopTimerI:00000000 $t
-     /tmp/ccDEaXLj.s:1093   .text.gptStopTimerI:00000000 gptStopTimerI
-     /tmp/ccDEaXLj.s:1111   .text.gptPolledDelay:00000000 $t
-     /tmp/ccDEaXLj.s:1117   .text.gptPolledDelay:00000000 gptPolledDelay
+     /tmp/ccO3i0OC.s:572    .text.gptInit:00000000 $t
+     /tmp/ccO3i0OC.s:578    .text.gptInit:00000000 gptInit
+     /tmp/ccO3i0OC.s:593    .text.gptObjectInit:00000000 $t
+     /tmp/ccO3i0OC.s:599    .text.gptObjectInit:00000000 gptObjectInit
+     /tmp/ccO3i0OC.s:620    .text.gptStart:00000000 $t
+     /tmp/ccO3i0OC.s:626    .text.gptStart:00000000 gptStart
+     /tmp/ccO3i0OC.s:699    .text.gptStop:00000000 $t
+     /tmp/ccO3i0OC.s:705    .text.gptStop:00000000 gptStop
+     /tmp/ccO3i0OC.s:779    .text.gptChangeInterval:00000000 $t
+     /tmp/ccO3i0OC.s:785    .text.gptChangeInterval:00000000 gptChangeInterval
+     /tmp/ccO3i0OC.s:838    .text.gptStartContinuous:00000000 $t
+     /tmp/ccO3i0OC.s:844    .text.gptStartContinuous:00000000 gptStartContinuous
+     /tmp/ccO3i0OC.s:905    .text.gptStartContinuousI:00000000 $t
+     /tmp/ccO3i0OC.s:911    .text.gptStartContinuousI:00000000 gptStartContinuousI
+     /tmp/ccO3i0OC.s:929    .text.gptStartOneShot:00000000 $t
+     /tmp/ccO3i0OC.s:935    .text.gptStartOneShot:00000000 gptStartOneShot
+     /tmp/ccO3i0OC.s:996    .text.gptStartOneShotI:00000000 $t
+     /tmp/ccO3i0OC.s:1002   .text.gptStartOneShotI:00000000 gptStartOneShotI
+     /tmp/ccO3i0OC.s:1020   .text.gptStopTimer:00000000 $t
+     /tmp/ccO3i0OC.s:1026   .text.gptStopTimer:00000000 gptStopTimer
+     /tmp/ccO3i0OC.s:1087   .text.gptStopTimerI:00000000 $t
+     /tmp/ccO3i0OC.s:1093   .text.gptStopTimerI:00000000 gptStopTimerI
+     /tmp/ccO3i0OC.s:1111   .text.gptPolledDelay:00000000 $t
+     /tmp/ccO3i0OC.s:1117   .text.gptPolledDelay:00000000 gptPolledDelay
                             *COM*:00000001 __gnu_lto_v1
                      .debug_frame:00000010 $d
 
